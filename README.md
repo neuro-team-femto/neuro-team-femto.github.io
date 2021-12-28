@@ -1,20 +1,11 @@
-# Kording lab page
+# Neuro team @ FEMTO-ST lab page
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
-
-## Run the page locally using Jekyll
-
-To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here is a brief install guidelines.
-
-```bash
-sudo gem install jekyll
-sudo gem install rouge
-jekyll serve
-```
+This is the repository for the Neuro team @ FEMTO-ST [lab page](http://neuro-team-femto.github.io). This was forked and adapted from the excellent [Kording lab](http://kordinglab.com) at University of Pennsylvania and, like them, uses [Jekyll](https://jekyllrb.com/) and [Github pages](https://pages.github.com/). The instructions below are adapted from the Kording Lab's original README.  
 
 ## Editing the lab website
 
-Below, we explain how to edit the lab webpage
+Below, we explain how to edit the lab webpage. All members of the neuro-team-femto organization are welcome to clone the repo, issue their own changes, and push to the repo. 
+
 
 ### Add posts
 
@@ -31,7 +22,7 @@ categories: scientists
 
 We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can choose and this will be rendered to different location.
 
-### How to add posts
+#### How to add posts
 
 - **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. 
 
@@ -63,3 +54,18 @@ All publications from the lab are located in `publications.md`. Please upload ne
 ### Add news
 
 All news presented in the front page by editing `_data/news.yml`. There are some symbol that cannot be used directly e.g. `:`, be careful
+
+
+## Run the page locally using Jekyll
+
+When doing changes, you may want to run a local version of the website on your machine to test things are fine before pushing any new changes to the repo. 
+
+To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here is a brief install guidelines.
+
+```bash
+sudo gem install jekyll
+sudo gem install rouge
+sudo gem install webrick
+jekyll serve
+```
+
