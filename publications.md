@@ -9,19 +9,19 @@ permalink: /publication/
 
 [_Distinct signatures of subjective confidence and objective accuracy in speech prosody_](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000809)<br>
 *Louise Goupil* & *JJ Aucouturier*<br>
-Cognition, vol. 212, 104661 (2021) [[article]]({{site.baseurl}}/papers/2021/Goupil_Cognition_2021.pdf) <br>
+Cognition, vol. 212, 104661 (2021) [[article]]({{site.baseurl}}/articles/2021/Goupil_Cognition_2021.pdf) <br>
 
 [_Emergent Shared Intentions Support Coordination During Collective Musical Improvisations_](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12932) <br>
 *Louise Goupil*, Thomas Wolf, Pierre Saint-Germier, *JJ Aucouturier* & Clément Canonne<br>
-Cognitive Science, vol. 45. (2021) [[article]]({{site.baseurl}}/papers/2021/Goupil_Cognitive_Science_2021.pdf) <br>
+Cognitive Science, vol. 45. (2021) [[article]]({{site.baseurl}}/articles/2021/Goupil_Cognitive_Science_2021.pdf) <br>
 
 [_Vocal signals only impact speakers’ own emotions when they are self-attributed_](https://www.sciencedirect.com/science/article/abs/pii/S1053810020305390?dgcid=coauthor)<br>
 *Louise Goupil*, Petter Johansson, Lars Hall & *JJ Aucouturier* <br>
-Consciousness & Cognition, vol. 88, 103072 (2021) [[article]]({{site.baseurl}}/papers/2021/Goupil_Consciousness_Cognition_2021.pdf) <br> 
+Consciousness & Cognition, vol. 88, 103072 (2021) [[article]]({{site.baseurl}}/articles/2021/Goupil_Consciousness_Cognition_2021.pdf) <br> 
 
 [_Listeners perception of certainty and honesty of another speaker is associated with a common prosodic signature_](https://www.nature.com/articles/s41467-020-20649-4)<br>
 *Louise Goupil*, *Emmanuel Ponsot*, Daniel Richardson, Gabriel Reyes & *JJ Aucouturier*<br>
-Nature Communications, vol. 12, 861 (2021) [[article]]({{site.baseurl}}/papers/2021/Goupil_Nature_Communications_2021.pdf) <br>
+Nature Communications, vol. 12, 861 (2021) [[article]]({{site.baseurl}}/articles/2021/Goupil_Nature_Communications_2021.pdf) <br>
 
 
 <!-- Liuni, M., Ardaillon, L., Bonal, L., Seropian, L. & Aucouturier (2020) ANGUS: Real-time manipulation of vocal roughness for emotional speech transformation. arxiv 2008.11214 [html]
