@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "Neuro team @ FEMTO-ST"
+title:              "Neuro team at the Dept of Automation and Robotics, FEMTO-ST Institute"
+description:        "Lab webpage for the Neuro team, a control systems + neurophysiology research lab at the FEMTO-ST Institute, Besançon France"
 
 
 # URL
-url:                http://kordinglab.com
+url:                https://neuro-team-femto.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -30,8 +30,8 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
+#  - name:           "blog"
+#    href:           "/blog"
   - name:           "resources"
     href:           "/resources"
 
