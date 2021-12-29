@@ -128,7 +128,7 @@ Invited Talks
 
 Peut-on créer une société rien qu’avec de la musique ?, Journée Science et Musique (JSM’15), Rennes, France, Septembre 2015
 
--->
+
 
 <hr>
 
@@ -142,7 +142,7 @@ Peut-on créer une société rien qu’avec de la musique ?, Journée Science et
 
 ### 2018
 
-
+-->
 
 <hr>
 

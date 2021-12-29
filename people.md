@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
+{% assign role_array = "faculty|postdoc|phdstudent|visiting|others|alumni" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -18,17 +18,13 @@ permalink: /people/
 <div class="pos_header">
 {% if role == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
- {% elsif role == 'pi' %}
-<h3>Principal Investigator</h3>
- {% elsif role == 'gradstudent' %}
-<h3>Graduate Students</h3>
- {% elsif role == 'researchstaff' %}
-<h3>Research Staff</h3>
+ {% elsif role == 'faculty' %}
+<h3>Permanent staff</h3>
+ {% elsif role == 'phdstudent' %}
+<h3>PhD Students</h3>
  {% elsif role == 'visiting' %}
 <h3>Visiting Scholars</h3>
- {% elsif role == 'others' %}
-<h3>Honorary Members</h3>
- {% elsif role == 'alumni' %}
+ {% elsif role == 'alumni' %} 
 <h3>Alumni</h3>
 {% endif %}
 </div>
@@ -58,7 +54,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Pedro Ribeiro](https://www.linkedin.com/in/pedro-ribeiro/) | Graduate Student (2018 - 2021) | Programmer Analyst at Cedars-Sinai Department of Computational Biomedicine|
+<!--| [Pedro Ribeiro](https://www.linkedin.com/in/pedro-ribeiro/) | Graduate Student (2018 - 2021) | Programmer Analyst at Cedars-Sinai Department of Computational Biomedicine|
 [Nidhi Seethapathi](https://www.seethapathilab.org) | Postdoc (2018 - 2021) | Assistant Professor at MIT from Jan 2022 on |
 | [Ben Lansdell](http://benlansdell.github.io) | Postdoc (2017 - 2020) | Data Scientist at St. Jude Children's Research Hospital |
 | [David Rolnick](http://kordinglab.com/people/david_rolnick/index.html) | Postdoc (2018 - 2020) | [Assistant Professor](http://www.davidrolnick.com), Computer Science, McGill University and Mila |
@@ -114,7 +110,7 @@ permalink: /people/
 | Nicholas Bowman | Rotation Student (Winter 2007) | Senior Data Scientist at IsoPlexis |
 | Taro Kiritani | Rotation Student (Winter 2007) | ExaWizards Inc. in Tokyo |
 | Rashmi Sarnaik | Rotation Student (Winter 2007) | Scientific Editor at Neuron |
-| Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh |
+| Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh |-->
 
 {% endif %}
 {% endfor %}
