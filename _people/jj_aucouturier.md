@@ -3,6 +3,7 @@ name: JJ Aucouturier
 position: faculty
 avatar: jj_aucouturier.jpg
 twitter: jjtokyo
+joined: 2012
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

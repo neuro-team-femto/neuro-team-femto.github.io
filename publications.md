@@ -57,7 +57,7 @@ Nature Communications, vol. 12, 861 (2021)<br>
 
 ### 2020
 
-*Note:*  Articles published before 2020 correspond to work conducted in the [CREAM music neuroscience team](https://cream.ircam.fr) in IRCAM (2012-2020)
+*Note:*  Articles published before 2020 correspond to work conducted in the [CREAM music neuroscience team](https://cream.ircam.fr) in IRCAM (2016-2020). For earlier work on machine learning and audio signal processing, see JJA's [Google Scholar page](https://scholar.google.com/citations?user=jnST06UAAAAJ). 
 
 [_Beyond Correlation: Acoustic Transformation Methods for the Experimental Study of Emotional Voice and Speech_](https://journals.sagepub.com/doi/10.1177/1754073920934544)<br>
 *Pablo Arias*, *Laura Rachman*, Marco Liuni & *JJ Aucouturier* <br>

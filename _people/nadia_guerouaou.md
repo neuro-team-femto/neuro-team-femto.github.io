@@ -3,6 +3,7 @@ name: Nadia Guerouaou
 position: phdstudent
 avatar: nadia_guerouaou.jpg
 twitter: GuerouaouN
+joined: 2020
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

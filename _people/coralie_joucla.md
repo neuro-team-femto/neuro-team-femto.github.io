@@ -2,7 +2,7 @@
 name: Coralie Joucla
 position: postdoc
 avatar: coralie_joucla.jpg
-joined: 2020
+joined: 2021
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
