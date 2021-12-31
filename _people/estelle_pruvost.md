@@ -7,7 +7,7 @@ twitter:
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-_Attending Neurophysiologist, GHU Paris Psychiatrie et Neurosciences (Sainte-Anne), Paris._<br>
+_Attending Neurophysiologist (Cheffe de clinique), GHU Paris Psychiatrie et Neurosciences (Sainte-Anne), Paris._<br>
 _PhD Student, FEMTO Neuro team._ <br>
 
 
