@@ -24,8 +24,8 @@ permalink: /people/
 <h3>PhD Students</h3>
  {% elsif role == 'visiting' %}
 <h3>Visiting Scholars</h3>
- {% elsif role == 'alumni' %} 
-<h3>Alumni</h3>
+<!--  {% elsif role == 'alumni' %} 
+<h3>Alumni</h3> -->
 {% endif %}
 </div>
 
@@ -48,16 +48,19 @@ permalink: /people/
 </div>
 <hr>
 
-{% else %}
+
+{% endif %}
+{% endfor %}
+
+
+<div class="pos_header">
+<h3>Alumni</h3>
+</div>
 
 <br>
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Quentin Decultot](https://www.linkedin.com/in/quentin-décultot-b41b62202) | NEURO team: Master Student (2021) | Continuing studies at ENSMM, Besançon, FR |
-| [Pablo Arias](https://www.ircam.fr/person/pablo-arias-sarah/) | CREAM team: PhD Student (2014 - 2018) | Postdoc (2019 - 2021) in Petter Johansson's lab @ Lund University, SE |
-| [Laura Rachman](https://www.rug.nl/staff/l.rachman/?lang=en) | CREAM team: PhD Student (2014 - 2018) | Postdoc (2019 - 2021) in Deniz Başkent's lab @ University of Groningen, NL |
-| [Louise Goupil](https://www.louisegoupil.co.uk/) | CREAM team: Postdoc (2016 - 2020) | CNRS Researcher (chargé de recherche, 2022~) in LPNC (Université Grenoble Alpes/Université Savoie Mont-Blanc), Grenoble, FR |
-| [Emmanuel Ponsot](https://scholar.google.fr/citations?user=oCd7k9IAAAAJ&hl=fr) | CREAM team: Postdoc (2016 - 2018) | CNRS Researcher (chargé de recherche, 2022~) in STMS Lab (IRCAM/CNRS/Sorbonne Université), Paris, FR
-{% endif %}
-{% endfor %}
+
+Alumni members of the CREAM project (2014-2020) and where they want can be found on the [CREAM]({{site.baseurl}}/cream) history page .  
