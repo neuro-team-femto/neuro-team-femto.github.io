@@ -61,6 +61,6 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Quentin Decultot](https://www.linkedin.com/in/quentin-décultot-b41b62202) | NEURO team: Master Student (2021) | Continuing studies at ENSMM, Besançon, FR |
+| [Quentin Decultot](https://www.linkedin.com/in/quentin-décultot-b41b62202) | Master Student (2021) | Continuing studies at ENSMM, Besançon, FR |
 
-Alumni members of the CREAM project (2014-2020) and where they want can be found on the [CREAM]({{site.baseurl}}/cream) history page .  
+Alumni members of the CREAM team (2014-2020), and where they went next, can be found on the [CREAM]({{site.baseurl}}/cream) history page .  
