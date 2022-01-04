@@ -1,5 +1,5 @@
 ---
-title: Reference
+title: Resources
 permalink: /resources/
 ---
 
@@ -52,6 +52,7 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
     {% endif %}
   {% endfor %}
 </div> -->
+
 
 
 
