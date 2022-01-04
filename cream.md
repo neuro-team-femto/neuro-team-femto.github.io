@@ -175,6 +175,7 @@ Proceedings of the National Academy of Sciences, vol. 113 no. 4, 2016<br>
 | [Thomas Wolf](https://somby.ceu.edu/people/thomas-wolf) | Visiting PhD Student (2018) | Postdoc in Natalie Sebanz's and Günther Knoblich's lab in CEU, Vienna, AU |
 | [Tomoya Nakai](https://bbl-lab.fr/rushmore_teams/tomoya-nakai/) | Visting PhD Student (2015) | JSPS Postdoc in Jérome Prado's lab, Lyon Neuroscience Research Center, FR| 
 | [Andreas Lind](https://www.fil.lu.se/en/person/JOAndreasLind/) | Visiting postdoc (2015-2016) | Visiting Research Fellow, Dept of Cognitive Science, Lund University, SE |
+| [Laurent Lellouch](https://www.linkedin.com/in/laurent-lellouch-ba037a150) | Ingénieur d'étude (2019-2020) | Independant music instructor, Montpellier, FR |
 | [Daniel Bedoya](http://repmus.ircam.fr/bedoya) | Master student (2019) | PhD Student, STMS Lab (IRCAM/CNRS/Sorbonne Université), Paris, FR |
 | [Rosalie Ollivier](https://www.linkedin.com/in/rosalie-ollivier-01666b160/?originalSubdomain=fr)| Master student (2019) | Chargée d'étude de marché, Harris Interactive, Paris FR |
 | [Lou Séropian](https://pam-lyon.cnrs.fr/members/lou-seropian/) | Master student (2018) | PhD Student, Lyon Neuroscience Research Center, FR |
