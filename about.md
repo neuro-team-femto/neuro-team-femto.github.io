@@ -27,7 +27,7 @@ In recent years, inspired by work in data-driven face psychophysics by [Rachael 
 
 Our current focus is to extend these approaches to not only reverse-correlate stimulus features on overt behavioural responses, but also on electrophysiological responses extracted from EEG, EMG and autonomic activity. As an application, we are currently collaborating with intensivists at [GHU Paris Psychiatrie et Neurosciences](https://www.ghu-paris.fr/fr/actualites/sounds4care) to construct individualized sound stimuli that are optimized to measure EEG markers of consciousness in comatose patients. 
 
-For this work, we developped and maintain the open-source reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) - see our [Resources page]({{site.baseurl}}/resources) for details. 
+For this work, we develop and maintain the open-source reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) - see our [Resources page]({{site.baseurl}}/resources) for details. 
 
 #### Closed-loop vocal feedback
 
@@ -35,9 +35,9 @@ Another line of research builds on our recently-introduced "vocal feedback" para
 
 <img class='img-responsive center-block' src="/images/feedback.jpg" width="80%" height="80%" />
 
-Our current focus is to extend this paradigm to "close the loop" and incorporate a feedback controller that is able to adapt the voice transformation to the real-time measure of participant voice. As an application, we are collaborating with psychiatrists at the Lille University Hospital and [Centre National de Resources et de Résilience](http://cn2r.fr) to investigate the use of vocal feedback during exposition therapy in PTSD patients. 
+Our current focus is to extend this paradigm to "close the loop" and incorporate a feedback controller that is able to adapt the voice transformation to the real-time measure of participant voice. As an application, we are currently collaborating with psychiatrists at the Lille University Hospital and [Centre National de Resources et de Résilience](http://cn2r.fr) to investigate the use of vocal feedback during exposition therapy in post-traumatic stress disorder (PTSD) patients. 
 
-For this work, we developped and maintain the open-source vocal feedback software [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y) - see our [Resources page]({{site.baseurl}}/resources) for details. 
+For this work, we develop and maintain the open-source vocal feedback software [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y) - see our [Resources page]({{site.baseurl}}/resources) for details. 
 
 
 
