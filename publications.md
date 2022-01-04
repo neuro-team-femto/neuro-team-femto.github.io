@@ -3,9 +3,15 @@ title: Publication
 permalink: /publication/
 ---
 
+We care about [open science](https://en.wikipedia.org/wiki/Open_science). Because our research is almost entirely publicly funded, and because both our permanent and non-permanent positions are [civil servants and are part of the public sector](https://en.wikipedia.org/wiki/French_National_Centre_for_Scientific_Research), we believe it is a moral commitment to make our results accessible for free at all levels of society. This includes publications (open-access) but also research material, stimuli, data, and software. 
 
+Click on the <img style='display:inline;position: relative;top: 10px' height='20' src='/images/access.jpg'> banners below for direct access to the PDFs of the papers; <br> 
+on <img style='display:inline;position: relative;top: 10px' height='20' src='/images/code.jpg'> for a link to the project's code hosted on the team's [github page](github.com/neuro-team-femto); <br>
+and on <img style='display:inline;position: relative;top: 10px' height='20' src='/images/data.jpg'> for a link to the associated research data (stimuli and results). 
 
+Since 2021, all our research data is doi-indexed in the [Université de Bourgogne Franche-Comté](https://www.ubfc.fr/)'s Open Data portal [Dat@UBFC](https://dataosu.obs-besancon.fr). In addition to resources specific to papers below, we also develop and maintain a number of open-source research software, including reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) and vocal-feedback plateform [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y), which can be found on our [Resources page]({{site.baseurl}}/resources).  
 
+Our overt objective with the following is that 100% of our publications are associated with all three banners. If one is missing for a specific project, there's a good chance that we're working on it - do feel free to request as you need. Again: public money, public science.   
 
 <hr>
 
@@ -47,11 +53,6 @@ Current Biology, vol. 31(19), PR1112-R1114 (2021) <br>
 Cognition, vol. 212, 104661 (2021) <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/access.jpg'>]({{site.baseurl}}/articles/2021/Goupil_Cognition_2021.pdf)
 
-[_Emergent Shared Intentions Support Coordination During Collective Musical Improvisations_](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12932) <br>
-*Louise Goupil*, Thomas Wolf, Pierre Saint-Germier, *JJ Aucouturier* & Clément Canonne<br>
-Cognitive Science, vol. 45. (2021)<br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/access.jpg'>]({{site.baseurl}}/articles/2021/Goupil_Cognitive_Science_2021.pdf)
-
 [_Vocal signals only impact speakers’ own emotions when they are self-attributed_](https://www.sciencedirect.com/science/article/abs/pii/S1053810020305390?dgcid=coauthor)<br>
 *Louise Goupil*, Petter Johansson, Lars Hall & *JJ Aucouturier* <br>
 Consciousness & Cognition, vol. 88, 103072 (2021)<br>
@@ -69,8 +70,6 @@ Nature Communications, vol. 12, 861 (2021)<br>
 
 *Note:*  Articles published before 2020 correspond to work conducted in the [CREAM music neuroscience team](https://cream.ircam.fr) in IRCAM. We list here a selection of publications that are important to our current research. For a complete list of publications on music cognition and vocal emotions from the CREAM team (2016-2020), see the [CREAM archive page]({{site.baseurl}}/cream). For even earlier work on machine learning and audio signal processing, see JJA's [Google Scholar page](https://scholar.google.com/citations?user=jnST06UAAAAJ). 
 
-#### Psychophysical reverse-correlation 
-
 [_CLEESE: An open-source audio-transformation toolbox for data-driven experiments in speech and music cognition_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943)<br>
 *Juan Jose Burred*, *Emmanuel Ponsot*, *Louise Goupil*, *Marco Liuni* & *JJ Aucouturier*<br>
 PLoS one, 14(4), e0205943, 2019<br>
@@ -85,8 +84,6 @@ Proceedings of the National Academy of Sciences, vol 115 (15) 3972-3977, 2018<br
 *Emmanuel Ponsot*, *Pablo Arias* & *JJ Aucouturier*<br>
 Journal of the Acoustical Society of America, vol 143 (1), 2018.<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/access.jpg'>]({{site.baseurl}}/articles/2018/Ponsot_JASA_2018.pdf)
-
-#### Vocal feedback 
 
 [_DAVID: An open-source platform for real-time transformation of infra-segmental emotional cues in running speech_](https://link.springer.com/article/10.3758/s13428-017-0873-y)<br>
 *Laura Rachman*, *Marco Liuni*, *Pablo Arias*, Andreas Lind, Petter Johansson, Lars Hall, Daniel Richardson, Katsumi Watanabe, Stéphanie Dubal & *JJ Aucouturier*<br>
