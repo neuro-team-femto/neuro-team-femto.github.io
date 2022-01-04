@@ -4,7 +4,7 @@ This is the repository for the Neuro team @ FEMTO-ST [lab page](http://neuro-tea
 
 ## Editing the lab website
 
-Below, we explain how to edit the lab webpage. All members of the neuro-team-femto organization are welcome to clone the repo, issue their own changes, and push to the repo. 
+Below, we explain how to edit the lab webpage. All members of the neuro-team-femto organization are welcome to clone the repo, issue their own changes, and push back to the repo. 
 
 
 ### Add posts
@@ -50,10 +50,6 @@ For lab position, you can choose position from 4 classes including `postdoc`, `g
 ### Add new publications
 
 All publications from the lab are located in `publications.md`. Please upload new publication on your own!
-
-### Add news
-
-All news presented in the front page by editing `_data/news.yml`. There are some symbol that cannot be used directly e.g. `:`, be careful
 
 
 ## Run the page locally using Jekyll
