@@ -25,7 +25,7 @@ DAVID (Da Amazing Voice Inflection Device) is a real-time voice transformation t
 
 Technically, DAVID is implemented as an open-source patch for the close-source audio processing plateform Max (Cycling’74), and, like Max, is available for most Windows and MacOS configurations. It is distribted under an open-source MIT Licence. It was originally developped by Marco Liuni ([CREAM]({{site.baseurl}}/cream) team, IRCAM, Paris), in collaboration with [Petter Johansson](https://www.fil.lu.se/en/person/PetterJohansson/) and [Lars Hall](https://www.fil.lu.se/en/person/LarsHall/) at Lund University, and [Katsumi Watanabe](http://www.fennel.sci.waseda.ac.jp/indexe.html) at Waseda. 
 
-<a href="https://git.forum.ircam.fr/haddad/david"><i class="fa fa-github"></i> DAVID Github page</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/neuro-team-femto/david"><i class="fa fa-github"></i> DAVID Github page</a>&nbsp;&nbsp;&nbsp;
 <a href="https://link.springer.com/article/10.3758/s13428-017-0873-y"><i class="fa fa-book"></i> Companion paper</a>&nbsp;&nbsp;&nbsp;
 
 
