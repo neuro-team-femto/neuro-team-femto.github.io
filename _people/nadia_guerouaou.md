@@ -11,7 +11,7 @@ joined: 2020
 _Clinical psychologist, Lille University Hospital._<br>
 _PhD Student, FEMTO Neuro team_._<br>
 
-I am a doctoral student in the FEMTO Neuro Team, the [Perception and Sounds Design] team (https://www.ircam.fr/recherche/equipes-recherche/pds/) (STMS lab/CNRS/Ircam Paris) and [Plasticity and Subjectivity] team (http://lilncog.eu/equipe-psy/) (Lille Neuroscience & Cognition Centre lab/INSERM/CHRU Lille). In parallel to my research activity, I have a degree in Neuropsychology and work as a clinical psychologist at the Regional Consultation of Psychotrauma in the Hauts de France, where I receive patients suffering from Post Traumatic Stress Disorder (PTSD).
+I am a doctoral student in the FEMTO Neuro Team, the [Perception and Sounds Design team](https://www.ircam.fr/recherche/equipes-recherche/pds/) (STMS lab/CNRS/Ircam Paris) and [Plasticity and Subjectivity team](http://lilncog.eu/equipe-psy/) (Lille Neuroscience & Cognition Centre lab/INSERM/CHRU Lille). In parallel to my research activity, I have a degree in Neuropsychology and work as a clinical psychologist at the Regional Consultation of Psychotrauma in the Hauts de France, where I receive patients suffering from Post Traumatic Stress Disorder (PTSD).
 
 My doctoral research work focuses on the voice of PTSD's patients. The first objective is to investigate new acoustic biomarkers in the patients' voice in order to better characterize both the pathology and the healing process associated with imaginative exposure psychotherapy. The second aspect of this doctoral project is the use of voice transformation techniques developed at IRCAM for the purpose of augmented psychotherapy. 
 
