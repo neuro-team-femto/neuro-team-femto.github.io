@@ -8,7 +8,7 @@ joined: 2020
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-_Praticien hospitalo-universitaire, Université de Paris et GHU Paris Psychiatrie et Neurosciences (Sainte-Anne), Paris._<br>
+_Praticien hospitalo-universitaire, Université de Paris & GHU Paris Psychiatrie et Neurosciences._<br>
 _PhD Student, FEMTO Neuro team._ <br>
 
 I am a PhD student in the FEMTO Neuro Team (FEMTO-ST Institute, CNRS/Université de Bourgogne Franche-Comté) and in the [Institut Paris Neurosciences et Psychiatrie](https://ipnp.paris5.inserm.fr/) (IPNP / INSERM/Université de Paris). I am also a neurologist, in the neurophysiology department of [GHU Paris Psychiatrie et Neurosciences](https://www.ghu-paris.fr/en) (Sainte Anne Hospital, Paris) where I practice electroneuromyograms, electroencephalograms and evoked potentials for patients with a variety of neurological conditions (peripheral neuropathy, Epilepsy, Disorders of consciousness; etc.)
