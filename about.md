@@ -5,7 +5,7 @@ permalink: /about/
 
 ### About us
 
-We're an interdisciplinary team of scientists exploring [control-systems](https://en.wikipedia.org/wiki/Control_engineering) approaches to the analysis of human sensory electrophysiology. 
+We're an interdisciplinary team of scientists exploring [control-systems](https://en.wikipedia.org/wiki/Control_theory) approaches to the analysis of human sensory electrophysiology. 
 
 The brain is a real-time dynamical system. Yet, [clinical neurophysiology](https://en.wikipedia.org/wiki/Clinical_neurophysiology) (and, in truth, much of cognitive neuroscience, from [ERPs](https://en.wikipedia.org/wiki/Event-related_potential) to [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)) mostly treats it as a static averaging machine, which behavior is analysed and diagnosed from its averaged response over trials rather than from its real-time, single-trial variance.  
 
