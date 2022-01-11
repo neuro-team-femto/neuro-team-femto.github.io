@@ -13,7 +13,7 @@ _Our vision is to create a control-systems revolution in human clinical neurophy
 
 Our work is both experimental (we collect our own data, using tools borrowed from the fields of [electrophysiology](https://en.wikipedia.org/wiki/Electroencephalography) and [psychophysics](https://en.wikipedia.org/wiki/Psychophysics)) and computational (we build our own software methods to generate experimental stimuli using [signal processing](https://en.wikipedia.org/wiki/Speech_synthesis) and analyse physiological recordings using data-driven [system modeling](https://en.wikipedia.org/wiki/System_identification)). We work both with healthy participants and patients, but our primary focus is to create the next generation of clinical methods in the fields of [neurology](https://en.wikipedia.org/wiki/Neurology) and [psychiatry](https://en.wikipedia.org/wiki/Psychiatry) for pathologies such as coma, stroke, autism spectrum and post-traumatic stress disorders. 
 
-We're based in the [Department of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), in the [FEMTO-ST Institute](https://www.femto-st.fr) (CNRS/Université de Bourgogne Franche-Comté) in Besançon, France. 
+The Femto neuro team is part of the larger *System Data Science* group, a group of 7 faculty working on data-driven analysis, pronostic and health management of natural, industrial and environmental systems (head: Prof. [Jean-Marc Nicod](https://www.femto-st.fr/en/femto-people/jmnicod)), and based in the [Department of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation) of the [FEMTO-ST Institute](https://www.femto-st.fr) (CNRS/Université de Bourgogne Franche-Comté) in Besançon, France. 
 
 ### Research
 

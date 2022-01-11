@@ -10,7 +10,7 @@ header-img: images/post/position/position.jpg
 *Start date:* April 1st, 2022<br>
 
 
-The [Femto Neuro team](https://neuro-team-femto.github.io) is seeking applicants for a fully-funded PhD position (3 years), to be held in the [Departement of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [FEMTO-ST Institute](https://www.femto-st.fr) in Besançon, France.
+The [Femto Neuro team](https://neuro-team-femto.github.io) is seeking applicants for a fully-funded PhD position (3 years), to be held in the _System Data Science_ group, [Departement of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [FEMTO-ST Institute](https://www.femto-st.fr) in Besançon, France.
 
 The position is funded by CNRS, with the generous support of the French [Fondation pour l'Audition](https://www.fondationpourlaudition.org), for a project seeking to improve the diagnosis, prognosis and rehabilitation of hearing disorders in stroke survivors. It provides an exciting opportunity for interdisciplinary research training in data science and system modeling, cognitive neuroscience and health technology.
 
@@ -42,9 +42,9 @@ Ponsot, E., Burred, JJ., Belin, P. & Aucouturier, JJ. (2018) [Cracking the socia
 
 #### The environment
 
-The successful applicant will join the [FEMTO Neuro team](https://neuro-team-femto.github.io/), a small, recently-established interdisciplinary group of scientists (currently 2 PIs, one postdoc, two PhD students) exploring control-systems approaches to the analysis of human sensory electrophysiology, based in the [Department of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [FEMTO-ST Institute](https://www.femto-st.fr) in Besançon, France. 
+The successful applicant will join the [FEMTO Neuro team](https://neuro-team-femto.github.io/), a small, recently-established interdisciplinary group of scientists (currently 2 PIs, one postdoc, two PhD students) exploring control-systems approaches to the analysis of human sensory electrophysiology. The Femto neuro team is part of the larger *System Data Science* group, a group of 7 faculty working on data-driven analysis, pronostic and health management of natural, industrial and environmental systems (head: Prof. [Jean-Marc Nicod](https://www.femto-st.fr/en/femto-people/jmnicod)), and based in the [Department of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [FEMTO-ST Institute](https://www.femto-st.fr) in Besançon, France. 
 
-Work in the Neuro team is both experimental (we collect our own EEG and behavioural data) and computational (we build our own software methods), with a strong focus on clinical applications (see our recent work [here](https://neuro-team-femto.github.io/about)). The team also has a strong focus on open science, and develops and maintains a number of free, open-source [research software](https://neuro-team-femto.github.io/resources/) which are made available for the research community. In Besançon, the PhD candidate will be supervised by Dr Jean-Julien Aucouturier (Directeur de recherche CNRS), and will also have numerous opportunities to interact with clinical collaborators Marie Villain and Lionel Naccache in Paris. 
+Work in the Neuro team is both experimental (we collect our own EEG and behavioural data) and computational (we build our own software methods), with a strong focus on clinical applications (see our recent work [here](https://neuro-team-femto.github.io/about)). The team also has a strong focus on open science, and develops and maintains a number of free, open-source [research software](https://neuro-team-femto.github.io/resources/) which are made available for the research community. In Besançon, the PhD candidate will be supervised by Dr [Jean-Julien Aucouturier](https://neuro-team-femto.github.io/people/jj_aucouturier/) (Directeur de recherche CNRS), and will also have numerous opportunities to interact with clinical collaborators [Marie Villain](https://fondationrechercheaphp.fr/recherche-paramedicale-2/) and [Lionel Naccache](https://institutducerveau-icm.org/en/member/?user=988) in Paris. 
 
 ![Femto](/images/post/position/femto.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;" width="30%"} With more than 750 researchers, the [FEMTO-ST Institute](https://www.femto-st.fr) (CNRS/Université de Bourgogne Franche-Comté) is the region's largest engineering CNRS lab, with expertise covering all fields of system science. The neuro team is based in FEMTO's [Department of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), which hosts about 80 researchers active in the fields of robotics, mechatronics, automatic control and artificial intelligence. <br clear="left"/>
 
@@ -56,7 +56,7 @@ Work in the Neuro team is both experimental (we collect our own EEG and behaviou
 
 #### Applicants
 
-The successful applicant for this position holds a Master of Science (M2 Recherche) with a background either in computational modeling (data science, computer science, control engineering, applied mathematics), or in experimental psychology/neuroscience with strong computational skills (computational neuroscience, psychophysical data modeling) (In other words, do you like that kind of [stuff](https://www.nature.com/articles/s41467-020-20649-4/figures/2) ?). 
+The successful applicant for this position holds a Master of Science (M2 Recherche) with a background either in computational modeling (data science, computer science, control engineering, applied mathematics), or in experimental psychology/neuroscience with strong computational skills (computational neuroscience, psychophysical data modeling). 
 
 The project offers the best training potential for applicants who already have experience analysing experimental data (e.g. behavioural, psychophysical, electrophysiology or brain imaging data) , and have a solid programming background in Python, R or Matlab. The ideal applicant is also likely to have an interest for hearing science, sound perception, language therapy and/or clinical applications in neurology.  
 
@@ -64,7 +64,10 @@ The project offers the best training potential for applicants who already have e
 
 #### How to apply
 
-Send (1) a resume, (2) a cover letter (notably detailing the applicants' experience in data analysis) and (3) the name of 2 academic referees able to provide a recommendation (no reference letters are needed at this stage), to: JJ Aucouturier ([aucouturier@gmail.com](mailto:aucouturier@gmail.com)) & Marie Villain ([marie.villain@aphp.fr](mailto:marie.villain@aphp.fr)). For informal enquiries, also ask JJ Aucouturier ([aucouturier@gmail.com](mailto:aucouturier@gmail.com)).  
+Submit (1) a resume, (2) a cover letter (notably detailing the applicants' experience in data analysis) and (3) the name of 2 academic referees able to provide a recommendation (no reference letters are needed at this stage) on the CNRS employment portal: <br>
+[https://emploi.cnrs.fr/Gestion/Offre/Default.aspx?Ref=UMR6174-XXXX](https://emploi.cnrs.fr/Gestion/Offre/Default.aspx?Ref=UMR6174-XXXX). 
+
+Informal enquiries are welcome by email to JJ Aucouturier ([aucouturier@gmail.com](mailto:aucouturier@gmail.com)) & Marie Villain ([marie.villain@aphp.fr](mailto:marie.villain@aphp.fr)). 
 
 **Deadline: 15 February 2022** <br>
 
