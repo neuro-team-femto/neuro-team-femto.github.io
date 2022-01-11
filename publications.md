@@ -3,15 +3,16 @@ title: Publication
 permalink: /publications/
 ---
 
-We care about [open science](https://en.wikipedia.org/wiki/Open_science). Because our research is almost entirely publicly funded, and because all our permanent and non-permanent positions are [civil servants and are part of the public sector](https://en.wikipedia.org/wiki/French_National_Centre_for_Scientific_Research), we believe it is a moral commitment to make our results accessible for free at all levels of society. This includes publications (open-access) but also research material, stimuli, data, and software. 
+We care about [open science](https://en.wikipedia.org/wiki/Open_science). Because our research is almost entirely publicly funded, and because all our permanent and non-permanent positions are civil servants [part of the public sector](https://en.wikipedia.org/wiki/French_National_Centre_for_Scientific_Research), we believe it is a moral commitment to make our results accessible for free at all levels of society. This includes publications (open-access) but also research material, stimuli, data, and software. 
 
 Click on the <img style='display:inline;position: relative;top: 10px' height='20' src='/images/site_icons/access.jpg'> banners below for direct access to the PDFs of the papers; <br> 
 on <img style='display:inline;position: relative;top: 10px' height='20' src='/images/site_icons/code.jpg'> for a link to the project's code hosted on the team's [github page](github.com/neuro-team-femto); <br>
 and on <img style='display:inline;position: relative;top: 10px' height='20' src='/images/site_icons/data.jpg'> for a link to the associated research data (stimuli and results). 
 
+Our overt objective with the following is that 100% of our publications are associated with all three banners. If one is missing for a specific project, there's a good chance that we're working on it - do feel free to request as you need. 
+
 Since 2021, all our research data is doi-indexed in the [Université de Bourgogne Franche-Comté](https://www.ubfc.fr/)'s Open Data portal [Dat@UBFC](https://dataosu.obs-besancon.fr). In addition to resources specific to papers below, we also develop and maintain a number of open-source research software, including reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) and vocal-feedback plateform [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y), which can be found on our [Resources page]({{site.baseurl}}/resources).  
 
-Our overt objective with the following is that 100% of our publications are associated with all three banners. If one is missing for a specific project, there's a good chance that we're working on it - do feel free to request as you need. Again: public money, public science.   
 
 <hr>
 
