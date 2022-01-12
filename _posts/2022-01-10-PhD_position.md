@@ -56,9 +56,11 @@ Work in the Neuro team is both experimental (we collect our own EEG and behaviou
 
 #### Applicants
 
-The successful applicant for this position holds a Master of Science (M2 Recherche) with a background either in computational modeling (data science, computer science, control engineering, applied mathematics), or in experimental psychology/neuroscience with strong computational skills (computational neuroscience, psychophysical data modeling). 
+The ideal applicant for this position holds a Master of Science (M2 Recherche) with a background either in computational modeling (e.g., data science, computer science, control engineering, applied mathematics) with an interest in neuroscience, or in experimental psychology/neuroscience with an interest in computational methods (e.g., computational neuroscience, psychophysical data modeling). 
 
-The project offers the best training potential for applicants who already have experience analysing experimental data (e.g. behavioural, psychophysical, electrophysiology or brain imaging data) , and have a solid programming background in Python, R or Matlab. The ideal applicant is also likely to have an interest for hearing science, sound perception, language therapy and/or clinical applications in neurology.  
+The project offers the best training potential for applicants who already have experience analysing experimental data (e.g. behavioural, psychophysical, electrophysiology or brain imaging data), and have a solid programming background in Python, R or Matlab. However, more than a formal background, drive is crucial for success in science, and a good number of past lab members (see some of our [alumni](/cream/)) have developed their computational skills only after joining the team. Clinical neurophysiology needs more quantitative scientists, and we also see it as part of our mission to educate the next generation of neuroscience practionners and professors in computational approaches. 
+
+Finally, to fully enjoy this project, the ideal applicant is also likely to have a specific interest for hearing science, sound perception, language therapy and/or clinical applications in neurology. 
 
 <hr>
 
