@@ -67,9 +67,9 @@ Finally, to fully enjoy this project, the ideal applicant is also likely to have
 #### How to apply
 
 Submit (1) a resume, (2) a cover letter (notably detailing the applicants' experience in data analysis) and (3) the name of 2 academic referees able to provide a recommendation (no reference letters are needed at this stage) on the CNRS employment portal: <br>
-[https://emploi.cnrs.fr/Gestion/Offre/Default.aspx?Ref=UMR6174-XXXX](https://emploi.cnrs.fr/Gestion/Offre/Default.aspx?Ref=UMR6174-XXXX). 
+[https://emploi.cnrs.fr/Gestion/Offre/Default.aspx?Ref=UMR6174-JEAAUC-001](https://emploi.cnrs.fr/Gestion/Offre/Default.aspx?Ref=Ref=UMR6174-JEAAUC-001) 
 
-Informal enquiries are welcome by email to JJ Aucouturier ([aucouturier@gmail.com](mailto:aucouturier@gmail.com)) & Marie Villain ([marie.villain@aphp.fr](mailto:marie.villain@aphp.fr)). 
+*Note the URL above will be activated in late Jan 2022.* Until then, informal enquiries are welcome by email to JJ Aucouturier ([aucouturier@gmail.com](mailto:aucouturier@gmail.com)) & Marie Villain ([marie.villain@aphp.fr](mailto:marie.villain@aphp.fr)). 
 
-**Deadline: 15 February 2022** <br>
+**Deadline for application: 15 February 2022** <br>
 
