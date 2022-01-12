@@ -6,7 +6,7 @@ permalink: /cream/
 
 ### History 
 
-The neuro team was established in the FEMTO-ST Institute in Jan. 2021. The team moved from its previous installment as the [CREAM music neuroscience team](http://cream.ircam.fr/) at the [Science and Technology of Music and Sound Lab](https://www.stms-lab.fr/) (STMS, IRCAM/CNRS/Sorbonne Université) in [IRCAM](https://www.ircam.fr/), Paris, France. 
+The neuro team was established in the FEMTO-ST Institute in Jan. 2021. The team moved from its previous installment as the [CREAM music neuroscience team](http://cream.ircam.fr/) (2014-2020) at the [Science and Technology of Music and Sound Lab](https://www.stms-lab.fr/) (STMS, IRCAM/CNRS/Sorbonne Université) in [IRCAM](https://www.ircam.fr/), Paris, France. 
 
 <img class='img-responsive center-block' src="/images/cream/cream.jpg" width="100%" height="100%" />
 
