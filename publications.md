@@ -21,7 +21,7 @@ Since 2021, all our research data is doi-indexed in the [Université de Bourgogn
 [PREPRINT] [_Three simple steps to improve the interpretability of EEG-SVM studies_](https://www.biorxiv.org/content/10.1101/2021.12.14.472588v1)<br>
 *Coralie Joucla*, Damien Gabriel, Juan-Pablo Ortega & Emmanuel Haffen<br>
 BiorXiv 2021.12.14.472588, submitted, 2022 <br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2022/Joucla_biorxiv_2022.pdf)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2022/Joucla_Biorxiv_2022.pdf)
 
 [_It’s not what you say, it’s how you say it: a retrospective study of the impact of prosody on own-name P300 in comatose patients_]()<br>
 *Estelle Pruvost-Robieux*, Nathalie André-Obadia, Angela Marchi, Tarek Sharshar, Marco Liuni, Martine Gavaret & *Jean-Julien Aucouturier*<br>
