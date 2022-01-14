@@ -14,7 +14,7 @@ The [Femto Neuro team](https://neuro-team-femto.github.io) is seeking applicants
 
 The position is funded by CNRS, with the generous support of the French [Fondation pour l'Audition](https://www.fondationpourlaudition.org), for a project seeking to improve the diagnosis, prognosis and rehabilitation of hearing disorders in stroke survivors. It provides an exciting opportunity for interdisciplinary research training in data science and system modeling, cognitive neuroscience and health technology.
 
-The position is based in the FEMTO-ST Institute in Besançon, France, and will be co-supervised by Dr [Jean-Julien Aucouturier](https://neuro-team-femto.github.io/people/jj_aucouturier/) (FEMTO-ST, Besançon), Dr [Marie Villain](https://fondationrechercheaphp.fr/recherche-paramedicale-2/) and Prof. [Lionel Naccache](https://institutducerveau-icm.org/en/member/?user=988) ([Brain & Spine Institute](https://institutducerveau-icm.org), Hôpital Salpêtrière, Paris). 
+The position is based in the FEMTO-ST Institute in Besançon, France, and will be co-supervised by Dr [Jean-Julien Aucouturier](https://neuro-team-femto.github.io/people/jj_aucouturier/) (FEMTO-ST, Besançon) and Dr [Marie Villain](https://fondationrechercheaphp.fr/recherche-paramedicale-2/), in collaboration with Prof. [Lionel Naccache](https://institutducerveau-icm.org/en/member/?user=988) ([Brain & Spine Institute](https://institutducerveau-icm.org), Hôpital Salpêtrière, Paris). 
 
 <hr>
 
