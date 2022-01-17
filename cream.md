@@ -6,7 +6,7 @@ permalink: /cream/
 
 ### History 
 
-The neuro team was established in the FEMTO-ST Institute in Jan. 2021. The team moved from its previous installment as the [CREAM music neuroscience team](http://cream.ircam.fr/) (2014-2020) at the [Science and Technology of Music and Sound Lab](https://www.stms-lab.fr/) (STMS, IRCAM/CNRS/Sorbonne Université) in [IRCAM](https://www.ircam.fr/), Paris, France. 
+The neuro group was established in the FEMTO-ST Institute in Jan. 2021. The group moved from its previous installment as the [CREAM music neuroscience team](http://cream.ircam.fr/) (2014-2020) at the [Science and Technology of Music and Sound Lab](https://www.stms-lab.fr/) (STMS, IRCAM/CNRS/Sorbonne Université) in [IRCAM](https://www.ircam.fr/), Paris, France. 
 
 <img class='img-responsive center-block' src="/images/cream/cream.jpg" width="100%" height="100%" />
 
@@ -21,7 +21,7 @@ Over the course of the project (2014-2020), the CREAM team employed more than 15
 
 [<img class='img-responsive center-block' src="/images/cream/cnrs_le_journal_2.jpg" width="70%" height="70%" />](https://lejournal.cnrs.fr/videos/dis-moi-bonjour-et-je-te-dirai-qui-tu-es)
 
-The CREAM team/project ended in December 2020. This page archives the team's key publications, team members and where each of these people went. The legacy of the CREAM team continues at the FEMTO-ST Neuro team, which was established in the FEMTO-ST Institute in Jan. 2021 on the basis of some of project CREAM's key findings in [psychophysical reverse-correlation](https://www.pnas.org/content/115/15/3972) and [vocal feedback](https://www.pnas.org/content/113/4/948).
+The CREAM team/project ended in December 2020. This page archives the team's key publications, team members and where each of these people went. The legacy of the CREAM team continues at the FEMTO-ST Neuro group, which was established in the FEMTO-ST Institute in Jan. 2021 on the basis of some of project CREAM's key findings in [psychophysical reverse-correlation](https://www.pnas.org/content/115/15/3972) and [vocal feedback](https://www.pnas.org/content/113/4/948).
 
 <!-- For a lighter viewing, French director [Mailys Audouze](http://www.film-documentaire.fr/4DACTION/w_liste_generique/C_94670_F2)'s 50-min documentary _Cracking my Emotional Code_, premiered at IRCAM in December 2021, followed the team over its 6 years of existence, and gives a rather unique, behind-the-scene glance into how such research was made. -->
 
