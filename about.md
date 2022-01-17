@@ -48,11 +48,6 @@ The neuro group was established in the FEMTO-ST Institute in Jan. 2021. The grou
 
 [This page]({{site.baseurl}}/cream) archives the CREAM team’s key publications, team members and where each of these people went. 
 
-<!--
+### Credits
 
-### Lab Members
-
-
-### Lab Culture
--->
-
+Finally, credit were due: the code for this website is an open-source repo on our [github page](https://github.com/neuro-team-femto/neuro-team-femto.github.io). This is a trick we learned (and forked!) from the faultless [KordingLab](http://kordinglab.com) and their own excellent lab website at the University of Pennsylvania. Many thanks, and yeah for #opensource #openscience. In turn, we [welcome](https://github.com/neuro-team-femto/neuro-team-femto.github.io/blob/main/LICENSE) everyone to fork and adapt this site for their own work. 
