@@ -10,17 +10,23 @@ joined: 2021
 _Postdoctoral fellow, FEMTO-ST Institute & IRCAM_<br>
 
 <i class="fa fa-envelope-o"></i> `coralie.joucla.pro@gmail.com` <br>
-<!-- <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=jnST06UAAAAJ) <br>
-<i class="fa fa-github" /> [Github](https://github.com/jjau) <br>
-<i class="fa fa-twitter" /> [Twitter](https://twitter.com/jjtokyo) <br> -->
+<!-- <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=jnST06UAAAAJ) <br> -->
+<i class="fa fa-github" /> [Github](https://github.com/CoraJou) <br>
+<!--<i class="fa fa-twitter" /> [Twitter](https://twitter.com/jjtokyo) <br> -->
 
 
-<!-- ### Bio 
+**Office**<br>
+Département AS2M, Institut FEMTO-ST <br>
+ENSMM, 26 rue de l'Epitaphe
+25000 Besançon, France
 
-My undergrad was at Dartmouth College, where I mostly did Computer Science and Engineering, but sparked an interest in the connection between AI and neuroscience. This led me in 2014 to a PhD program in Computer Science at the University of Rochester, where I quickly discovered that making "brain inspired AI" means first understanding "brains." I transferred to the Brain and Cognitive Science department in 2015, where I did my main PhD work on Bayesian Inference in low-level visual perception, graduating in fall 2020. 
+I am a post-doctoral researcher in the FEMTO Neuro Group at the [FEMTO-ST Institute](https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation) (CNRS/Université de Bourgogne Franche-Comté) and at the [Perception and Sounds Design team](https://www.ircam.fr/recherche/equipes-recherche/pds/) (STMS lab/CNRS/Ircam Paris).
 
-### Research Interests
+After a master’s degree in Neuroscience, Physiology and Behaviour, I defended my PhD thesis at the University of Bourgogne Franche-Comté under the supervision of [Pr. Emmanuel Haffen](https://www.researchgate.net/profile/Emmanuel-Haffen) (psychiatrist, CHU and INSERM-CIC Besançon), [Dr. Damien Gabriel](http://gabrieldamien.free.fr/) (EEG specialist, INSERM-CIC Besançon) and [Pr. Juan-Pablo Ortega](https://juan-pablo-ortega.com/) (mathematician, University of St. Gallen, Switzerland), with collaboration with [Dr. Lyudmila Grigoryeva](https://scholar.google.fr/citations?user=svYRWEMAAAAJ&hl=fr) (University of Konstanz, Germany).
 
-Everyone keeps talking about optimal Bayesian brains (myself included). What does this really mean? How far can this metaphor take us? When, why, and how do optimal agents use probability to reason about the world? And, finally, what can all of this really tell us about the brain? 
+I work in interdisciplinarity between neuroscience, neuropsychiatry, EEG, programming, machine learning and data-driven methods. The goal of this line is to gain insights that can ultimately be used to enhance diagnosis. Even though I was mainly trained as a clinical electrophysiologist, I acquired in a short period all the programming background necessary to successfully tackle this kind of problem.
 
--->
+EEG is a common feature in the clinical exploration of brain pathologies, such as sleep, coma or Alzheimer’s disease among others. However, drawing conclusions for individual subjects remains, in most cases, a difficult challenge that shows the limits of presently available information processing techniques. These limitations call for the development of appropriate analysis methods, such as reverse-correlation, that are capable of revealing the stylized features of the neural signal of interest despite the noise in which it is embedded.
+
+My research in this area led to highlighting, through a [systematic review](https://www.biorxiv.org/content/10.1101/2021.12.14.472588v1) of the literature, systemic reproducibility flaws in studies applying SVM to EEG signal. I am therefore very attached to the possibility of respectfully question the results obtained in the laboratory as well as in the literature.
+
