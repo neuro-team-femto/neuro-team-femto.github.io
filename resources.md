@@ -3,6 +3,13 @@ title: Resources
 permalink: /resources/
 ---
 
+### Café neuro
+
+Every Thursday 1:30pm-2:30pm (CET), we get together (mix of virtual and in-person) for coffee, cake and a short talk, in a format inspired by Kording lab's ["Lab Teachings"](http://kordinglab.com/2021/01/01/upcoming-lab-teaching.html). On a rotating basis, each member of the lab speaks and teaches about something they know. This can be anything: relevant and interesting topics, good skills to know, nice Python packages, an interesting paper they read and want to share... whatever!
+
+[List of upcoming topics]({{site.baseurl}}/2022/01/25/Upcoming_neuro_cafe.html). 
+
+
 ### Software
 
 In addition to code that is specific to each of [our papers]({{site.baseurl}}/publications/), we also develop and maintain a number of free, open-source research software which we make available for the research community.
