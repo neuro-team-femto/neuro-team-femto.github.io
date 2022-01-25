@@ -11,12 +11,12 @@ Topics are listed here for the upcoming term, and reminders are sent on the grou
 
 | Date | Name | Topic | Materials |
 |------|------|-------| -------- |
-| Jan. 13 | JJ | How to push changes to the group website | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_01_13_Github.pdf) |
+| Jan. 13 | JJA | How to push changes to the group website | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_01_13_Github.pdf) |
 | Jan. 20 | Nadia | The ethics of deep-fakes ([talk at 15:30](https://events.femto-st.fr/Conference_Infodemie/fr/programme)) |
 | Jan. 27 | TBD |  |  |
 | Feb. 3 | - | (Coralie away) |
 | Feb. 10 | - | (Coralie away) |
-| Feb. 17 | TBD |  |
+| Feb. 17 | Guillaume | Overview of the code to run revcor online |
 | Feb. 24 | TBD |  |
 | Mar. 3 | Etienne Thoret (ICLB) | TBA  |   
 | Mar. 10 | TBD |  |  |
