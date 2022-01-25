@@ -9,10 +9,11 @@ Every Thursday 1:30pm-2:30pm (CET), we get together (mix of virtual and in-perso
 
 [List of upcoming topics]({{site.baseurl}}/2022/01/25/Upcoming_neuro_cafe.html). 
 
+<hr>
 
 ### Software
 
-In addition to code that is specific to each of [our papers]({{site.baseurl}}/publications/), we also develop and maintain a number of free, open-source research software which we make available for the research community.
+In addition to data and code that is specific to each of [our papers]({{site.baseurl}}/publications/), we develop and maintain a number of free, open-source research software which we make available for the research community.
 
 #### CLEESE (Reverse-correlation)
 
