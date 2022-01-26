@@ -20,7 +20,7 @@ Topics are listed here for the upcoming term, and reminders are sent on the grou
 | Feb. 24 | TBD |  |
 | Mar. 3 | Etienne Thoret (ICLB) | TBA  |   
 | Mar. 10 | Nadia | Quelques notions de philosophie autour de la question de l augmentation |  |
-| Mar. 17 | TBD |  |  |
+| Mar. 17 | Coralie | Production de la voix, intégration cérébrale du langage, parole et émotions  |  |
 | Mar. 24 | TBD |  |  | 
 | Mar. 31 | TBD |  |  | 
 | Apr. 7 | TBD |  |  |
