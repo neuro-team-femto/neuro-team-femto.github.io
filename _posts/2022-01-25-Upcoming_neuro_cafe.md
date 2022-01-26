@@ -13,7 +13,7 @@ Topics are listed here for the upcoming term, and reminders are sent on the grou
 |------|------|-------| -------- |
 | Jan. 13 | JJA | How to push changes to the group website | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_01_13_Github.pdf) |
 | Jan. 20 | Nadia | The ethics of deep-fakes ([talk at 15:30](https://events.femto-st.fr/Conference_Infodemie/fr/programme)) |
-| Jan. 27 | TBD |  |  |
+| Jan. 27 | Estelle | Examens neurophysio réalisés au lit du patient en réa : lesquels et pourquoi? |  |
 | Feb. 3 | - | (Coralie away) |
 | Feb. 10 | - | (Coralie away) |
 | Feb. 17 | Guillaume | Overview of the code to run revcor online |
