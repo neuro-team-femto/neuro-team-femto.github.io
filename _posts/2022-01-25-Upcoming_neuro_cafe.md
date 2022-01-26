@@ -19,7 +19,7 @@ Topics are listed here for the upcoming term, and reminders are sent on the grou
 | Feb. 17 | Guillaume | Overview of the code to run revcor online |
 | Feb. 24 | TBD |  |
 | Mar. 3 | Etienne Thoret (ICLB) | TBA  |   
-| Mar. 10 | TBD |  |  |
+| Mar. 10 | TBD | Nadia | Quelques notions de philosophie autour de la question de l augmentation |
 | Mar. 17 | TBD |  |  |
 | Mar. 24 | TBD |  |  | 
 | Mar. 31 | TBD |  |  | 
