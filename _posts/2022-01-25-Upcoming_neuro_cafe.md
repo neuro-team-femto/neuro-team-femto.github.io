@@ -3,9 +3,14 @@ title: Upcoming Café Neuro
 categories: lab
 ---
 
-Every Thursdays (13:30-14:30), we get together (mix of virtual and in-person) for coffee, cake and a short talk, in a format inspired by Kording lab's ["Lab Teachings"](http://kordinglab.com/2021/01/01/upcoming-lab-teaching.html). On a rotating basis, each member of the lab speaks and teaches about something they know. Anything, really. Relevant and interesting topics, good skills to know, nice Python packages, an interesting paper they read and want to share... whatever! 
+<img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/post/cafe_neuro/Caffè_Neuro.jpg'> 
 
-Topics are listed here for the upcoming term, and reminders are sent on the group's Slack workspace. 
+Every Thursdays (13:30-14:30), we get together (mix of virtual and in-person) for coffee, cake and a short talk, in a format inspired by Kording lab's ["Lab Teachings"](http://kordinglab.com/2021/01/01/upcoming-lab-teaching.html). 
+
+On a rotating basis, each member of the lab speaks and teaches about something they know. Anything, really. Relevant and interesting topics, good skills to know, nice Python packages, an interesting paper they read and want to share... whatever! 
+
+<br style="clear:both" />
+Topics are listed here for the upcoming term. 
 
 ### Spring 2022
 
