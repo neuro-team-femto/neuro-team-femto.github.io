@@ -26,8 +26,8 @@ Topics are listed here for the upcoming term.
 | Mar. 3 | Etienne Thoret (ICLB) | TBA  |   
 | Mar. 10 | Nadia | Quelques notions de philosophie autour de la question de l augmentation |  |
 | Mar. 17 | Coralie | Production de la voix, intégration cérébrale du langage, parole et émotions  |  |
-| Mar. 24 | Sarah | Crainstem dysfunction in critically ill patient |  | 
-| Mar. 31 | TBD |  |  | 
+| Mar. 24 | Sarah | Brainstem dysfunction in critically ill patient |  | 
+| Mar. 31 | Estelle | Stéréoencéphalographie :  pourquoi? pour qui? comment? |  | 
 | Apr. 7 | TBD |  |  |
 | Apr. 14 | TBD |  |  |
 | Apr. 21 |  | School holidays |  | 
