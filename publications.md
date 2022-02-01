@@ -23,7 +23,7 @@ Since 2021, all our research data is doi-indexed in the [Université de Bourgogn
 BiorXiv 2021.12.14.472588, submitted, 2022 <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2022/Joucla_Biorxiv_2022.pdf)
 
-[_It’s not what you say, it’s how you say it: a retrospective study of the impact of prosody on own-name P300 in comatose patients_]()<br>
+[_It’s not what you say, it’s how you say it: a retrospective study of the impact of prosody on own-name P300 in comatose patients_](https://www.sciencedirect.com/science/article/pii/S1388245722000128?via%3Dihub)<br>
 *Estelle Pruvost-Robieux*, Nathalie André-Obadia, Angela Marchi, Tarek Sharshar, Marco Liuni, Martine Gavaret & *Jean-Julien Aucouturier*<br>
 Clinical Neurophysiology, in press, 2022 <br>
 
