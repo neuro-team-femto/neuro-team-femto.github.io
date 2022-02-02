@@ -28,12 +28,12 @@ Topics are listed here for the upcoming term.
 | Mar. 17 | Coralie | Production de la voix, intégration cérébrale du langage, parole et émotions Partie 1  |  |
 | Mar. 24 | Sarah | Brainstem dysfunction in critically ill patient |  | 
 | Mar. 31 | Estelle | Stéréoencéphalographie :  pourquoi? pour qui? comment? |  | 
-| Apr. 7 | TBD |  |  |
+| Apr. 7 | Patrick | TBD |  |
 | Apr. 14 | TBD |  |  |
 | Apr. 21 |  | School holidays |  | 
 | Apr. 28 |  | School holidays |  | 
 | May 5 | Coralie | Production de la voix, intégration cérébrale du langage, parole et émotions Partie 2 |  | 
 | May 12 | TBD |  |  |
-| May 19 | TBD |  |  |
+| May 19 | Patrick | TBD |  |
 | May 26 | TBD |  |  |
 
