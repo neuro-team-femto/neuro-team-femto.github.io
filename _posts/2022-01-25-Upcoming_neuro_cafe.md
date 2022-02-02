@@ -22,7 +22,7 @@ Topics are listed here for the upcoming term.
 | Feb. 3 | Sarah | Introduction à la lecture ECG et au système nerveux autonome |
 | Feb. 10 | TBD | (Coralie away) |
 | Feb. 17 | TBD | (JJ away) |
-| Feb. 24 | Guillaume (TBC) | Overview of the code to run revcor online |
+| Feb. 24 | Guillaume | Overview of the code to run revcor online |
 | Mar. 3 | Etienne Thoret (ICLB) | Interprétabilité de SVMs par reverse-correlation  |   
 | Mar. 10 | Nadia | Quelques notions de philosophie autour de la question de l augmentation |  |
 | Mar. 17 | Coralie | Production de la voix, intégration cérébrale du langage, parole et émotions Partie 1  |  |
