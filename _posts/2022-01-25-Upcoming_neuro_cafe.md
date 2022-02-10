@@ -20,7 +20,7 @@ Topics are listed here for the upcoming term.
 | Jan. 20 | Nadia | The ethics of deep-fakes ([talk at 15:30](https://events.femto-st.fr/Conference_Infodemie/fr/programme)) | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_01_20_Ethics.pdf)|
 | Jan. 27 | Estelle | Examens neurophysio réalisés au lit du patient en réa : lesquels et pourquoi? | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_01_27_neurophysio.pdf)  |
 | Feb. 3 | Sarah | Introduction à la lecture ECG et au système nerveux autonome |
-| Feb. 10 | TBD | (Coralie away) |
+| Feb. 10 | Nadia | Brainstorming sur voix / coeur | [(Galvez-Pol et al, 2020)](https://psyarxiv.com/7f9pq/)| 
 | Feb. 17 | TBD | (JJ away) |
 | Feb. 24 | Guillaume | Overview of the code to run revcor online |
 | Mar. 3 | Etienne Thoret (ICLB) | Interprétabilité de SVMs par reverse-correlation  |   
