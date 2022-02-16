@@ -6,9 +6,13 @@ header-img: images/post/position/position.jpg
 
 ### Stage de M2: Conception et test d'un système de contrôle boucle-fermée de la voix humaine, en LabView
 
-*Deadline pour la candidature:* 15 Février 2022 <br>
+<hr>
+<font color='red'> <b> Les candidatures pour ce stage sont closes. </b> </font> 
+<hr>
+
+<!-- *Deadline pour la candidature:* 15 Février 2022 <br>
 *Start date:* Mars ou Avril 2022 <br>
-*Durée:* 4-5 mois<br>
+*Durée:* 4-5 mois<br>-->
 
 Le groupe [Neuro](https://neuro-team-femto.github.io) du Département d'[Automatique et Systèmes Micro-Mécatroniques](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [Institut FEMTO-ST](https://www.femto-st.fr) à Besançon, France, propose un stage de recherche de type M2 Recherche / Ecole d'ingénieur.e.s à l'intersection de l'automatique, du traitement du signal vocal et des sciences cognitives.  
 
@@ -76,5 +80,9 @@ Le ou la candidat.e idéal.e pour ce stage est un.e étudiant.e en M2 Recherche 
 
 Envoyer (1) un CV, (2) une lettre de motivation (expliquant notamment vos expériences de programmation et d'analyse de données) et (3) le nom de 1 référent académique à même de vous recommander (pas besoin de lettre de recommandation au moment de la candidature) par email à [Patrick Nectoux](https://www.femto-st.fr/en/femto-people/patricknectoux) et Jean-Julien Aucouturier ([aucouturier@gmail.com](mailto:aucouturier@gmail.com)). <br>
 
-**Deadline: 15 Février 2022** <br>
+<!-- **Deadline: 15 Février 2022** <br> -->
+<hr>
+<font color='red'> <b> Les candidatures pour ce stage sont closes. </b> </font> 
+<hr>
+
 

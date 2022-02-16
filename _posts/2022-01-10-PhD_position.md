@@ -6,8 +6,13 @@ header-img: images/post/position/position.jpg
 
 ### PhD position: Data-driven methods for the diagnosis and prognosis of speech perception deficits in brain stroke
 
-*Application deadline:* Feb 15th, 2022 <br>
-*Start date:* April 1st, 2022<br>
+<!-- *Application deadline:* Feb 15th, 2022 <br>
+*Start date:* April 1st, 2022<br> -->
+
+<hr>
+<font color='red'> <b> Applications for the position are closed. </b> </font> 
+<hr>
+
 
 
 The [Femto Neuro group](https://neuro-team-femto.github.io) is seeking applicants for a fully-funded PhD position (3 years), to be held in the _System Data Science_ group, [Departement of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [FEMTO-ST Institute](https://www.femto-st.fr) in Besançon, France.
@@ -71,5 +76,10 @@ Submit (1) a resume, (2) a cover letter (notably detailing the applicants' exper
 
 If you have questions, informal enquiries are also welcome by email to JJ Aucouturier ([aucouturier@gmail.com](mailto:aucouturier@gmail.com)) & Marie Villain ([marie.villain@aphp.fr](mailto:marie.villain@aphp.fr)). 
 
-**Deadline for application: 15 February 2022** <br>
+<!-- **Deadline for application: 15 February 2022** <br> -->
+
+<hr>
+<font color='red'> <b> Applications for the position are closed. </b> </font> 
+<hr>
+
 
