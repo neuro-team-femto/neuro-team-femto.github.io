@@ -29,7 +29,7 @@ Topics are listed here for the upcoming term.
 | Mar. 24 | Sarah | Brainstem dysfunction in critically ill patient |  | 
 | Mar. 31 | Estelle | Stéréoencéphalographie :  pourquoi? pour qui? comment? |  | 
 | Apr. 7 | Patrick | TBD |  |
-| Apr. 14 | Coralie | Production de la voix, intégration cérébrale du langage, parole et émotions Partie 1 |  |
+| Apr. 14 | TBD | |  |
 | Apr. 21 |  | School holidays |  | 
 | Apr. 28 |  | School holidays |  | 
 | May 5 | TBD |  |  | 
