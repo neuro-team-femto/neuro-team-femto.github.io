@@ -11,6 +11,11 @@ joined: 2020
 _Clinical psychologist, Lille University Hospital._<br>
 _PhD Student, FEMTO Neuro group._<br>
 
+<i class="fa fa-envelope-o"></i> `nadia.guerouaou@chru-lille.fr` <br>
+<i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=uFIXgbkAAAAJ) <br> 
+<i class="fa fa-twitter" /> [Twitter](https://twitter.com/{{page.twitter}}) <br>
+
+
 I am a doctoral student in the FEMTO Neuro Group, the [Perception and Sounds Design team](https://www.ircam.fr/recherche/equipes-recherche/pds/) (STMS lab/CNRS/Ircam Paris) and [Plasticity and Subjectivity team](http://lilncog.eu/equipe-psy/) (Lille Neuroscience & Cognition Centre lab/INSERM/CHRU Lille). In parallel to my research activity, I have a degree in Neuropsychology and work as a clinical psychologist at the Regional Consultation of Psychotrauma in the Hauts de France, where I attend patients suffering from Post Traumatic Stress Disorders (PTSD).
 
 My doctoral research work focuses on the voice of PTSD patients. The first objective is to investigate new acoustic biomarkers in the patients' voice in order to better characterize both the pathology and the healing process associated with imaginative exposure psychotherapy. The second aspect of this doctoral project is the use of the vocal feedback paradigm developed by the NEURO team for the purpose of augmented psychotherapy. 
@@ -19,7 +24,4 @@ Besides, I am also interested in Neuroethics, a discipline I teach to Psychology
 
 PhD thesis co-supervised by Pr Guillaume Vaiva and Dr Jean-Julien Aucouturier. <br> 
 
-<i class="fa fa-envelope-o"></i> `nadia.guerouaou@chru-lille.fr` <br>
-<!-- <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=jnST06UAAAAJ) <br> -->
-<i class="fa fa-twitter" /> [Twitter](https://twitter.com/{{page.twitter}}) <br>
 
