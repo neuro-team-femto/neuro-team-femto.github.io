@@ -21,19 +21,19 @@ Topics are listed here for the upcoming term.
 | Jan. 27 | Estelle | Examens neurophysio réalisés au lit du patient en réa : lesquels et pourquoi? | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_01_27_neurophysio.pdf)  |
 | Feb. 3 | Sarah | Introduction à la lecture ECG et au système nerveux autonome |
 | Feb. 10 | Nadia | Brainstorming sur voix / coeur | [(Galvez-Pol et al, 2020)](https://psyarxiv.com/7f9pq/)| 
-| Feb. 17 | TBD | (JJ away) |
-| Feb. 24 | Guillaume | Overview of the code to run revcor online |
-| Mar. 3 | Etienne Thoret (ICLB) | Interprétabilité de SVMs par reverse-correlation  |   
-| Mar. 10 | Nadia | Quelques notions de philosophie autour de la question de l augmentation |  |
-| Mar. 17 | Coralie | Bases de machine learning, SVM, et implications médicales |  |
-| Mar. 24 | Sarah | Brainstem dysfunction in critically ill patient |  | 
-| Mar. 31 | Estelle | Stéréoencéphalographie :  pourquoi? pour qui? comment? |  | 
-| Apr. 7 | Patrick | TBD |  |
+| Feb. 17 | - | (JJ away) |
+| Feb. 24 | Guillaume | Overview of the code to run revcor online | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_02_24_revcor.pdf)
+| Mar. 3 | Etienne Thoret (ICLB) | Interprétabilité de SVMs par reverse-correlation  | [Notebook]({{site.baseurl}}/documents/cafe_neuro/2022_03_03_explainability.ipynb)  
+| Mar. 10 | Nadia | Quelques notions de philosophie autour de la question de l'augmentation |  |
+| Mar. 17 | Coralie | Bases de machine learning, SVM, et implications médicales | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_03_17_svm.pdf)  |
+| Mar. 24 | Patrick | LabView training (in-person only) |  | 
+| Mar. 31 | Patrick | LabView training (distance) |  | 
+| Apr. 7 | TBD | |  |
 | Apr. 14 | TBD | |  |
 | Apr. 21 |  | School holidays |  | 
 | Apr. 28 |  | School holidays |  | 
 | May 5 | TBD |  |  | 
 | May 12 | TBD |  |  |
-| May 19 | Patrick | TBD |  |
+| May 19 | TBD | TBD |  |
 | May 26 | TBD |  |  |
 
