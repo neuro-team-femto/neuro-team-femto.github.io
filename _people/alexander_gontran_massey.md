@@ -1,16 +1,15 @@
 ---
-name: Guillaume Denis
-position: alumni
-avatar: guillaume_denis.jpg
+name: Alexander Gontran-Massey
+position: masterstudent
+avatar: alexander_gontran_massey.jpg
 joined: 2022
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-_Ingénieur de recherche, FEMTO-ST Institute & IRCAM_<br>
-_Senior web developper_
+_Master student, FEMTO-ST Institute & ISIFC_<br>
 
-<i class="fa fa-envelope-o"></i> `gdenispro@gmail.com` <br>
+<i class="fa fa-envelope-o"></i> `alexander99@orange.fr` <br>
 <!-- <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=jnST06UAAAAJ) <br>
 <i class="fa fa-github" /> [Github](https://github.com/jjau) <br>
 <i class="fa fa-twitter" /> [Twitter](https://twitter.com/jjtokyo) <br> -->

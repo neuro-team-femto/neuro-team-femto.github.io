@@ -9,7 +9,7 @@ joined: 2020
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 _Clinical psychologist, Lille University Hospital._<br>
-_PhD Student, FEMTO Neuro group.<br>
+_PhD Student, FEMTO Neuro group._<br>
 
 I am a doctoral student in the FEMTO Neuro Group, the [Perception and Sounds Design team](https://www.ircam.fr/recherche/equipes-recherche/pds/) (STMS lab/CNRS/Ircam Paris) and [Plasticity and Subjectivity team](http://lilncog.eu/equipe-psy/) (Lille Neuroscience & Cognition Centre lab/INSERM/CHRU Lille). In parallel to my research activity, I have a degree in Neuropsychology and work as a clinical psychologist at the Regional Consultation of Psychotrauma in the Hauts de France, where I attend patients suffering from Post Traumatic Stress Disorders (PTSD).
 

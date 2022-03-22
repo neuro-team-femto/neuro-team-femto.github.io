@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "faculty|postdoc|phdstudent|visiting|others|alumni" | split: "|" %}
+{% assign role_array = "faculty|postdoc|phdstudent|visiting|masterstudent" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -22,6 +22,8 @@ permalink: /people/
 <h3>Permanent staff</h3>
  {% elsif role == 'phdstudent' %}
 <h3>PhD Students</h3>
+ {% elsif role == 'masterstudent' %}
+<h3>Master Students</h3>
  {% elsif role == 'visiting' %}
 <h3>Visiting Scholars</h3>
 <!--  {% elsif role == 'alumni' %} 
@@ -62,5 +64,7 @@ permalink: /people/
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Quentin Decultot](https://www.linkedin.com/in/quentin-décultot-b41b62202) | Master Student (2021) | Continuing studies at ENSMM, Besançon, FR |
+| [Guillaume Denis](https://www.linkedin.com/in/gudenis/) | Senior web developper, project ERC ACTIVATE (2021) | Freelance Web Application Developer, Marseille, FR |
+
 
 Alumni members of the CREAM team (2014-2020), and where they went next, can be found on the [CREAM]({{site.baseurl}}/cream) history page .  
