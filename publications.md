@@ -43,6 +43,7 @@ Philosophical Transations of the Royal Society B, vol. 377 (1841), 2021 <br>
 *Daniel Bedoya*, *Pablo Arias*, *Laura Rachman*, Marco Liuni, Clément Canonne, *Louise Goupil* & *JJ Aucouturier*<br>
 Philosophical Transations of the Royal Society B, vol. 376(1840), 2021 <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2021/Bedoya_Philosophical_Transactions_2021.pdf)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](http://dx.doi.org/doi:10.25666/DATAOSU-2022-02-28)
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/creamlab/smiling_violins)
 
 [_Facial mimicry in the congenitally blind_](https://www.cell.com/current-biology/fulltext/S0960-9822(21)01195-7)<br>
