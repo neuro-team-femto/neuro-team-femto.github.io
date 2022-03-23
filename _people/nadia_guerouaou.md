@@ -13,7 +13,7 @@ _PhD Student, FEMTO Neuro group._<br>
 
 <i class="fa fa-envelope-o"></i> `nadia.guerouaou@chru-lille.fr` <br>
 <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=uFIXgbkAAAAJ) <br> 
-<i class="fa fa-twitter" /> [Twitter](https://twitter.com/{{page.twitter}}) <br>
+<i class="fa fa-twitter" /> [GuerouaouN](https://twitter.com/{{page.twitter}}) <br>
 
 
 I am a doctoral student in the FEMTO Neuro Group, the [Perception and Sounds Design team](https://www.ircam.fr/recherche/equipes-recherche/pds/) (STMS lab/CNRS/Ircam Paris) and [Plasticity and Subjectivity team](http://lilncog.eu/equipe-psy/) (Lille Neuroscience & Cognition Centre lab/INSERM/CHRU Lille). In parallel to my research activity, I have a degree in Neuropsychology and work as a clinical psychologist at the Regional Consultation of Psychotrauma in the Hauts de France, where I attend patients suffering from Post Traumatic Stress Disorders (PTSD).
