@@ -31,7 +31,7 @@ Topics are listed here for the upcoming term.
 | Mar. 17 | Coralie | Bases de machine learning, SVM, et implications médicales | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_03_17_svm.pdf)  |
 | Mar. 24 | Patrick | LabView training (in-person only) |  | 
 | Mar. 31 | Patrick | LabView training (distance) |  | 
-| Apr. 7 | TBD | |  |
+| Apr. 7 | Nadia + Coralie | 2 tips Python (GPT3 + Git Desktop) |  |
 | Apr. 14 | TBD | |  |
 | Apr. 21 |  | School holidays |  | 
 | Apr. 28 |  | School holidays |  | 
