@@ -32,11 +32,19 @@ Topics are listed here for the upcoming term.
 | Mar. 24 | Patrick | LabView training (in-person only) |  | 
 | Mar. 31 | Patrick | LabView training (distance) |  | 
 | Apr. 7 | Nadia + Coralie | 2 tips Python (GPT3 + Git Desktop) |  |
-| Apr. 14 | TBD | |  |
-| Apr. 21 |  | School holidays |  | 
-| Apr. 28 |  | School holidays |  | 
-| May 5 | TBD |  |  | 
-| May 12 | TBD |  |  |
+| Apr. 14 | JJ | A few tips about reviewing papers |  |
+| Apr. 21 | Juan Jose Burred | The double-delay pitch shifting algorithm |  | 
+| Apr. 28 | - | School holidays |  | 
+| May 5 | TBD | TBD |  | 
+| May 12 | TBD | TBD |  |
 | May 19 | TBD | TBD |  |
-| May 26 | TBD |  |  |
+| May 26 | - | Bank holiday |  |
+| June 2 | TBD | TBD |  | 
+| June 9 | TBD | TBD |  |
+| June 16 | TBD | TBD |  |
+| June 23 | TBD | TBD |  |
+| June 30 | TBD | TBD |  |
+| July 7 | TBD | TBD |  |
+| July 14 | - | Bank holiday |  |
+
 
