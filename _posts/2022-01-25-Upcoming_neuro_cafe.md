@@ -35,7 +35,7 @@ Topics are listed here for the upcoming term.
 | Apr. 14 | JJ | A few tips about reviewing papers |  |
 | Apr. 21 | Juan Jose Burred | The double-delay pitch shifting algorithm |  | 
 | Apr. 28 | - | School holidays |  | 
-| May 5 | TBD | TBD |  | 
+| May 5 | Paul | The YIN pitch shifting algorithm |  | 
 | May 12 | TBD | TBD |  |
 | May 19 | TBD | TBD |  |
 | May 26 | - | Bank holiday |  |
