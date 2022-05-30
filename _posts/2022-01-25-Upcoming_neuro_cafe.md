@@ -36,14 +36,14 @@ Topics are listed here for the upcoming term.
 | Apr. 21 | Juan Jose Burred | The double-delay pitch shifting algorithm |  | 
 | Apr. 28 | - | School holidays |  | 
 | May 5 | Paul | The YIN pitch shifting algorithm |  | 
-| May 12 | TBD | TBD |  |
-| May 19 | TBD | TBD |  |
+| May 12 | - | (Estelle & Sarah visiting) |  |
+| May 19 | All | Brainstorm on how to ogranize the new lab |  |
 | May 26 | - | Bank holiday |  |
-| June 2 | TBD | TBD |  | 
-| June 9 | TBD | TBD |  |
-| June 16 | TBD | TBD |  |
+| June 2 | - | Séminaire annuel AS2M |  | 
+| June 9 | Estelle | PhD's year-3 presentation |  |
+| June 16 | -  | Séminaire annuel FEMTO |  |
 | June 23 | TBD | TBD |  |
-| June 30 | TBD | TBD |  |
+| June 30 | - | (JJ away NICIS 2022) |  |
 | July 7 | TBD | TBD |  |
 | July 14 | - | Bank holiday |  |
 
