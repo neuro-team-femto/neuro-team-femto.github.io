@@ -11,6 +11,8 @@ This pages stores archives of previous café neuro sessions since their inceptio
 
 Click [here]({{site.baseurl}}/2022/01/25/Upcoming_cafe_neuro.html) for upcoming sessions. 
 
+<br style="clear:both" />
+
 ### Spring 2022
 
 | Apr. 7 | Nadia + Coralie | 2 tips Python (GPT3 + Git Desktop) |  |
