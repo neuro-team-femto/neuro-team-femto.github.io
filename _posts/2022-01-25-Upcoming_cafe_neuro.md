@@ -23,7 +23,7 @@ Topics are listed here for the upcoming terms. Click [here]({{site.baseurl}}/202
 | Date | Name | Topic | Materials |
 |------|------|-------| -------- |
 | Nov. 1 |All | Topic planning |  |
-| Nov. 10 | Coralie | EEG: a very short introduction |  |
+| Nov. 10 | Coralie | EEG: a very short introduction | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_01_13_Github.pdf) |
 | Nov. 17 | JJ | CLEESE v2: what's new | |
 | Nov. 24 | All | Team meeting barcamp | |
 | Dec. 1 | Nadia | Debrief from Tokyo |
