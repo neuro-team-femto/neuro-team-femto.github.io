@@ -9,11 +9,11 @@ header-img: images/post/position/position.jpg
 *Application deadline:* Dec 9th, 2022 <br>
 *Start date:* February-March, 2023<br> 
 
-The [Institut Psychiatrie & Neurosciences de Paris](https://ipnp.paris5.inserm.fr) (IPNP) and the [Femto Neuro group](https://neuro-team-femto.github.io) are seeking applicants for a fully-funded PhD position (3 years), to be held in Pr Guillaume TURC [team](https://ipnp.paris5.inserm.fr/research/teams-and-projects/9-equipe-mas), IPNP in Paris, France.  
+The [Institut Psychiatrie & Neurosciences de Paris](https://ipnp.paris5.inserm.fr) (IPNP) and the [Femto Neuro group](https://neuro-team-femto.github.io) are seeking applicants for a fully-funded PhD position (3 years), to be held in Pr Guillaume TURC's [team](https://ipnp.paris5.inserm.fr/research/teams-and-projects/9-equipe-mas), IPNP in Paris, France.  
 
 The position is funded by INSERM, with the support of French [Agence Nationale de la Recherche](https://anr.fr/), for a project seeking to explore the neural (phonological, sensorimotor and semantic) bases of facial imitation in response to smiled speech, in both healthy participants, patients with refractory epilepsy, and coma patients. It provides an exciting opportunity for interdisciplinary research training in data-driven and experimental methods in cognitive and clinical neuroscience.
 
-The position is based at the IPNP Institute in Paris, France, on the campus of the [GHU Paris Psychiatrie & Neurosciences](https://www.ghu-paris.fr/fr) (Hôpital Sainte-Anne) and will be co-supervised by Dr [Anais Llorens](https://scholar.google.com/citations?user=x6Uvq6EAAAAJ&hl=en) (IPNP), Prof. [Martine Gavaret](https://scholar.google.com/citations?user=qKynVZ0AAAAJ&hl=fr) (GHU/IPNP) and Dr [Jean-Julien Aucouturier](https://neuro-team-femto.github.io/people/jj_aucouturier/) (FEMTO-ST, Besançon). 
+The position is based at the IPNP Institute in Paris, France, on the campus of the [GHU Paris Psychiatrie & Neurosciences](https://www.ghu-paris.fr/fr) (Hôpital Sainte-Anne) and will be co-supervised by Dr [Anais Llorens](https://scholar.google.com/citations?user=x6Uvq6EAAAAJ&hl=en) (IPNP), Prof. [Martine Gavaret](https://scholar.google.com/citations?user=qKynVZ0AAAAJ&hl=fr) and Prof. [Tarek Sharshar](https://scholar.google.fr/citations?user=4pBhBz4AAAAJ&hl=fr) (GHU/IPNP), and Dr [Jean-Julien Aucouturier](https://neuro-team-femto.github.io/people/jj_aucouturier/) (FEMTO-ST, Besançon). 
 
 <hr>
 
