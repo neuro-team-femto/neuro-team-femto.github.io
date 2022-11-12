@@ -8,10 +8,10 @@ Layout adapted from KordingLab (http://kordinglab.com/)
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- <title>{% if page.title %}{{page.title}}{% else %}{{ site.name }}{% endif %}</title> -->
   <title>
-    {% capture bool %}{% if page.title contains '_' %}Yes{% else %}No{% endif %}{% endcapture%}
+    {% capture bool %}{% if page.title contains "_" %}Yes{% else %}No{% endif %}{% endcapture%}
     {% if page.title %}
       {% if bool == "Yes" %}
-      {% assign title = "People" | append: ' - ' | append: page.name %}
+      {% assign title = "People" | append: " - " | append: page.name %}
       {{ title }}
       {% else %}
       {{ page.title }}
