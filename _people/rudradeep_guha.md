@@ -2,6 +2,7 @@
 name: Rudradeep Guha
 position: phdstudent
 avatar: rudradeep_guha.jpg
+location: besancon
 joined: 2022
 ---
 

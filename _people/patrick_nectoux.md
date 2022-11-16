@@ -2,6 +2,7 @@
 name: Patrick Nectoux
 position: faculty
 avatar: patrick_nectoux.jpg
+location: besancon
 joined: 2021
 ---
 

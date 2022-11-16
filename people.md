@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "faculty|postdoc|phdstudent|visiting|masterstudent" | split: "|" %}
+{% assign role_array = "faculty|postdoc|engineer|phdstudent|visiting|masterstudent" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -16,10 +16,12 @@ permalink: /people/
 {% endif %}
 
 <div class="pos_header">
-{% if role == 'postdoc' %}
-<h3>Postdoctoral Fellows</h3>
- {% elsif role == 'faculty' %}
+ {% if role == 'faculty' %}
 <h3>Permanent staff</h3>
+{% elsif role == 'postdoc' %}
+<h3>Postdoctoral Fellows</h3>
+ {% elsif role == 'engineer' %}
+<h3>Developers/Engineers</h3>
  {% elsif role == 'phdstudent' %}
 <h3>PhD Students</h3>
  {% elsif role == 'masterstudent' %}
@@ -43,6 +45,16 @@ permalink: /people/
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+          {% capture bool %}{% if profile.location == "paris" %}Yes{% else %}No{% endif %}{% endcapture%}
+          {% if profile.location %}
+            {% if bool == "Yes" %}
+              <div style="text-align: center;" >Paris</div>
+            {% else %}
+              <div style="text-align: center;">Besançon</div>
+            {% endif %}
+          {% else %}
+            {{ }}
+          {% endif %}
         </p>
       </div>    
     {% endif %}

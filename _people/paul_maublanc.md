@@ -1,7 +1,8 @@
 ---
 name: Paul Maublanc
-position: masterstudent
+position: engineer
 avatar: paul_maublanc.jpg
+location: besancon
 joined: 2022
 ---
 

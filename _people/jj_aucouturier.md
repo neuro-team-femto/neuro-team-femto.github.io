@@ -2,6 +2,7 @@
 name: JJ Aucouturier
 position: faculty
 avatar: jj_aucouturier.jpg
+location: besancon
 twitter: jjtokyo
 joined: 2012
 ---

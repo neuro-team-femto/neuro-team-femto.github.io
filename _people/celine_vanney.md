@@ -2,6 +2,7 @@
 name: Céline Vanney
 position: masterstudent
 avatar: celine_vanney.jpg
+location: besancon
 joined: 2022
 ---
 

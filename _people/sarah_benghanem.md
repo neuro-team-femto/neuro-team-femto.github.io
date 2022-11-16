@@ -2,6 +2,7 @@
 name: Sarah Benghanem
 position: phdstudent
 avatar: sarah_benghanem.jpg
+location: paris
 twitter: sarah_benghanem
 joined: 2020
 ---
