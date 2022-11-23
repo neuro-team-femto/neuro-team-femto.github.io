@@ -48,9 +48,9 @@ permalink: /people/
           {% capture bool %}{% if profile.location == "paris" %}Yes{% else %}No{% endif %}{% endcapture%}
           {% if profile.location %}
             {% if bool == "Yes" %}
-              <div style="text-align: center;" >Paris</div>
+              <div class="list-detail" style="text-align: center;" >Paris team</div>
             {% else %}
-              <div style="text-align: center;">Besançon</div>
+              <div class="list-detail" style="text-align: center;">Besançon team</div>
             {% endif %}
           {% else %}
             {{ }}
