@@ -2,6 +2,7 @@
 name: Coralie Joucla
 position: postdoc
 avatar: coralie_joucla.jpg
+location: besancon
 joined: 2021
 ---
 

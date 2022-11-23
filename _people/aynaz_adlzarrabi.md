@@ -2,6 +2,7 @@
 name: Aynaz Adl Zarrabi
 position: phdstudent
 avatar: aynaz_adlzarrabi.jpg
+location: besancon
 twitter: aynazadlzarrabi
 joined: 2022
 ---

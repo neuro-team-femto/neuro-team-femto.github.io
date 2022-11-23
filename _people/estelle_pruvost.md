@@ -2,6 +2,7 @@
 name: Estelle Pruvost-Robieux
 position: phdstudent
 avatar: estelle_pruvost.jpg
+location: paris
 twitter: 
 joined: 2020
 ---

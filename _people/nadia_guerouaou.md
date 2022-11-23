@@ -2,6 +2,7 @@
 name: Nadia Guerouaou
 position: phdstudent
 avatar: nadia_guerouaou.jpg
+location: paris
 twitter: GuerouaouN
 joined: 2020
 ---
