@@ -8,13 +8,11 @@ header-img: images/post/position/position.jpg
 
 *Application deadline:* March 31st, 2023 <br>
 *Start date:* Sept 1st, 2023<br> 
-*Important eligibiliy notice:* Candidates must not have resided in France for more than 12 months between Sept. 2020 and Sept. 2023. 
-
 
 
 The [Femto Neuro group](https://neuro-team-femto.github.io), [FEMTO-ST Institute](https://www.femto-st.fr) in Besançon, France and the [Cognitive Biopsychology and Methods lab](https://www.unifr.ch/psycho/en/research/biopsy/), University of Fribourg, Switzerland, are seeking applications for a fully-funded PhD position (3 years) about the application of closed-loop control engineering techniques to the analysis of human sensory electrophysiology data during sleep. The position will be based primarily in Besançon, France, and include a research stay in Fribourg, Switzerland. 
 
-The position is funded by CNRS, with the generous support of the [LULLABYTE](https://neurosciencenews.com/sleep-music-21659) Marie Skłodowska-Curie Doctoral Network. 
+The position is funded by CNRS, with the generous support of the [LULLABYTE](https://neurosciencenews.com/sleep-music-21659) Marie Skłodowska-Curie Doctoral Network. <span style="color:red"> Important: because the position is funded by a [Marie Skłodowska-Curie action](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks), there are strict mobility rules of eligibility for this position. Applicants must not have resided or carried out their main activity (work, studies etc.) in France for more than 12 months in the last 36 months  before the date of recruitment, i.e. between Sept. 2020 and Sept. 2023. </span>
 
 
 <hr>
@@ -24,7 +22,7 @@ The position is funded by CNRS, with the generous support of the [LULLABYTE](htt
 While the sleeping brain was once believed to be isolated from external sensory events, a series of findings have demonstrated the surprising extend to which it in fact continues to process external sounds: sleepers can e.g. differentiate meaningful speech vs irrelevant signals (Legendre et al. 2019), recognize the sound their own name (Perrin et al. 1999), process sounds as memory cues to improve subsequent recall of information (Rudoy et al. 2009), and even rehearse the performance of music melodies (Antony et al. 2012). Despite this flurry of findings, little is still understood about what types of sounds are favored for transmission to the cortex during sleep, notably because current research exploring the optimal acoustic characteristics of, e.g., fire alarms do so with highly inefficient experimental paradigms (testing 2-3 sounds per night, waking up participants many times), which strongly limit scientific progress. 
 
 
-<img class='img-responsive center-block' src="/images/post/position/loop.jpg" width="100%" height="100%" />
+<img class='img-responsive center-block' src="/images/post/position/loop.jpg" width="80%" />
 
 <sub>Figure: Example of the closed-loop auditory stimulation protocol used by Ngo et al. (2013). Following detection of a slow-oscillation (SO) down-state in the sleep EEG signal, pulses of pink noise are delivered in phase with the two subsequent SOs. Figure adapted from Harrington & Cairney, 2021. </sub>.
 
@@ -57,18 +55,24 @@ Work in the Neuro group is both experimental (we collect our own EEG and behavio
 
 #### Applicants
 
-The ideal applicant for this position holds a Master of Science with a background either in computational modeling (e.g., control engineering, physiological system modeling, computer science) and an interest in neuroscience, or in experimental psychology/neuroscience with a strong interest in computational methods (e.g., computational neuroscience, psychophysical data modeling). The position would be also suitable for a M.D. in Neurology/Sleep Medicine, with an appetite for computational methods. The project offers the best training potential for applicants who already have experience analysing awake/sleep EEG data, and have a solid programming background in Python, R or Matlab. 
+The ideal applicant for this position holds a Master of Science with a background either in control engineering/bioengineering and an interest in neuroscience, or in neuroscience with a strong interest in computational methods (e.g., computational neuroscience, psychophysical data modeling). The project offers the best training potential for applicants who already have experience analysing awake/sleep EEG data, and have a solid programming background in Python, R or Matlab. 
 
-<b>Important notice:</b> because the position is funded by a [Marie Skłodowska-Curie action](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks), there are strict mobility rules of eligibility for this position. <b> Applicants must not have resided </b> or carried out their main activity (work, studies etc.) <b> in France for more than 12 months in the last 36 months </b> before the date of recruitment, i.e. between Sept. 2020 and Sept. 2023. 
+ <span style="color:red">  <b>Important notice:</b> because the position is funded by a [Marie Skłodowska-Curie action](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks), there are strict mobility rules of eligibility for this position. <b> Applicants must not have resided </b> or carried out their main activity (work, studies etc.) <b> in France for more than 12 months in the last 36 months </b> before the date of recruitment, i.e. between Sept. 2020 and Sept. 2023. </span>. 
 
 <hr>
 
 #### How to apply:
 
-Applications will be done using a dedicated link on the CNRS employment web portal, to be opened from Jan. 2023 onwards. Watch this space for details. <br>
+Applications will be done using a dedicated link on the CNRS employment web portal, to be opened from 6 March 2023 onwards. Watch this space for the link. <br>
 
-Application period: *Feb 1st - Mar 31st 2023*<br>
+Application material: 
+- curriculum vitae
+- motivation letter detailing past experiences that are relevant for the project
+- name of 2-3 referees who could provide reference letters if needed
+
+Application period: *March 6th - Mar 31st 2023*<br>
 Application deadline: *31st March 2023*<br>
+Interviews conducted: *April 2023* <br>
 Start date: *1st September 2023* (3 year, fulltime)<br>
 
 For informal enquiries, please contact: <br>
