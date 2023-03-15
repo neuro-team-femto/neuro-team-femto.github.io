@@ -49,13 +49,13 @@ Rudoy, J. D., Voss, J. L., Westerberg, C. E., & Paller, K. A. (2009). Strengthen
 Work in the Neuro group is both experimental (we collect our own EEG and behavioural data) and computational (we build our own software methods), with a strong focus on clinical applications (see our recent work [here](https://neuro-team-femto.github.io/about)). The group also has a strong focus on open science, and develops and maintains a number of free, open-source [research software](https://neuro-team-femto.github.io/resources/) which are made available for the research community. In Besançon, the PhD candidate will be supervised by Dr [Jean-Julien Aucouturier](https://neuro-team-femto.github.io/people/jj_aucouturier/) (Directeur de recherche CNRS). 
 
 
-![Fribourg](/images/post/position/fribourg.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;" width="30%"} This project also includes a research secondments at the [Cognitive Biopsychology and Methods lab](https://www.unifr.ch/psycho/en/research/biopsy/), Dept of Psychology, [University of Fribourg](https://www.unifr.ch/psycho/fr/),  Switzerland, where the PhD application will be co-supervised by Prof. [Björn Rasch](https://scholar.google.com/citations?user=A1105okAAAAJ&hl=de). It is anticipated that system development and awake EEG will be developped in Besançon, and sleep EEG data will recorded in Fribourg.  
+![Fribourg](/images/post/position/fribourg.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;" width="30%"} This project also includes a research secondment at the [Cognitive Biopsychology and Methods lab](https://www.unifr.ch/psycho/en/research/biopsy/), Dept of Psychology, [University of Fribourg](https://www.unifr.ch/psycho/fr/),  Switzerland, where the PhD application will be co-supervised by Prof. [Björn Rasch](https://scholar.google.com/citations?user=A1105okAAAAJ&hl=de). It is anticipated that system development and awake EEG will be developped in Besançon, and sleep EEG data will recorded in Fribourg.  
 
 <hr>
 
 #### Applicants
 
-The ideal applicant for this position holds a Master of Science with a background either in control engineering/bioengineering and an interest in neuroscience, or in neuroscience with a strong interest in computational methods (e.g., computational neuroscience, psychophysical data modeling). The project offers the best training potential for applicants who already have experience analysing awake/sleep EEG data, and have a solid programming background in Python, R or Matlab. 
+The ideal applicant for this position holds a Master of Science with a background either in control engineering/bioengineering and an interest in neuroscience, or in neuroscience with a strong interest in computational methods (e.g., computational neuroscience, psychophysical data modeling). The project offers the best training potential for applicants who already have a solid programming background in Python, R or Matlab. Experience with analysing EEG experimental data (awake/sleep) will be considered an asset, but is not a requirement.  
 
  <span style="color:red">  <b>Important notice:</b> because the position is funded by a [Marie Skłodowska-Curie action](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks), there are strict mobility rules of eligibility for this position. <b> Applicants must not have resided </b> or carried out their main activity (work, studies etc.) <b> in France for more than 12 months in the last 36 months </b> before the date of recruitment, i.e. between Sept. 2020 and Sept. 2023. </span>. 
 
@@ -63,15 +63,18 @@ The ideal applicant for this position holds a Master of Science with a backgroun
 
 #### How to apply:
 
-Applications will be done using a dedicated link on the CNRS employment web portal, to be opened from 6 March 2023 onwards. Watch this space for the link. <br>
+Applications must be done via the CNRS employment portal, at this link: [https://emploi.cnrs.fr/Offres/Doctorant/UMR6174-JEAAUC-006/Default.aspx](https://emploi.cnrs.fr/Offres/Doctorant/UMR6174-JEAAUC-006/Default.aspx?lang=EN). The portal is opened for application from 15 March to 5th April 2023. <br>
+
+Please note that, per the Marie Skłodowska-Curie mobility rules, only applicants who are not currently residing in France can be considered for the position. 
 
 Application material: 
 - curriculum vitae
 - motivation letter detailing past experiences that are relevant for the project
 - name of 2-3 referees who could provide reference letters if needed
 
-Application period: *March 6th - Mar 31st 2023*<br>
-Application deadline: *31st March 2023*<br>
+
+Application period: *March 15th - April 5th, 2023*<br>
+Application deadline: *5th April 2023*<br>
 Interviews conducted: *April 2023* <br>
 Start date: *1st September 2023* (3 year, fulltime)<br>
 
