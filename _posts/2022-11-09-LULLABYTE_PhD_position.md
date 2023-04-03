@@ -6,7 +6,7 @@ header-img: images/post/position/position.jpg
 
 ### PhD position: Cracking the code of auditory perception during sleep using modern closed-loop engineering methods (Lullabyte project). 
 
-*Application deadline:* March 31st, 2023 <br>
+*Application deadline extended to:* April 15th <br>
 *Start date:* Sept 1st, 2023<br> 
 
 
@@ -73,8 +73,8 @@ Application material:
 - name of 2-3 referees who could provide reference letters if needed
 
 
-Application period: *March 15th - April 5th, 2023*<br>
-Application deadline: *5th April 2023*<br>
+Application period: *March 15th - April 15th, 2023*<br>
+Application deadline: *15th April 2023*<br>
 Interviews conducted: *April 2023* <br>
 Start date: *1st September 2023* (3 year, fulltime)<br>
 
