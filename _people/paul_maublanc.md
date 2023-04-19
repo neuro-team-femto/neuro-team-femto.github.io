@@ -11,17 +11,10 @@ joined: 2022
 _Research Engineer (Ingénieur de Recherche), FEMTO-ST Institute & CHU Besançon_<br>
 
 <i class="fa fa-envelope-o"></i> `paul.maublanc@femto-st.fr` <br>
-<!-- <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=jnST06UAAAAJ) <br>
-<i class="fa fa-github" /> [Github](https://github.com/jjau) <br>
-<i class="fa fa-twitter" /> [Twitter](https://twitter.com/jjtokyo) <br> -->
+<!-- <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=jnST06UAAAAJ) <br> -->
+<i class="fa fa-github" /> [pmblanc](https://github.com/pmblanc) <br>
+<!--<i class="fa fa-twitter" /> [Twitter](https://twitter.com/jjtokyo) <br> -->
 
 
-<!-- ### Bio 
-
-My undergrad was at Dartmouth College, where I mostly did Computer Science and Engineering, but sparked an interest in the connection between AI and neuroscience. This led me in 2014 to a PhD program in Computer Science at the University of Rochester, where I quickly discovered that making "brain inspired AI" means first understanding "brains." I transferred to the Brain and Cognitive Science department in 2015, where I did my main PhD work on Bayesian Inference in low-level visual perception, graduating in fall 2020. 
-
-### Research Interests
-
-Everyone keeps talking about optimal Bayesian brains (myself included). What does this really mean? How far can this metaphor take us? When, why, and how do optimal agents use probability to reason about the world? And, finally, what can all of this really tell us about the brain? 
-
--->
+I have a Master's degree from the [École Nationale Supérieure de Mécanique et des Microtechniques (ENSMM)](https://www.supmicrotech.fr/en) in Engineer science. I made my last master internship in Neuro group on a closed-loop system to control the pitch of human voice. To be a closed-loop system, it needed to measure the pitch and then to modify the resulting pitch, all this in few milliseconds to not perturb the sensory-motor human feedback system. <br>
+Now i work as a research engineer to do even more signal processing on voice recording but also on photoplethysmograph (PPG) data, cleaning and preparing subject recordings as databases or stimuli, or even doing some Linear Mixed-effect Modeling (LMM) to analyse some side effects during projects. I'm continuing to deepen my skills and discovering new aspects of research while preparing myself for an eventual PhD position for the future.
