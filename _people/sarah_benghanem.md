@@ -1,6 +1,6 @@
 ---
 name: Sarah Benghanem
-position: phdstudent
+position: visiting
 avatar: sarah_benghanem.jpg
 location: paris
 twitter: sarah_benghanem

@@ -23,7 +23,7 @@ permalink: /people/
  {% elsif role == 'phdstudent' %}
 <h3>PhD Students</h3>
  {% elsif role == 'visiting' %}
-<h3>Visiting Scholars</h3>
+<h3>Visiting PhD Students & Scholars</h3>
  {% elsif role == 'engineer' %}
 <h3>Developers/Engineers</h3>
  {% elsif role == 'masterstudent' %}
@@ -75,9 +75,9 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Alexander Gontran-Massey] | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR | 
-| [Céline Vanney] | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR |
-| [Quentin Decultot](https://www.linkedin.com/in/quentin-décultot-b41b62202) | Master Student (2021) | Continuing studies at ENSMM, Besançon, FR |
+| Alexander Gontran-Massey | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR | 
+| [Céline Vanney](https://www.linkedin.com/in/celine-vanney) | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR |
+| [Quentin Decultot](https://www.linkedin.com/in/quentin-décultot-b41b62202) | Master Student (2021) | Web developper, SOLUTEC, Lyon, FR |
 | [Guillaume Denis](https://www.linkedin.com/in/gudenis/) | Senior web developper, project ERC ACTIVATE (2021) | Freelance Web Application Developer, Marseille, FR |
 
 
