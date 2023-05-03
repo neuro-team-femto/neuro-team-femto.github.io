@@ -1,6 +1,6 @@
 ---
 name: Alexander Gontran-Massey
-position: masterstudent
+position: alumni
 avatar: alexander_gontran_massey.jpg
 location: besancon
 joined: 2022
