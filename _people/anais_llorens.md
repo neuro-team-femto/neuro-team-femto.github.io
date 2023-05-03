@@ -1,5 +1,5 @@
 ---
-name: Anaïs Lllorens
+name: Anaïs Llorens
 position: postdoc
 avatar: anais_llorens.jpg
 location: paris
