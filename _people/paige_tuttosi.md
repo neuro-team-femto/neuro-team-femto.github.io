@@ -1,7 +1,7 @@
 ---
-name: Paige Tuttösi
+name: Paige Tuttösí
 position: visiting
-avatar: girl.jpg
+avatar: paige_tuttosi.jpg
 location: besançon
 joined: 2023
 ---
@@ -11,10 +11,10 @@ joined: 2023
 _PhD student, ROSIE Lab, Simon Fraser University, BC, Canada_ 
 
 <i class="fa fa-envelope-o"></i> `paige_tuttosi@sfu.ca` <br>
-<!-- <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=jnST06UAAAAJ) <br> -->
-<!-- <i class="fa fa-twitter" /> [sarah_benghanem](https://twitter.com/{{page.twitter}}) <br>-->
+<i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=Q9joVUMAAAAJ&hl=en) <br>
+<i class="fa fa-bar-chart-o" /> [Website](https://chocobearz.github.io/) <br>
+<i class="fa fa-github" /> [chocobearz](https://github.com/chocobearz) <br>
 
-<!-- I am a PhD student in the [Institut Paris Neurosciences et Psychiatrie](https://ipnp.paris5.inserm.fr/)  (INSERM/Université de Paris) in Paris and a visiting PhD student in the FEMTO Neuro Group. I am also neurologist and intensitivst in a medical ICU ([Cochin Hospital](http://hopitaux-paris-centre.aphp.fr/), APHP, Paris). My main subjects of interest concern the use of neurophysiological markers (i.e EEG and evoked potentials) for neuropronostication after cardiac arrest but also assessment of brain and brainstem dysfunction in critically ill patient, particularly septic patients. -->
+I am a PhD student in with the [ROSIE lab](https://www.rosielab.ca/) in the School of Computing Science at Simon Fraser University in Vancouver, Canada. My current research interests are human human robot interaction, technology aided language learning and general contextual improvement of robot voices. Before all of this, I used to be a physical anthropologist and studied Asian religion, then she turned to statistics and computer engineering and dabbled in French the whole way through. When I am not studying, TAing or working too many RAships she likes to ski, dance ballet, compete in agility with her dog and play around with FPGA boards.
 
-
-
+I am currently visiting FEMTO-ST as part of my research building better voices for second language teaching robotic assistants. We are using reverse correlation to better understand how words should sound in order to improve memorizations, pronounciation and engagment. If you want to show us your best teaching voice you can contribute to our study [here](https://nowwithfeeling.com/)
