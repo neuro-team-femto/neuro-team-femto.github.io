@@ -1,8 +1,8 @@
 ---
 name: Camille Des Lauriers
 position: phdstudent
-avatar: girl.jpg
-location: besançon
+avatar: camille_des_lauriers.jpg
+location: paris
 joined: 2023
 ---
 

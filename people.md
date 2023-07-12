@@ -3,6 +3,12 @@ title: People
 permalink: /people/
 ---
 
+Our group is co-located on two sites, in the FEMTO-ST Institute in Besançon and in Paris, in collaboration with GHU/Hopital Sainte-Anne and ICM/Institut du Cerveau. 
+
+
+<img src="{{site.baseurl}}/images/people/group_2.jpg">
+<div class="list-detail" style="text-align: center;" >The Besançon team in May 2023. From left to right: Paul Maublanc, Camille Des Lauriers, Paige Tuttösi, Rudradeep Guha, Coralie Joucla, Jean-Julien Aucouturier, Patrick Nectoux, Aynaz Adl Zarrabi.</div> <br>
+
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "faculty|postdoc|phdstudent|visiting|engineer|masterstudent" | split: "|" %}
 
@@ -75,10 +81,12 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Coralie Joucla](/people/coralie_joucla/index.html) | Postdoc, project ANR SEPIA (2022-2023) |  |
 | [Alexander Gontran-Massey](https://www.linkedin.com/in/alexander-gontran-massey/) | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR | 
 | [Céline Vanney](https://www.linkedin.com/in/celine-vanney) | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR |
 | [Quentin Decultot](https://www.linkedin.com/in/quentin-décultot-b41b62202) | Master Student (2021) | Web developper, SOLUTEC, Lyon, FR |
 | [Guillaume Denis](https://www.linkedin.com/in/gudenis/) | Senior web developper, project ERC ACTIVATE (2021) | Freelance Web Application Developer, Marseille, FR |
+
 
 
 Alumni members of the CREAM team (2014-2020), and where they went next, can be found on the [CREAM]({{site.baseurl}}/cream) history page .  
