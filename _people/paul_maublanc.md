@@ -1,6 +1,6 @@
 ---
 name: Paul Maublanc
-position: engineer
+position: alumni
 avatar: paul_maublanc.jpg
 location: besancon
 joined: 2022
