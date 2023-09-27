@@ -81,12 +81,13 @@ Our group is co-located on two sites, in the FEMTO-ST Institute in Besançon and
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| Saib Hamouza | Master student (2023) | Continuing studies at Supmicrotech ENSMM, Besançon FR |
+| [Paul Maublanc](/people/paul_maublanc/index.html) | Master student (2022), then contract engineer (2022-2023) | PhD student with Boris Kleber, Aarhus University, DK  |
 | [Coralie Joucla](/people/coralie_joucla/index.html) | Postdoc, project ANR SEPIA (2022-2023) |  |
 | [Alexander Gontran-Massey](https://www.linkedin.com/in/alexander-gontran-massey/) | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR | 
 | [Céline Vanney](https://www.linkedin.com/in/celine-vanney) | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR |
 | [Quentin Decultot](https://www.linkedin.com/in/quentin-décultot-b41b62202) | Master Student (2021) | Web developper, SOLUTEC, Lyon, FR |
 | [Guillaume Denis](https://www.linkedin.com/in/gudenis/) | Senior web developper, project ERC ACTIVATE (2021) | Freelance Web Application Developer, Marseille, FR |
-
 
 
 Alumni members of the CREAM team (2014-2020), and where they went next, can be found on the [CREAM]({{site.baseurl}}/cream) history page .  
