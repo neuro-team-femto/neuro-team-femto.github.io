@@ -17,53 +17,54 @@ Speakers are listed here for the upcoming terms.
 
 ### Fall 2023
 
-| Date | Name | Slides |
+| Date | Name | Notes | Slides |
 |------|------|-------| 
-| Oct. 4 | Zhenxing | |
-| Oct. 11 | t.b.a. | |
-| Oct. 18 | t.b.a. | |
-| Oct. 25 | t.b.a. | |
-| Nov. 1 | bank holiday | |
-| Nov. 8 | t.b.a. | |
-| Nov. 15 | t.b.a. | |
-| Nov. 22 | t.b.a. | |
-| Nov. 29 | t.b.a. | |
-| Dec. 6 | t.b.a. | |
-| Dec. 13 | t.b.a. | |
-| Dec. 20 | t.b.a. | |
+| Oct. 4 | Zhenxing H. | | |
+| Oct. 11 | Marie V. | | |
+| Oct. 18 | Sarah B. | _JJ in Paris for PhD defense_ | |
+| Oct. 25 | _cancelled_ | _AAZ, CDL, AL, JJ, MV in Marseille for SNL_ | |
+| Nov. 1 | _cancelled_ | _bank holiday_ | |
+| Nov. 8 | Patrick N. | | |
+| Nov. 15 | Estelle P-R. | PhD rehearsal | |
+| Nov. 22 | Paige T. | _some in Paris for JPS_ | |
+| Nov. 29 | Rudradeep G. | | |
+| Dec. 6 | Aynaz A.Z. | | |
+| Dec. 13 | Nadia G. | PhD rehearsal | |
+| Dec. 20 | Camille DL. | | |
+
 
 ### Winter 2024
 
-| Date | Name | Slides |
+| Date | Name | Notes | Slides |
 |------|------|-------| 
-| Jan. 10 | t.b.a. | |
-| Jan. 17 | t.b.a. | |
-| Jan. 24 | t.b.a. | |
-| Jan. 31 | t.b.a. | |
-| Feb. 7 | t.b.a. | |
-| Feb. 14 | t.b.a. | |
-| Feb. 21 | t.b.a. | |
-| Feb. 28 | t.b.a. | |
-| Mar. 6 | t.b.a. | |
-| Mar. 13 | t.b.a. | |
-| Mar. 20 | t.b.a. | |
-| Mar. 27 | t.b.a. | |
+| Jan. 10 | Anaïs L. | | |
+| Jan. 17 | t.b.a. | | |
+| Jan. 24 | t.b.a. | | |
+| Jan. 31 | t.b.a. | | |
+| Feb. 7 | t.b.a. | | |
+| Feb. 14 | t.b.a. | | |
+| Feb. 21 | t.b.a. | | |
+| Feb. 28 | t.b.a. | | |
+| Mar. 6 | t.b.a. | | |
+| Mar. 13 | t.b.a. | | |
+| Mar. 20 | t.b.a. | | |
+| Mar. 27 | t.b.a. | | |
 
 
 ### Spring 2024
 
-| Date | Name | Slides |
+| Date | Name | Notes | Slides |
 |------|------|-------| 
-| Apr. 3 | t.b.a. | |
-| Apr. 10 | t.b.a. | |
-| Apr. 17 | t.b.a. | |
-| Apr. 24 | t.b.a. | |
-| May 1 | bank holiday | |
-| May 8 | bank holiday | |
-| May 15 | t.b.a. | |
-| May 22 | t.b.a. | |
-| May 29 | t.b.a. | |
-| Jun. 5 | t.b.a. | |
-| Jun. 12 | t.b.a. | |
-| Jun. 19 | t.b.a. | |
-| Jun. 26 | t.b.a. | |
+| Apr. 3 | t.b.a. | | |
+| Apr. 10 | t.b.a. | | |
+| Apr. 17 | t.b.a. | | |
+| Apr. 24 | t.b.a. | | |
+| May 1 | bank holiday | | |
+| May 8 | bank holiday | | |
+| May 15 | t.b.a. | | |
+| May 22 | t.b.a. | | |
+| May 29 | t.b.a. | | |
+| Jun. 5 | t.b.a. | | |
+| Jun. 12 | t.b.a. | | |
+| Jun. 19 | t.b.a. | | |
+| Jun. 26 | t.b.a. | | |
