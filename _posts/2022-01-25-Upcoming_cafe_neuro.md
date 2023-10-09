@@ -19,8 +19,8 @@ Speakers are listed here for the upcoming terms.
 
 | Date | Name | Notes | Slides |
 |------|------|-------| 
-| Oct. 4 | Zhenxing H. | | ["Slides"](https://github.com/neuro-team-femto/neuro-team-femto.github.io/blob/main/documents/cafe_neuro/2023_10_04_Zhenxing.pdf)|
-| Oct. 11 | Marie V. | | |
+| Oct. 4 | Zhenxing H. | Getting to know | ["Slides"](https://github.com/neuro-team-femto/neuro-team-femto.github.io/blob/main/documents/cafe_neuro/2023_10_04_Zhenxing.pdf)|
+| Oct. 11 | JJ A. | Migotti et al's treadmill study | |
 | Oct. 18 | Sarah B. | _JJ in Paris for PhD defense_ | |
 | Oct. 25 | _cancelled_ | _AAZ, CDL, AL, JJ, MV in Marseille for SNL_ | |
 | Nov. 1 | _cancelled_ | _bank holiday_ | |
