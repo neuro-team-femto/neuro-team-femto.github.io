@@ -10,7 +10,7 @@ joined: 2023
 
 _PhD student, IPNP & FEMTO-ST Institute_ 
 
-<i class="fa fa-envelope-o"></i> `deslauriers.camille@gmail.com` <br>
+<i class="fa fa-envelope-o"></i> `camille.des-lauriers@inserm.fr` <br>
 <!-- <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=jnST06UAAAAJ) <br> -->
 <!-- <i class="fa fa-twitter" /> [sarah_benghanem](https://twitter.com/{{page.twitter}}) <br>-->
 
