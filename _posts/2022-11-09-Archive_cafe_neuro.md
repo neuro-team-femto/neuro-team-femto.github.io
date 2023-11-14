@@ -13,6 +13,20 @@ Click [here]({{site.baseurl}}/2022/01/25/Upcoming_cafe_neuro.html) for upcoming 
 
 <br style="clear:both" />
 
+### Fall 2022
+
+| Date | Name | Topic | Materials |
+|------|------|-------| -------- |
+| Nov. 1 |All | Topic planning |  |
+| Nov. 10 | Coralie | EEG: a very short introduction | [Slides]({{site.baseurl}}/documents/cafe_neuro/2022_01_13_Github.pdf) |
+| Nov. 17 | JJ | CLEESE v2: what's new | |
+| Nov. 24 | All | Team meeting barcamp | |
+| Dec. 1 | Nadia | Debrief from Tokyo |
+| Dec. 8 | Marie | Language assessment after brain injury | | 
+| Dec. 15 | Patrick | Electrolarynx: an electronics overview | |
+| Dec. 22 | Aynaz/Rudradeep | Iran/India 101 | |
+
+
 ### Spring 2022
 
 | Apr. 7 | Nadia + Coralie | 2 tips Python (GPT3 + Git Desktop) |  |
