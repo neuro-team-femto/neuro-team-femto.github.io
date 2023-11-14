@@ -34,8 +34,6 @@ Our group is co-located on two sites, in the FEMTO-ST Institute in Besançon and
 <h3>Developers/Engineers</h3>
  {% elsif role == 'masterstudent' %}
 <h3>Master Students</h3>
-<!--  {% elsif role == 'alumni' %} 
-<h3>Alumni</h3> -->
 {% endif %}
 </div>
 

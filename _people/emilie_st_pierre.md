@@ -3,7 +3,7 @@ name: Emilie St Pierre
 position: visiting
 avatar: emilie_st-pierre.jpg
 location: besançon
-joined: 2023
+joined: 2024
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
