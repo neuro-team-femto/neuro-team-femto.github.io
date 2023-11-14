@@ -16,6 +16,49 @@ Since 2021, all our research data is doi-indexed in the [Université de Bourgogn
 
 <hr>
 
+### 2023
+
+[_Separating representational and noise components of speech prosody perception after brain stroke_](https://www.medrxiv.org/content/10.1101/2023.10.17.23297140v2) <br>
+*Adl Zarrabi, A.*, Jeulin, M., Bardet, P., Commere, P., Naccache, L., *Aucouturier, J. J.*, Ponsot, E. & *Villain, M.* <br>
+MedRxiv, 2023-10, 2023. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/adl_zarrabi_medRxiv_2023.pdf)
+
+
+[_The psychophysics of empathy: Using reverse-correlation to quantify the overlap between self & other representations of emotional expressions_](https://osf.io/preprints/psyarxiv/rdmve) <br>
+Zaied, S, Soladié, C. & *Aucouturier, J.J.* <br>
+PsyArXiv rdmve, 2023. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/zaied_psyarxiv_2023.pdf)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://github.com/neuro-team-femto/empathy)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/empathy)
+
+
+[_Cracking the pitch code of music-motor synchronization using data-driven methods_](https://osf.io/preprints/psyarxiv/zkbn3) <br>
+Migotti, L., *Decultot, Q.*, Grailhe, P. & *Aucouturier, J. J.* <br>
+PsyArXiv zkbn3, 2023. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/migotti_psyarxiv_2023.pdf)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://github.com/neuro-team-femto/treadmill)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/treadmill)
+
+
+[_Pupil dilation reflects the dynamic integration of audiovisual emotional speech_](https://www.nature.com/articles/s41598-023-32133-2) <br>
+Arias Sarah, P., Hall, L., Saitovitch, A., *Aucouturier, J. J.*, Zilbovicius, M., & Johansson, P. <br>
+PsyArXiv zkbn3, 2023. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/arias_scireport_2023.pdf)
+
+
+[_Algorithmic voice transformations reveal the phonological basis of language-familiarity effects in cross-cultural emotion judgments_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285028) <br>
+Nakai, T., Rachman, L., Arias Sarah, P., Okanoya, K., & *Aucouturier, J.J.* <br>
+Plos one, 18(5), e0285028, 2023. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/nakai_plos_one_2023.pdf)
+
+
+[_Combining GAN with reverse correlation to construct personalized facial expressions_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290612) <br>
+Yan, S., Soladié, C., *Aucouturier, J. J.*, & Seguier, R. <br>
+Plos one, 18(8), e0290612, 2023. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/sen_plos_one_2023.pdf)
+
+
+
 ### 2022
 
 [_Three simple steps to improve the interpretability of EEG-SVM studies_](https://www.biorxiv.org/content/10.1101/2021.12.14.472588v1)<br>
