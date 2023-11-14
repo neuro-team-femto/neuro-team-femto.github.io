@@ -42,7 +42,7 @@ PsyArXiv zkbn3, 2023. <br>
 
 [_Pupil dilation reflects the dynamic integration of audiovisual emotional speech_](https://www.nature.com/articles/s41598-023-32133-2) <br>
 Arias Sarah, P., Hall, L., Saitovitch, A., *Aucouturier, J. J.*, Zilbovicius, M., & Johansson, P. <br>
-PsyArXiv zkbn3, 2023. <br>
+Scientific reports, 13(1), 5507, 2023. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/arias_scireport_2023.pdf)
 
 
