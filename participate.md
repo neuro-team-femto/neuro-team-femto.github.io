@@ -56,7 +56,7 @@ A votre arrivée, nous vous installerons dans la cabine et vous équiperons d’
 Dans le cadre de sa thèse de Neurosciences, Rudradeep Guha recrute des participants pour une expérience EEG (électro-encéphalographie) sur la perception de la parole.
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Créneaux ouverts:</b> 30 Novembre 2023 (jeudi) <br>
+<b>Créneaux ouverts:</b> 30 novembre 2023 (jeudi); 1 octobre 2023 (vendredi)<br>
 <b>Durée:</b> 1h30 – <b>Rémunéré</b> 15€ par carte cadeau<br>
 </div> <br>
 
