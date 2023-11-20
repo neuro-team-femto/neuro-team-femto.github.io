@@ -48,7 +48,8 @@ Our group is co-located on two sites, in the FEMTO-ST Institute in Besançon and
           {% else %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
           {% endif %}
-          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+          <a class="name" href="{{ site.baseurl }}{{ profile.url }}"> {{ profile.name }} </a>
+
           {% capture bool %}{% if profile.location == "paris" %}Yes{% else %}No{% endif %}{% endcapture%}
           {% if profile.location %}
             {% if bool == "Yes" %}
@@ -56,8 +57,6 @@ Our group is co-located on two sites, in the FEMTO-ST Institute in Besançon and
             {% else %}
               <div class="list-detail" style="text-align: center;">Besançon team</div>
             {% endif %}
-          {% else %}
-            {{ }}
           {% endif %}
         </p>
       </div>    
