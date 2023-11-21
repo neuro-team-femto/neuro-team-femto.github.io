@@ -40,7 +40,7 @@ Dans le cadre de sa thèse de Neurosciences en collaboration entre FEMTO-ST et l
 *L’EEG comment ça se passe?*  	
 A votre arrivée, nous vous installerons dans la cabine et vous équiperons d’un bonnet dans lequel seront fixées des électrodes de contact. Ces électrodes sont posées sur le cuire chevelu, sans aucune intrusion, juste mise par pression sur le bonnet. Nous améliorerons alors le contact des électrodes avec du gel électrolyte de type "échographie", inséré à la seringue (sans aiguille !) dans chaque électrode. Une fois équipé de la sorte (la procédure prend environ 30min), vous participerez à l’expérience qui consiste à l’écoute de phrases et à répondre à des questions via un ordinateur, pendant que vos signaux EEG seront enregistrés. A la fin de l’expérience, nous vous débarrasserons du casque. Selon vote type de cheveux, leur longueur ainsi que la quantité de gel utilisé, vous aurez la possibilité de vous les laver sur place (nous fournissons serviette, shampoing et sèche-cheveux) 
 
-*Lieu*: Labo de neuro, SUPMICROTECH, Département AS2M, Salle 0.60.21 
+*Lieu*: Labo de neuro, SUPMICROTECH, Département AS2M, Salle 0.60.21 ([map](../images/participate/neuro_map.pdf))
 
 *Inscription*: [lien evento]()
 
@@ -70,7 +70,7 @@ Dans le cadre de sa thèse de Neurosciences, Rudradeep Guha recrute des particip
 
 Dans cette expérience, vous regarderez de courts extraits vidéo de plusieurs paires de personnes interagissant l'une avec l'autre dans le cadre d'une session de "speed dating" et répondrez à quelques questions après chaque vidéo. L'expérience durera environ une heure et demie, entrecoupée de quelques courtes pauses. 
 
-*Lieu*: Batiment Transfert - Salle Design 2 (0.83.14)
+*Lieu*: Batiment Transfert - Salle Design 2 (0.83.14) ([map](../images/participate/neuro_map.pdf))
 
 *Inscription*: [lien evento](https://evento.renater.fr/survey/horaires-de-participation-a-l-experience-wr5ourmu)
 
