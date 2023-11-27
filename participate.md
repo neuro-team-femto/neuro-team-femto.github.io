@@ -42,7 +42,7 @@ A votre arrivée, nous vous installerons dans la cabine et vous équiperons d’
 
 *Lieu*: Labo de neuro, SUPMICROTECH, Département AS2M, Salle 0.60.21 ([map](../images/participate/neuro_map.pdf))
 
-*Inscription*: [lien evento]()
+*Inscription*: [lien evento](https://evento.renater.fr/survey/planning-passation-experience-dimagerie-cerebrale-eeg-sur-les-reactions-de-votre-cerveau-a-lecoute-de-paroles-1r2mub1g)
 
 *Contact pour renseignement*: [Camille Des Lauriers](../people/camille_des_lauriers/), FEMTO Neuro Group. 
 
