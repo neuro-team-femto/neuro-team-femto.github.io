@@ -82,7 +82,7 @@ Experience with 3D laster microfabrication and/or lithography at the micro-scale
 
 #### How to apply:
 
-Applications must be done via the CNRS employment portal, at this link: [INSERT URL HERE](). The portal is opened for application from December 1st to December 22nd. <br>
+Applications must be done via the CNRS employment portal, at this [link](https://emploi.cnrs.fr/Offres/CDD/UMR6174-JEAAUC-008/Default.aspx). The portal is opened for application from December 1st to December 22nd. <br>
 
 Application material: 
 - curriculum vitae
@@ -94,7 +94,7 @@ Application deadline: *Dec. 22nd, 2023*<br>
 Interviews conducted: *January 2024* <br>
 Start date: *within March-May 2024* (1 year, fulltime, potentially renewable 1 extra year)<br>
 
-For informal enquiries, please contact: <br>
+For informal enquiries (but not for application, which should go [here](https://emploi.cnrs.fr/Offres/CDD/UMR6174-JEAAUC-008/Default.aspx)), please contact: <br>
 Jean-Julien Aucouturier ([aucouturier@gmail.com](mailto:aucouturier@gmail.com)) and Pierre-Henri Cornuault ([pierre_henri.cornuault@univ-fcomte.fr](pierre_henri.cornuault@univ-fcomte.fr))
 
 
