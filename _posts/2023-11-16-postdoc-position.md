@@ -35,7 +35,7 @@ At the modeling level, the postdoctoral fellow will investigate novel algorithms
 
 <sub>Figure: Example of procedural textures generation. (a) Analysis and resynthesis of auditory textures from statistical moments ([McDermott & Simoncelli, Neuron 2011](https://www.cell.com/neuron/pdf/S0896-6273(11)00562-9.pdf)). (b) Two-dimensional slice through 3D "Perlin" gradient noise, generated with [https://github.com/blackears/PerlinNoiseMaker](https://github.com/blackears/PerlinNoiseMaker)
 
-For micromanufacturing, the project builds on the availability of the [MIMENTO technology center](https://platforms.femto-st.fr/centrale-technologie-mimento), a major national-scale resource for micro-fabrication and nanotechnologies. Co-located with the FEMTO-ST Institute in Besançon, the MIMENTO platform offers more than 800 sq-meter of clean room and more than 20M€ state-of-art equipment in lithography and 3D laser microfabrication. Of particular interest for the project, the postdoctoral fellow will be able to explore femtosecond laser-based micromachining processes in photosensitive polymers ([Nanoscribe](https://lims.femto-st.fr/WebForms/Equipment/EquipmentView.aspx?toolId=72)), in hard glass-type materials ([FEMTOprint](https://lims.femto-st.fr/WebForms/Equipment/EquipmentView.aspx?toolId=63)). 
+For micromanufacturing, the project builds on the availability of the [MIMENTO technology center](https://platforms.femto-st.fr/centrale-technologie-mimento), a major national-scale resource for micro-fabrication and nanotechnologies. Co-located with the FEMTO-ST Institute in Besançon, the MIMENTO platform offers more than 800 sq-meter of clean room and more than 20M€ state-of-art equipment in lithography and 3D laser microfabrication. Of particular interest for the project, the postdoctoral fellow will be able to explore femtosecond laser-based micromachining processes in photosensitive polymers ([Nanoscribe](https://lims.femto-st.fr/WebForms/Equipment/EquipmentView.aspx?toolId=72)) and in hard glass-type materials ([FEMTOprint](https://lims.femto-st.fr/WebForms/Equipment/EquipmentView.aspx?toolId=63)). 
 
 <img class='img-responsive center-block' src="/images/post/position/tactile2.png" width="100%" />
 
@@ -76,7 +76,7 @@ The ideal applicant for this position holds a PhD with a background either in co
 
 The project offers the best training potential for applicants who already have a solid programming background in Python or Matlab. 
 
-Experience with 3D laster microfabrication and/or lithography at the micro-scale will be considered an asset, but is not a requirement (as the MIMENTO facilities offers ad-hoc technical training for these technologies). Similarly, experience with tactile perception research or psychophysics in general will be considered an asset, but is not a requirement. 
+Experience with 3D laser microfabrication and/or lithography at the micro-scale will be considered an asset, but is not a requirement (as the MIMENTO facilities offers ad-hoc technical training for these technologies). Similarly, experience with tactile perception research or psychophysics in general will be considered an asset, but is not a requirement. 
 
 <hr>
 
