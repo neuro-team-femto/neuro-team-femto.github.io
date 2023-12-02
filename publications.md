@@ -18,6 +18,12 @@ Since 2021, all our research data is doi-indexed in the [Université de Bourgogn
 
 ### 2023
 
+[_The implicit influence of pitch contours and emotional timbre on P300 components in an own-name oddball paradigm_](https://www.biorxiv.org/content/10.1101/2023.11.30.569381v1) <br>
+*Pruvost-Robieux, E.*, *Joucla, C.*, *Benghanem, S.*, *Guha, R.*, Liuni, M., Gavaret, M. & *Aucouturier, JJ*<br>
+bioRxiv 2023.11.30.569381. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/pruvost_robieux_bioRxiv_2023.pdf)
+
+
 [_Separating representational and noise components of speech prosody perception after brain stroke_](https://www.medrxiv.org/content/10.1101/2023.10.17.23297140v2) <br>
 *Adl Zarrabi, A.*, Jeulin, M., Bardet, P., Commere, P., Naccache, L., *Aucouturier, J. J.*, Ponsot, E. & *Villain, M.* <br>
 MedRxiv, 2023-10, 2023. <br>
