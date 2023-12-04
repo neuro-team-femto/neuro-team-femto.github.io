@@ -24,7 +24,7 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 Dans le cadre de sa thèse de Neurosciences, Rudradeep Guha recrute des participants pour une expérience EEG (électro-encéphalographie) sur la perception de la parole.
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Créneaux ouverts:</b> ~~30 novembre 2023 (jeudi); 1 octobre 2023 (vendredi)<br>~~ 8 decembre (vendredi), 11 decembre (lundi) & 12 decembre (mardi) 2023
+<b>Créneaux ouverts:</b> <s>30 novembre 2023 (jeudi); 1 octobre 2023 (vendredi)<br></s> 8 decembre (vendredi), 11 decembre (lundi) & 12 decembre (mardi) 2023
 <b>Durée:</b> 1h30 – <b>Rémunéré</b> 15€ par carte cadeau<br>
 </div> <br>
 
