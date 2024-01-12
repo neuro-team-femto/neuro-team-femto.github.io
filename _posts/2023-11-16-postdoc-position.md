@@ -6,9 +6,8 @@ header-img: images/post/position/position.jpg
 
 ### Postdoc position: Parametric texture generation and manufacturing at the micro-nano-meter scale for tactile psychophysics
 
-*Application deadline:* December 22nd, 2023 <br>
+*Application deadline:* Feb. 29th, 2024 <br>
 *Start date:* March-May, 2024<br> 
-
 
 The [Femto Neuro group](https://neuro-team-femto.github.io) and the [Mecanochemistry and Tribology](https://www.femto-st.fr/en/Research-departments/APPLIED-MECHANICS/Research-groups/ECTO-team) team, [FEMTO-ST Institute](https://www.femto-st.fr) in Besançon, France are seeking applications for a Postdoctoral position (1 year, with a possible 1-year extension) at the intersection of the three domains of computer graphics/applied maths, material science/micro-nano manufacturing and psychophysics/haptics research.  The position will be based in Besançon, France. 
 
@@ -82,24 +81,20 @@ Experience with 3D laser microfabrication and/or lithography at the micro-scale 
 
 #### How to apply:
 
-Applications must be done via the CNRS employment portal, at this [link](https://emploi.cnrs.fr/Offres/CDD/UMR6174-JEAAUC-008/Default.aspx). The portal is opened for application from December 1st to December 22nd. <br>
+Applications must be done via the CNRS employment portal, at this [link](https://emploi.cnrs.fr/Offres/CDD/UMR6174-JEAAUC-008/Default.aspx). The portal is opened for application from Dec. 1st, 2023 to Feb. 29th, 2024. <br>
 
 Application material: 
 - curriculum vitae
 - motivation letter detailing past experiences that are relevant for the project
 - name of 2-3 referees who could provide reference letters if needed
 
-Application period: *Dec 1st-Dec 22nd, 2023*<br>
-Application deadline: *Dec. 22nd, 2023*<br>
-Interviews conducted: *January 2024* <br>
+Application period: *Dec 1st, 2023 - Feb. 29th, 2024*<br>
+Application deadline: *Feb. 29th, 2024*<br>
+Interviews conducted: *January - March 2024* <br>
 Start date: *within March-May 2024* (1 year, fulltime, potentially renewable 1 extra year)<br>
 
 For informal enquiries (but not for application, which should go [here](https://emploi.cnrs.fr/Offres/CDD/UMR6174-JEAAUC-008/Default.aspx)), please contact: <br>
 Jean-Julien Aucouturier ([aucouturier@gmail.com](mailto:aucouturier@gmail.com)) and Pierre-Henri Cornuault ([pierre_henri.cornuault@univ-fcomte.fr](pierre_henri.cornuault@univ-fcomte.fr))
 
-
-<!-- <hr>
-<font color='red'> <b> Applications for the position are closed. </b> </font> 
-<hr>-->
 
 
