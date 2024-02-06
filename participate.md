@@ -11,68 +11,64 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 <img class='img-responsive center-block' src="/images/participate/experiment.jpg" width="100%" height="100%" />
 
-#### Currently enrolling (Hiver 2023): 
-1. Perception de la qualité d'interaction dans des vidéos de speed dating: [infos & inscriptions](#brain1) <br>
-2. <s>Brain imaging (EEG) when listening to spoken sentences: infos & inscriptions </s> <span style="color:red"> COMPLET </span>
+#### Currently enrolling (Feb. 2024): 
+1. Perception de sons ambigus dans la langue maternelle et une langue étrangère: [infos & inscriptions](#paige) <br>
+2. Reconnaissance d’expressions faciales d’émotions : [infos & inscriptions](#emilie) <br>
 
 ---
 
-<a id="brain1">
+<a id="paige">
 
-#### 1. Perception de la qualité d'interaction dans des vidéos de speed dating 
+#### 1. Perception de sons ambigus dans la langue maternelle et une langue étrangère 
 
-Dans le cadre de sa thèse de Neurosciences, Rudradeep Guha recrute des participants pour une expérience EEG (électro-encéphalographie) sur la perception de la parole.
+Dans le cadre de sa thèse au laboratoire ROSIE à Simon Fraser University (Canada) et FEMTO-ST, Paige Tuttosi cherche des participants pour une expérience visant à améliorer la synthèse de voix par ordinateur pour les auditeurs de langue étrangère. Quels doivent être les mots à accentuer et les pauses à marquer, cad quelle voix est la plus efficace pour enseigner une deuxième langue (L2) et se faire comprendre d'auditeurs non-natifs ?
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Créneaux ouverts:</b> <s>30 novembre 2023 (jeudi); 1 octobre 2023 (vendredi)</s> <span style="color:red"> 8 décembre (vendredi), 11 décembre (lundi) & 12 décembre (mardi) 2023 </span> <br>
-<b>Durée:</b> 1h30 – <b>Rémunéré</b> 15€ par carte cadeau<br>
+<b>Créneaux ouverts:</b> Mercredi 7 Février 2024, Vendredi 9 Février 2024 (2 créneaux obligatoires)  <br>
+<b>Durée:</b> 2 sessions de 1h – <b>Rémunéré</b> 30€ par carte cadeau <br>
 </div> <br>
 
-*Critères d'inclusion* pour participer à cette étude:
-- Participants homme/femme/autre (nous avons déjà beaucoup de participants hommes, donc si vous êtes un fille, n'hésitez pas à vous inscrire!) 
-- Pas d'âge spécifique
-- De langue maternelle française
-- Idéalement, vous devez disposer d'un compte ens2m.fr pour vous connecter aux ordinateurs de la salle
-- Avec une audition normale
-- Sans problème neurologique
+L'expérience a lieu au laboratoire FEMTO-ST (Supmicrotech/ENSMM), et consiste en deux sessions d'une heure séparées de quelques jours. Pendant l'expérience, vous écouterez plusieurs prononciations de mots ambigus en français et en anglais et évaluerez les voix.
 
-Dans cette expérience, vous regarderez de courts extraits vidéo de plusieurs paires de personnes interagissant l'une avec l'autre dans le cadre d'une session de "speed dating" et répondrez à quelques questions après chaque vidéo. L'expérience durera environ une heure et demie, entrecoupée de quelques courtes pauses. 
+*Critères d'inclusion* pour participer à cette étude:
+
+- vous devez avoir 18 ans ou plus, 
+- ne pas être malentendant, 
+- être soit de langue maternelle française et avoir un niveau d'anglais moyen (B1 au moins) à avancé (presque fluidité est acceptable), soit l'inverse (langue maternelle anglaise avec niveau B1 ou plus en français).
 
 *Lieu*: Batiment Transfert - Salle Design 2 (0.83.14) ([map](../images/participate/neuro_map.pdf))
 
-*Inscription*: [lien evento](https://evento.renater.fr/survey/horaires-de-participation-a-l-experience-aghfkjrt)
+*Inscription*: [lien evento](https://www.eventbrite.com/e/billets-ameliorer-les-voix-denseignement-des-deuxiemes-langues-815239903497)
 
-*Contact pour renseignement*: [Rudradeep Guha](../people/rudradeep_guha/), FEMTO Neuro Group.
+*Contact pour renseignement*: [Paige Tuttosi](../people/paige_tuttosi/), FEMTO Neuro Group.
 
 --- 
 
 
+<a id="emilie">
 
-####  <s> 2. Brain imaging (EEG) when listening to spoken sentences </s>
+#### 2. Reconnaissance d’expressions faciales d’émotions
 
-*<s> Dans le cadre de sa thèse de Neurosciences en collaboration entre FEMTO-ST et l’hôpital Saint-Anne à Paris, Camille Des Lauriers recrute des participants pour une expérience EEG (électro-encéphalographie) sur la perception de la parole. </s>
+Le laboratoire FEMTO-ST (CNRS/Université de Bourgogne Franche-Comté) en collaboration avec le Laboratoire de Perception Visuelle et Sociale de l’UQO (LPVS, Québec, Canada) est actuellement à la recherche de participants pour une étude portant sur la reconnaissance d’expressions faciales d’émotions. 
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<s><b>Créneaux ouverts:</b> du 27 Novembre au 8 Décembre 2023 <br></s> <span style="color:red"> COMPLET </span>
-<s><b>Durée:</b> 1h30 – <b>Rémunéré</b> 30€ par carte cadeau<br></s>
+<b>Créneaux ouverts:</b> du 12 au 16 Février 2024 <br>
+<b>Durée:</b> 1h – <b>Rémunéré</b> 15€ par carte cadeau<br>
 </div> <br>
 
-*<s> Critères d'inclusion pour participer à cette étude:
-- <s> Participants homme/femme/autre
-- <s>Pas d'âge spécifique
-- <s>De langue maternelle française
-- <s>Avec une audition normale
-- <s>Sans problème neurologique 
-- <s>De préférence les cheveux pas trop épais (difficulté de contact entre les électrodes et le cuir chevelu)
+L’expérimentation consiste en une tâche informatisée à effectuer lors d’une seule séance d’une durée d’environ 1 heure. Au cours de cette rencontre, vous serez amené à visualiser des visages exprimant différentes émotions et à identifier celui que vous préférez pour exprimer les émotions de joie, de colère et de tristesse. 
 
-*<s>L’EEG comment ça se passe?</s>  	
-*<s>A votre arrivée, nous vous installerons dans la cabine et vous équiperons d’un bonnet dans lequel seront fixées des électrodes de contact. Ces électrodes sont posées sur le cuire chevelu, sans aucune intrusion, juste mise par pression sur le bonnet. Nous améliorerons alors le contact des électrodes avec du gel électrolyte de type "échographie", inséré à la seringue (sans aiguille !) dans chaque électrode. Une fois équipé de la sorte (la procédure prend environ 30min), vous participerez à l’expérience qui consiste à l’écoute de phrases et à répondre à des questions via un ordinateur, pendant que vos signaux EEG seront enregistrés. A la fin de l’expérience, nous vous débarrasserons du casque. Selon vote type de cheveux, leur longueur ainsi que la quantité de gel utilisé, vous aurez la possibilité de vous les laver sur place (nous fournissons serviette, shampoing et sèche-cheveux) 
+En guise de remerciement pour votre précieuse participation, une compensation financière de 15€ vous sera remise!
 
-*<s>Lieu*: <s> Labo de neuro, SUPMICROTECH, Département AS2M, Salle 0.60.21 ([map](../images/participate/neuro_map.pdf))
+*Critères d'inclusion* pour participer à cette étude:
+Vous êtes admissibles si :
+- Vous êtes âgé(e) de 18 ans et plus
+- Vous êtes disponible le lundi 12 février ou le jeudi 15 février
+- Votre vision est normale ou corrigée (par exemple, en portant des lunettes)
+- Vous souhaitez contribuer à l’avancement des connaissances dans le domaine de la reconnaissance des émotions !
 
-<!-- *Inscription*: [lien evento](https://evento.renater.fr/survey/planning-passation-experience-dimagerie-cerebrale-eeg-sur-les-reactions-de-votre-cerveau-a-lecoute-de-paroles-1r2mub1g)
+*Lieu*: Batiment Transfert - Salle Design 2 (0.83.14) ([map](../images/participate/neuro_map.pdf))
 
-*Contact pour renseignement*: [Camille Des Lauriers](../people/camille_des_lauriers/), FEMTO Neuro Group. -->
+*Inscription*: [lien evento](https://www.eventbrite.com/e/participation-a-un-projet-de-recherche-en-reconnaissance-des-emotions-tickets-825090928177)
 
-
---- 
+*Contact pour renseignement*: [Emilie StPierre](../people/emilie_st_pierre/), FEMTO Neuro Group. 
