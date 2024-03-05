@@ -58,7 +58,7 @@ Le/la postdoctorant.e sera co-encadrée à FEMTO-ST par le Dr [JJ Aucouturier](h
 
 #### Candidatures:
 
-Les candidatures doivent être déposées sur le portail emploi du CNRS, à ce lien: [https://emploi.cnrs.fr//Offres/CDD/UMR6174-JEAAUC-009/Default.aspx](https://emploi.cnrs.fr/Offres/CDD/UMR6174-JEAAUC-009/Default.aspx). Le portail sera ouvert du 10 Mars au 1er Avril 2024. <br>
+Les candidatures doivent être déposées sur le portail emploi du CNRS, à ce lien: [https://emploi.cnrs.fr//Offres/CDD/UMR6174-JEAAUC-009/Default.aspx](https://emploi.cnrs.fr/Offres/CDD/UMR6174-JEAAUC-009/Default.aspx). <font color='red'> <i>Veuillez noter que, au 1er Mars 2024, le lien vers le portail ci-dessus n'est pas encore actif, merci de bien vouloir patienter quelques jours</i>.</font> <br>
 
 Les candidatures doivent comporter: 
 - un CV académique
