@@ -12,14 +12,41 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 <img class='img-responsive center-block' src="/images/participate/experiment.jpg" width="100%" height="100%" />
 
 #### Currently enrolling (Feb. 2024): 
-1. Perception de sons ambigus dans la langue maternelle et une langue étrangère: [infos & inscriptions](#paige) <br>
-2. Reconnaissance d’expressions faciales d’émotions : [infos & inscriptions](#emilie) <br>
+1. Perception de l'authenticité dans les interactions dyadiques : [infos & inscriptions](#rudradeep)
+2. Perception de sons ambigus dans la langue maternelle et une langue étrangère: [infos & inscriptions](#paige) <br>
+3. Reconnaissance d’expressions faciales d’émotions : [infos & inscriptions](#emilie) <br>
+
+---
+
+<a id="rudradeep">
+
+#### 1. Perception de l'authenticité dans les interactions dyadiques 
+
+Dans le cadre de ma thèse à FEMTO-ST, je recherche des participants pour une expérience visant à étudier la perception humaine du couplage/contingence sociale. Quelles sont les caractéristiques qui permettent aux observateurs de déterminer que deux personnes sont en train d'interagir l'une avec l'autre ? Quelle est la fiabilité et l'efficacité de cette capacité ?
+
+<div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
+<b>Créneaux ouverts:</b> du 9 avril au 19 avril 2024 <br>
+<b>Durée:</b> 1h – <b>Rémunéré</b> 15€ par carte cadeau <br>
+</div> <br>
+
+L'expérience se déroule au laboratoire FEMTO-ST (Supmicrotech/ENSMM), et dure 1 heure. Au cours de l'expérience, vous regarderez plusieurs vidéos de personnes qui interagissent ou non entre elles et devrez dire dans quelle mesure vous êtes convaincu que l'interaction est authentique.
+
+*Critères d'inclusion* pour participer à cette étude:
+
+- vous devez avoir un compte ENSMM,
+- votre langue maternelle doit être le français
+
+*Lieu*: Batiment Transfert - Salle Design 2 (0.83.14) ([map](../images/participate/neuro_map.pdf))
+
+*Inscription*: [lien evento](https://evento.renater.fr/survey/horaires-de-participation-a-l-experience-tqxsoj1i)
+
+*Contact pour renseignement*: [Rudradeep Guha](../people/rudradeep_guha/), FEMTO Neuro Group.
 
 ---
 
 <a id="paige">
 
-#### 1. Perception de sons ambigus dans la langue maternelle et une langue étrangère 
+#### 2. Perception de sons ambigus dans la langue maternelle et une langue étrangère 
 
 Dans le cadre de sa thèse au laboratoire ROSIE à Simon Fraser University (Canada) et FEMTO-ST, Paige Tuttosi cherche des participants pour une expérience visant à améliorer la synthèse de voix par ordinateur pour les auditeurs de langue étrangère. Quels doivent être les mots à accentuer et les pauses à marquer, cad quelle voix est la plus efficace pour enseigner une deuxième langue (L2) et se faire comprendre d'auditeurs non-natifs ?
 
@@ -47,7 +74,7 @@ L'expérience a lieu au laboratoire FEMTO-ST (Supmicrotech/ENSMM), et consiste e
 
 <a id="emilie">
 
-#### 2. Reconnaissance d’expressions faciales d’émotions
+#### 3. Reconnaissance d’expressions faciales d’émotions
 
 Le laboratoire FEMTO-ST (CNRS/Université de Bourgogne Franche-Comté) en collaboration avec le Laboratoire de Perception Visuelle et Sociale de l’UQO (LPVS, Québec, Canada) est actuellement à la recherche de participants pour une étude portant sur la reconnaissance d’expressions faciales d’émotions. 
 
