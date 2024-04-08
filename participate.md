@@ -11,7 +11,7 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 <img class='img-responsive center-block' src="/images/participate/experiment.jpg" width="100%" height="100%" />
 
-#### Currently enrolling (Feb. 2024): 
+#### Currently enrolling (Avril 2024): 
 1. Perception de l'authenticité dans les interactions dyadiques : [infos & inscriptions](#rudradeep)
 2. Perception de sons ambigus dans la langue maternelle et une langue étrangère: [infos & inscriptions](#paige) <br>
 3. Reconnaissance d’expressions faciales d’émotions : [infos & inscriptions](#emilie) <br>
@@ -25,7 +25,7 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 Dans le cadre de ma thèse à FEMTO-ST, je recherche des participants pour une expérience visant à étudier la perception humaine du couplage/contingence sociale. Quelles sont les caractéristiques qui permettent aux observateurs de déterminer que deux personnes sont en train d'interagir l'une avec l'autre ? Quelle est la fiabilité et l'efficacité de cette capacité ?
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Créneaux ouverts:</b> du 9 avril au 19 avril 2024 <br>
+<b>Créneaux ouverts:</b> du 9 avril (mardi) au 19 avril (vendredi) 2024 <br>
 <b>Durée:</b> 1h – <b>Rémunéré</b> 15€ par carte cadeau <br>
 </div> <br>
 
