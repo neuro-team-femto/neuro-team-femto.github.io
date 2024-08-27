@@ -21,7 +21,7 @@ In addition to resources specific to papers below, we also develop and maintain 
 Cortex. Vol. 177, 2024. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/benghanem_cortex_2024.pdf)
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://osf.io/wjsbf/)
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://osf.io/wjsbf/)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/looming)
 
 
 [_A simple psychophysical procedure separates representational and noise components in impairments of speech prosody perception after right-hemisphere stroke_](https://www.nature.com/articles/s41598-024-64295-y) <br>
