@@ -11,14 +11,25 @@ and on <img style='display:inline;position: relative;top: 10px' height='20' src=
 
 Our overt objective with the following is that 100% of our publications are associated with all three banners. If one is missing for a specific project, there's a good chance that we're working on it - do feel free to request as you need. 
 
-Since 2021, all our research data is doi-indexed in the [Université de Bourgogne Franche-Comté](https://www.ubfc.fr/)'s Open Data portal [Dat@UBFC](https://dataosu.obs-besancon.fr). In addition to resources specific to papers below, we also develop and maintain a number of open-source research software, including reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) and vocal-feedback plateform [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y), which can be found on our [Resources page]({{site.baseurl}}/resources).  
+<!-- Since 2021, all our research data is doi-indexed in the [Université de Bourgogne Franche-Comté](https://www.ubfc.fr/)'s Open Data portal [Dat@UBFC](https://dataosu.obs-besancon.fr). -->
+In addition to resources specific to papers below, we also develop and maintain a number of open-source research software, including reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) and vocal-feedback plateform [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y), which can be found on our [Resources page]({{site.baseurl}}/resources).  
 
 ### 2024
 
 [_Cortical responses to looming sources are explained away by the auditory periphery_](https://www.sciencedirect.com/science/article/pii/S0010945224001692) <br>
-*Benghanem, S.*, *Guha, R.*, *Pruvost-Robieux, E.*, Levi-Strauss, J., *Joucla, C.*, Cariou, A., Gavaret, M. & *Aucouturier, J. J*. <br>  Cortex. Vol. 177, 2024. <br>
+*Benghanem, S.*, *Guha, R.*, *Pruvost-Robieux, E.*, Levi-Strauss, J., *Joucla, C.*, Cariou, A., Gavaret, M. & *Aucouturier, J. J*. <br> 
+Cortex. Vol. 177, 2024. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/benghanem_cortex_2024.pdf)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://osf.io/wjsbf/)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://osf.io/wjsbf/)
 
+
+[_A simple psychophysical procedure separates representational and noise components in impairments of speech prosody perception after right-hemisphere stroke_](https://www.nature.com/articles/s41598-024-64295-y) <br>
+*Adl Zarrabi, A.*, Jeulin, M., Bardet, P., Commère, P., Naccache, L., *Aucouturier, J. J.* & *Villain, M.*. <br>
+Scientific Reports volume 14 (15194), 2024. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/adlzarrabi_scirep_2024.pdf)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://github.com/neuro-team-femto/revcor_avc)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/revcor_avc)
 
 <hr>
 
@@ -28,12 +39,6 @@ Since 2021, all our research data is doi-indexed in the [Université de Bourgogn
 *Pruvost-Robieux, E.*, *Joucla, C.*, *Benghanem, S.*, *Guha, R.*, Liuni, M., Gavaret, M. & *Aucouturier, JJ*<br>
 bioRxiv 2023.11.30.569381. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/pruvost_robieux_bioRxiv_2023.pdf)
-
-
-[_Separating representational and noise components of speech prosody perception after brain stroke_](https://www.medrxiv.org/content/10.1101/2023.10.17.23297140v2) <br>
-*Adl Zarrabi, A.*, Jeulin, M., Bardet, P., Commere, P., Naccache, L., *Aucouturier, J. J.*, Ponsot, E. & *Villain, M.* <br>
-MedRxiv, 2023-10, 2023. <br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/adl_zarrabi_medRxiv_2023.pdf)
 
 
 [_The psychophysics of empathy: Using reverse-correlation to quantify the overlap between self & other representations of emotional expressions_](https://osf.io/preprints/psyarxiv/rdmve) <br>
