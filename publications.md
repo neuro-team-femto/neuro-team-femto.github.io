@@ -13,6 +13,12 @@ Our overt objective with the following is that 100% of our publications are asso
 
 Since 2021, all our research data is doi-indexed in the [Université de Bourgogne Franche-Comté](https://www.ubfc.fr/)'s Open Data portal [Dat@UBFC](https://dataosu.obs-besancon.fr). In addition to resources specific to papers below, we also develop and maintain a number of open-source research software, including reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) and vocal-feedback plateform [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y), which can be found on our [Resources page]({{site.baseurl}}/resources).  
 
+### 2024
+
+[_Cortical responses to looming sources are explained away by the auditory periphery_]https://www.sciencedirect.com/science/article/pii/S0010945224001692) <br>
+*Benghanem, S.*, *Guha, R.*, *Pruvost-Robieux, E.*, Levi-Strauss, J., *Joucla, C.*, Cariou, A., Gavaret, M. & *Aucouturier, J. J*. <br>  Cortex. Vol. 177, 2024. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/benghanem_cortex_2024.pdf)
+
 
 <hr>
 
