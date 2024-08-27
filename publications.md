@@ -15,7 +15,7 @@ Since 2021, all our research data is doi-indexed in the [Université de Bourgogn
 
 ### 2024
 
-[_Cortical responses to looming sources are explained away by the auditory periphery_]https://www.sciencedirect.com/science/article/pii/S0010945224001692) <br>
+[_Cortical responses to looming sources are explained away by the auditory periphery_](https://www.sciencedirect.com/science/article/pii/S0010945224001692) <br>
 *Benghanem, S.*, *Guha, R.*, *Pruvost-Robieux, E.*, Levi-Strauss, J., *Joucla, C.*, Cariou, A., Gavaret, M. & *Aucouturier, J. J*. <br>  Cortex. Vol. 177, 2024. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/benghanem_cortex_2024.pdf)
 
