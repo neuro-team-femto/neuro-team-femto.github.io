@@ -14,6 +14,7 @@ Our overt objective with the following is that 100% of our publications are asso
 <!-- Since 2021, all our research data is doi-indexed in the [Université de Bourgogne Franche-Comté](https://www.ubfc.fr/)'s Open Data portal [Dat@UBFC](https://dataosu.obs-besancon.fr). -->
 In addition to resources specific to papers below, we also develop and maintain a number of open-source research software, including reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) and vocal-feedback plateform [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y), which can be found on our [Resources page]({{site.baseurl}}/resources).  
 
+
 ### 2024
 
 [_Cortical responses to looming sources are explained away by the auditory periphery_](https://www.sciencedirect.com/science/article/pii/S0010945224001692) <br>
@@ -23,7 +24,6 @@ Cortex. Vol. 177, 2024. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://osf.io/wjsbf/)
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/looming)
 
-
 [_A simple psychophysical procedure separates representational and noise components in impairments of speech prosody perception after right-hemisphere stroke_](https://www.nature.com/articles/s41598-024-64295-y) <br>
 *Adl Zarrabi, A.*, Jeulin, M., Bardet, P., Commère, P., Naccache, L., *Aucouturier, J. J.* & *Villain, M.*. <br>
 Scientific Reports volume 14 (15194), 2024. <br>
@@ -31,9 +31,49 @@ Scientific Reports volume 14 (15194), 2024. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://github.com/neuro-team-femto/revcor_avc)
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/revcor_avc)
 
+[_Mmm whatcha say? Uncovering distal and proximal context effects in first and second-language word perception using psychophysical reverse correlation_](https://rosielab.github.io/vocal_ambiguity/)<br>
+*Tuttösi, P.*, Yeung, H.H., Wang, Y., Wang, F., *Denis, G.*, *Aucouturier, JJ.* & Lim, A. <br>
+Interspeech, 2024. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/tuttosi_interspeech_2024.pdf)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://github.com/neuro-team-femto/vocal_ambiguity)
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/vocal_ambiguity)
+
+[_Social affective inferences in the era of AI filters: towards the Bayesian reshaping of human sociality?_](https://osf.io/preprints/osf/k5fdr)<br>
+*Guerouaou, N.*, Vaiva, G. & *Aucouturier, JJ.* <br>
+OSF Preprints, 2024. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/guerouaou_osf_2024.pdf)
+
+[_Intact Representation of Vocal Smile in Autism: A reverse correlation approach_](https://osf.io/preprints/psyarxiv/q4n7z)<br>
+Merchie, A., Ranty, Z., *Adl Zarrabi, A.*, Bonnet-Brilhault, F., Houy-Durand, E., Aucouturier, JJ. & Gomot, M. <br>
+PsyArXiv Preprints, 2024. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/merchie_psyarxiv_2024.pdf)
+
+[_‘My face is listening to your smile’: Emotional contagion to vocal smile revealed by combined pupil reactivity and motor resonance_](https://osf.io/preprints/psyarxiv/5crey)<br>
+Merchie, A., Ranty, Z., Aguillon-Hernandez, N., Aucouturier, JJ, Wardak, C. & Gomot, M. <br>
+PsyArXiv Preprints, 2024. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/merchie_psyarxiv_2_2024.pdf)
+
+
 <hr>
 
 ### 2023
+
+[_Pupil dilation reflects the dynamic integration of audiovisual emotional speech_](https://www.nature.com/articles/s41598-023-32133-2) <br>
+Arias Sarah, P., Hall, L., Saitovitch, A., *Aucouturier, J. J.*, Zilbovicius, M., & Johansson, P. <br>
+Scientific reports, 13(1), 5507, 2023. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/arias_scireport_2023.pdf)
+
+
+[_Algorithmic voice transformations reveal the phonological basis of language-familiarity effects in cross-cultural emotion judgments_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285028) <br>
+Nakai, T., Rachman, L., Arias Sarah, P., Okanoya, K., & *Aucouturier, J.J.* <br>
+Plos one, 18(5), e0285028, 2023. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/nakai_plos_one_2023.pdf)
+
+
+[_Combining GAN with reverse correlation to construct personalized facial expressions_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290612) <br>
+Yan, S., Soladié, C., *Aucouturier, J. J.*, & Seguier, R. <br>
+Plos one, 18(8), e0290612, 2023. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/sen_plos_one_2023.pdf)
 
 [_The implicit influence of pitch contours and emotional timbre on P300 components in an own-name oddball paradigm_](https://www.biorxiv.org/content/10.1101/2023.11.30.569381v1) <br>
 *Pruvost-Robieux, E.*, *Joucla, C.*, *Benghanem, S.*, *Guha, R.*, Liuni, M., Gavaret, M. & *Aucouturier, JJ*<br>
@@ -55,25 +95,6 @@ PsyArXiv zkbn3, 2023. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/migotti_psyarxiv_2023.pdf)
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://github.com/neuro-team-femto/treadmill)
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/treadmill)
-
-
-[_Pupil dilation reflects the dynamic integration of audiovisual emotional speech_](https://www.nature.com/articles/s41598-023-32133-2) <br>
-Arias Sarah, P., Hall, L., Saitovitch, A., *Aucouturier, J. J.*, Zilbovicius, M., & Johansson, P. <br>
-Scientific reports, 13(1), 5507, 2023. <br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/arias_scireport_2023.pdf)
-
-
-[_Algorithmic voice transformations reveal the phonological basis of language-familiarity effects in cross-cultural emotion judgments_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285028) <br>
-Nakai, T., Rachman, L., Arias Sarah, P., Okanoya, K., & *Aucouturier, J.J.* <br>
-Plos one, 18(5), e0285028, 2023. <br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/nakai_plos_one_2023.pdf)
-
-
-[_Combining GAN with reverse correlation to construct personalized facial expressions_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290612) <br>
-Yan, S., Soladié, C., *Aucouturier, J. J.*, & Seguier, R. <br>
-Plos one, 18(8), e0290612, 2023. <br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/sen_plos_one_2023.pdf)
-
 
 
 ### 2022
