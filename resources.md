@@ -21,8 +21,9 @@ CLEESE ("Ministry of silly talks") is a Python toolbox designed to generate an i
 
 CLEESE is a free, standalone Python module, distributed under an open-source MIT Licence. It was originally developped by Juan José Burred, Emmanuel Ponsot and Jean-Julien Aucouturier ([CREAM]({{site.baseurl}}/cream) team, IRCAM, Paris), in collaboration from [Pascal Belin](https://www.int.univ-amu.fr/_BELIN-Pascal,659_?lang=en) (Institut des Neurosciences de la Timone, Aix-Marseille Université). 
 
-<a href="https://github.com/creamlab/cleese"><i class="fa fa-github"></i> CLEESE Github page</a>&nbsp;&nbsp;&nbsp;
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943"><i class="fa fa-book"></i> Companion paper</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/neuro-team-femto/cleese"><i class="fa fa-github"></i> Code </a>&nbsp;&nbsp;&nbsp;
+<a href="https://neuro-team-femto.github.io/cleese/"><i class="fa fa-book"></i> Documentation </a>&nbsp;&nbsp;&nbsp;
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943"><i class="fa fa-book"></i> Paper</a>&nbsp;&nbsp;&nbsp;
 
 <hr>
 
@@ -33,7 +34,9 @@ DAVID (Da Amazing Voice Inflection Device) is a real-time voice transformation t
 
 Technically, DAVID is implemented as an open-source patch for the close-source audio processing plateform Max (Cycling’74), and, like Max, is available for most Windows and MacOS configurations. It is distribted under an open-source MIT Licence. It was originally developped by Marco Liuni ([CREAM]({{site.baseurl}}/cream) team, IRCAM, Paris), in collaboration with [Petter Johansson](https://www.fil.lu.se/en/person/PetterJohansson/) and [Lars Hall](https://www.fil.lu.se/en/person/LarsHall/) at Lund University, and [Katsumi Watanabe](http://www.fennel.sci.waseda.ac.jp/indexe.html) at Waseda. 
 
-<a href="https://github.com/neuro-team-femto/david"><i class="fa fa-github"></i> DAVID Github page</a>&nbsp;&nbsp;&nbsp;
+We are in the process of releasing a new version of DAVID, based on the LabVIEW programming language and environment. Stay tuned for updates.
+
+<a href="https://github.com/neuro-team-femto/david"><i class="fa fa-github"></i> Code </a>&nbsp;&nbsp;&nbsp;
 <a href="https://link.springer.com/article/10.3758/s13428-017-0873-y"><i class="fa fa-book"></i> Companion paper</a>&nbsp;&nbsp;&nbsp;
 
 
