@@ -18,7 +18,7 @@ In addition to resources specific to papers below, we also develop and maintain 
 ### 2024
 
 [_Neural adaptation to changes in self-voice during puberty_](https://www.cell.com/trends/neurosciences/abstract/S0166-2236(24)00142-5) <br>
-Pinheiro, A., Aucouturier, JJ* & Kotz, Sonja. <br>
+Pinheiro, A., *Aucouturier, JJ* & Kotz, Sonja. <br>
 Trends in Neurosciences, August 2024. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/pinheiro_TiN_2024.pdf)
 
