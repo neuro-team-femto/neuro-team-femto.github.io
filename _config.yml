@@ -34,6 +34,8 @@ nav:
 #    href:           "/blog"
   - name:           "resources"
     href:           "/resources"
+  - name:           "L&D 2024-25"
+    href:           "/learning2425"
   - name:           "(cream) "
     href:           "/cream"
 
