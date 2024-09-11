@@ -5,15 +5,18 @@ permalink: /learning2425/
 
 <img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/learning/learning.jpg'> 
 
-### Learning & Dynamics Seminar Series
+## Learning & Dynamics Seminars
+<br>
+
 
 Together with our FEMTO colleague [Prof. John Dudley](https://www.femto-st.fr/en/femto-people/johndudley), Professor of Optical Physics, the [FEMTO Neuro group](https://neuro-team-femto.github.io/) is putting together a monthy series of invited seminars on the topic of machine learning for dynamical systems. 
 
 The "Learning & Dynamics" Seminar Series wishes to address - roughly defined - *how one may analyse & discover physically-interpretable models of dynamical systems on the basis of observed temporal data, rather than attempt to study them in a purely analytical manner*. Our seminar aims to address interdisciplinary applications across complex physical or physiological systems, such as neuroscience, non-linear optics or fluid mechanics.
 
-For our inaugural 2024-2025 series, we have assembled a program with a fantastic list of early-career EU researchers who have made recent notable contributions to this emerging field. As a kick-off event on Tuesday 17th 2024, we are also honored to host an invited talk by [Prof. J. Nathan Kutz](http://faculty.washington.edu/kutz/), Director of the NSF [AI Institute in Dynamic Systems](https://dynamicsai.org/) at the University of Washington, USA.  
+For our inaugural 2024-2025 series, we have assembled a program with a fantastic list of early-career EU researchers who have made recent notable contributions to this emerging field. As a kick-off event on Tuesday 17th 2024, we are also honored to host an invited talk by [Prof. J. Nathan Kutz](http://faculty.washington.edu/kutz/), Director of the NSF [AI Institute in Dynamic Systems](https://dynamicsai.org/) at the University of Washington, USA. Title, abtracts and speaker bios come below.  
 
-#### Speakers 2024-2025
+### 2024-2025 Program
+<br>
 
 |------|------|-------| 
 | Date | Hour | Speaker | Title | Location |
@@ -35,5 +38,20 @@ L&D seminars are held in-person, monthly (typically the 3rd Thursday of the mont
 
 Attendance is free, in the limit of available seats (no reservation taken). For non-FEMTO personnel, please be prepared to identify yourself with a mandatory ID document at the entrance counter in each location. 
 
-Information, contact: [JJ Aucouturier](https://www.femto-st.fr/fr/personnel-femto/jeanaucouturier), FEMTO Neuro Group
+*Information, contact:* [JJ Aucouturier](https://www.femto-st.fr/fr/personnel-femto/jeanaucouturier), FEMTO Neuro Group
+
+### Title and abstracts
+<br>
+
+#### Inaugural Seminar Tue. Sept. 17th, 2024 
+
+<img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/learning/nathan_kutz.jpg'>  
+
+**Speaker:** Prof. Nathan Kutz, University of Washington
+
+**Title:** Modern Sensing and Learning with Machine Learning
+
+**Abstract:** Sensing is a universal task in science and engineering. Downstream tasks from sensing include learning dynamical models, inferring full state estimates of a system (system identification), control decisions, and forecasting. These tasks are exceptionally challenging to achieve with limited sensors, noisy measurements, and corrupt or missing data. Existing techniques typically use current (static) sensor measurements to perform such tasks and require principled sensor placement or an abundance of randomly placed sensors. In contrast, we propose a SHallow REcurrent Decoder (SHRED) neural network structure which incorporates (i) a recurrent neural network (LSTM) to learn a latent representation of the temporal dynamics of the sensors, and (ii) a shallow decoder that learns a mapping between this latent representation and the high-dimensional state space. By explicitly accounting for the time-history, or trajectory, of the sensor measurements, SHRED enables accurate reconstructions with far fewer sensors, outperforms existing techniques when more measurements are available, and is agnostic towards sensor placement. 
+
+**Bio:**  Nathan Kutz is the Yasuko Endo and Robert Bolles Professor of Applied Mathematics and Electrical and Computer Engineering and Director of the AI Institute in Dynamic Systems at the University of Washington, having served as chair of applied mathematics from 2007-2015.  He received the BS degree in physics and mathematics from the University of Washington in 1990 and the Phd in applied mathematics from Northwestern University in 1994.  He was a postdoc in the applied and computational mathematics program at Princeton University before taking his faculty position.  He has a wide range of interests, including neuroscience to fluid dynamics where he integrates machine learning with dynamical systems and control. *Web:*  [http://faculty.washington.edu/kutz/](http://faculty.washington.edu/kutz/)
 
