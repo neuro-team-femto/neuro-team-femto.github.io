@@ -11,7 +11,7 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 <img class='img-responsive center-block' src="/images/participate/experiment.jpg" width="100%" height="100%" />
 
-#### Currently enrolling (Avril 2024): 
+#### Latest experiments (enrollment now closed, stay tuned for new opportunities in the Fall 2024): 
 1. Perception de l'authenticité dans les interactions dyadiques : [infos & inscriptions](#rudradeep)
 2. Perception de sons ambigus dans la langue maternelle et une langue étrangère: [infos & inscriptions](#paige) <br>
 3. Reconnaissance d’expressions faciales d’émotions : [infos & inscriptions](#emilie) <br>
