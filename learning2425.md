@@ -29,7 +29,7 @@ For our inaugural 2024-2025 series, we have assembled a program with a fantastic
 | Thu. Feb 20, 2025 | 2pm | [Dr Karim Cherifi](https://scholar.google.com/citations?user=gE5RRyEAAAAJ&hl=en) (Centre for Industry and Science, TU Berlin) | tba | Amphi J. Haag |
 | Thu. Mar 20, 2025 | 2pm | [Dr Lorenzo Fontolan](https://fontolanl.github.io/) (Turing Center for Living Systems, Aix-Marseille University) | tba | Amphi JJ. Gagnepain |
 | Thu. Apr 17, 2025 | 2pm | [Dr Richard Gao](http://www.rdgao.com/) (Tübingen AI Center, University of Tübingen) | tba | Amphi J. Haag |
-| Thu. May 15, 2025 | 2pm | tba | tba | Amphi JJ. Gagnepain |
+| Thu. May 15, 2025 | 2pm | tba | tba | tba |
 | Thu. June 19, 2025 | 2pm | tba | tba | Amphi J. Haag |
 
 #### Time & Place
