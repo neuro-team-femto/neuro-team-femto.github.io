@@ -21,8 +21,8 @@ For our inaugural 2024-2025 series, we have assembled a program with a fantastic
 |------|------|-------| 
 | Date | Hour | Speaker | Title | Location |
 |------|------|-------| 
-| <span style="color:red">Tue.</span> Sept 17, 2024 (<span style="color:red">Note unusual day</span>)| 2pm | [Prof. J. Nathan Kutz]((http://faculty.washington.edu/kutz/)) (Dept. Applied Mathematics, University of Washington) | tba | Amphi JJ. Gagnepain |
-| Thu. Oct 17, 2024 | 2pm | [Dr Nicolas Boullé](https://nboulle.github.io/) (Dept. Applied Mathematics, Imperial College London) | tba | Amphi J. Haag |
+| <span style="color:red">Tue.</span> Sept 17, 2024 (<span style="color:red">Note unusual day</span>)| 2pm | [Prof. J. Nathan Kutz]((http://faculty.washington.edu/kutz/)) (Dept. Applied Mathematics, University of Washington) | Modern Sensing and Learning with Machine Learning | Amphi JJ. Gagnepain |
+| Thu. Oct 17, 2024 | 2pm | [Dr Nicolas Boullé](https://nboulle.github.io/) (Dept. Applied Mathematics, Imperial College London) | An overview of operator learning | Amphi J. Haag |
 | Thu. Nov 21, 2024 | 2pm | [Dr Lou Zonca](https://lou-zonca.webflow.io/) (Center for Brain & Cognition, University Pompeu Fabra, Barcelona) | tba | Amphi JJ. Gagnepain |
 | Thu. Dec 19, 2024 | 2pm | [Dr Emmanuel De Bezenac](https://scholar.google.fr/citations?user=KvZw5gYAAAAJ&hl=en) (Dept of Mathematics, UTH Zurich) | tba | Amphi J. Haag |
 | Thu. Jan 17, 2025 | 2pm | [Dr Zahra Monfared](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) (Interdisciplinary Center for Scientific Computing, Heidelberg University) | tba | Amphi JJ Gagnepain |
@@ -43,7 +43,7 @@ Attendance is free, in the limit of available seats (no reservation taken). For 
 ### Title and abstracts
 <br>
 
-#### Inaugural Seminar Tue. Sept. 17th, 2024 
+#### Inaugural Seminar: Tue. Sept. 17th, 2024 
 
 <img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/learning/nathan_kutz.jpg'>  
 
@@ -57,3 +57,23 @@ Attendance is free, in the limit of available seats (no reservation taken). For 
 
 **Web:**  [http://faculty.washington.edu/kutz/](http://faculty.washington.edu/kutz/)
 
+<br>
+
+#### October Seminar: Thur. Oct. 17th, 2024 
+
+<img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/learning/nicolas_boulle.jpg'>  
+
+**Speaker:** Dr. Nicolas Boullé, Imperial College London
+
+**Title:** An overview of operator learning
+
+**Abstract:** Operator learning is an emerging field at the intersection of machine learning, physics, and mathematics, that aims to discover properties of unknown physical systems from experimental data. Popular techniques exploit the approximation power of deep learning to learn solution operators, which map source terms to solutions of the underlying PDE. Solution operators can then produce surrogate data for data-intensive machine learning approaches such as learning reduced order models for design optimization in engineering and PDE recovery. In this talk, we will provide a brief overview of the growing field of operator learning and see how numerical linear algebra algorithms, such as the randomized singular value decomposition, can be exploited to gain theoretical and mechanistic understanding of operator learning architectures.
+
+**Bio:**  Nicolas Boullé is an Assistant Professor in Applied Mathematics at Imperial College London. He obtained a PhD in numerical analysis at the University of Oxford in 2022 and was a postdoc at the University of Cambridge from 2022-2024. His research focuses on the intersection between numerical analysis and deep learning, with a specific emphasis on learning physical models from data, particularly in the context of partial differential equations learning. He was awarded a Leslie Fox Prize in 2021 and a SIAM Best Paper Prize in Linear Algebra in 2024 for his work on operator learning .
+
+**Web:**  [https://nboulle.github.io](https://nboulle.github.io/)
+
+### Acknowledgements
+
+<img style='float:right;position: relative; margin-right: 10px; ' height='200' src='/images/learning/logo_bfc.jpg'>  
+The L&D seminar series is funded by generous support from [Région Bourgogne Franche-Comté](https://www.bourgognefranchecomte.fr/) (ANER ASPECT, 2022-2025, PI JJ Aucouturier). 
