@@ -9,7 +9,7 @@ permalink: /learning2425/
 <br>
 
 
-Together with our FEMTO colleague [Prof. John Dudley](https://www.femto-st.fr/en/femto-people/johndudley), Professor of Optical Physics, the [FEMTO Neuro group](https://neuro-team-femto.github.io/) is putting together a monthy series of invited seminars on the topic of machine learning for dynamical systems. 
+Together with our FEMTO colleagues [Prof. John Dudley](https://www.femto-st.fr/en/femto-people/johndudley), Professor of Optical Physics, and [Dr Rafael Teloli](https://www.femto-st.fr/fr/personnel-femto/rafaelteloli), Assistant Prof. in Mechanical Engineering, the [FEMTO Neuro group](https://neuro-team-femto.github.io/) is putting together a monthy series of invited seminars on the topic of machine learning for dynamical systems. 
 
 The "Learning & Dynamics" Seminar Series wishes to address - roughly defined - *how one may analyse & discover physically-interpretable models of dynamical systems on the basis of observed temporal data, rather than attempt to study them in a purely analytical manner*. Our seminar aims to address interdisciplinary applications across complex physical or physiological systems, such as neuroscience, non-linear optics or fluid mechanics.
 
@@ -21,9 +21,9 @@ For our inaugural 2024-2025 series, we have assembled a program with a fantastic
 |------|------|-------| 
 | Date | Hour | Speaker | Title | Location |
 |------|------|-------| 
-| <span style="color:red">Tue.</span> Sept 17, 2024 (<span style="color:red">Note unusual day</span>)| 2pm | [Prof. J. Nathan Kutz]((http://faculty.washington.edu/kutz/)) (Dept. Applied Mathematics, University of Washington) | Modern Sensing and Learning with Machine Learning | Amphi JJ. Gagnepain |
+| <span style="color:red">Tue.</span> Sept 17, 2024 (<span style="color:red">Note unusual day</span>)| 2pm | [Prof. J. Nathan Kutz](http://faculty.washington.edu/kutz/) (Dept. Applied Mathematics, University of Washington) | Modern Sensing and Learning with Machine Learning | Amphi JJ. Gagnepain |
 | Thu. Oct 17, 2024 | 2pm | [Dr Nicolas Boullé](https://nboulle.github.io/) (Dept. Applied Mathematics, Imperial College London) | An overview of operator learning | Amphi J. Haag |
-| Thu. Nov 21, 2024 | 2pm | [Dr Lou Zonca](https://lou-zonca.webflow.io/) (Center for Brain & Cognition, University Pompeu Fabra, Barcelona) | tba | Amphi JJ. Gagnepain |
+| Thu. Nov 21, 2024 | 2pm | [Dr Lou Zonca](https://lou-zonca.webflow.io/) (Center for Brain & Cognition, University Pompeu Fabra, Barcelona) | Modeling disorders of consciousness at the patient level reveals the network's influence on the diagnosis vs the local node parameters role in prognosis | Amphi JJ. Gagnepain |
 | Thu. Dec 19, 2024 | 2pm | [Dr Emmanuel De Bezenac](https://scholar.google.fr/citations?user=KvZw5gYAAAAJ&hl=en) (Dept of Mathematics, UTH Zurich) | tba | Amphi J. Haag |
 | Thu. Jan 17, 2025 | 2pm | [Dr Zahra Monfared](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) (Interdisciplinary Center for Scientific Computing, Heidelberg University) | tba | Amphi JJ Gagnepain |
 | Thu. Feb 20, 2025 | 2pm | [Dr Karim Cherifi](https://scholar.google.com/citations?user=gE5RRyEAAAAJ&hl=en) (Centre for Industry and Science, TU Berlin) | tba | Amphi J. Haag |
@@ -72,6 +72,22 @@ Attendance is free, in the limit of available seats (no reservation taken). For 
 **Bio:**  Nicolas Boullé is an Assistant Professor in Applied Mathematics at Imperial College London. He obtained a PhD in numerical analysis at the University of Oxford in 2022 and was a postdoc at the University of Cambridge from 2022-2024. His research focuses on the intersection between numerical analysis and deep learning, with a specific emphasis on learning physical models from data, particularly in the context of partial differential equations learning. He was awarded a Leslie Fox Prize in 2021 and a SIAM Best Paper Prize in Linear Algebra in 2024 for his work on operator learning .
 
 **Web:**  [https://nboulle.github.io](https://nboulle.github.io/)
+
+#### November Seminar: Thur. Nov. 21st, 2024 
+
+<img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/learning/lou_zonca.jpg'>  
+
+**Speaker:** Dr. Lou Zonca, Pompeu Fabra University (Barcelona),
+
+**Title:** Modeling disorders of consciousness at the patient level reveals the network's influence on the diagnosis vs the local node parameters role in prognosis
+
+**Abstract:** Disorders of Consciousness (DoC) regroup a wide spectrum of conditions ranging from coma to more aware (awake) states of consciousness but for patients which remain largely unable to communicate. Although there are universal clinical procedures, to assess the level of consciousness of a DoC patient, precise diagnosis and prognosis remains a challenge. In this talk, I will discuss my current work regarding the development of DoC mathematical models calibrated at the single-patient level. The ultimate goal is to use these models as digital twins to propose better biomarkers, enhance prognosis, and test potential therapeutic approaches using numerical simulations.
+I will present my latest results regarding the construction of a modeling pipeline that takes DoC patients' fMRI resting state data as an input and provides automatically fitted mathematical models for each patient. The pipeline is decomposed as follows: first, the data is first projected, using Auto-Encoders, into a latent-space of optimal reduced dimension that I will describe. Second, in this latent-space, I implement an automatic parameter fitting procedure that can be applied to different mathematical models. I will present and describe two models: (1) the Hopf model, which can be seen as a network of noisy oscillators, which is known to provide good results for fMRI modeling but whose biological interpretation is limited. (2) A new model that indirectly accounts for the regulatory role of astrocytes (a type of glial cells) on neuronal activity: the main advantage of this model, despite its higher complexity, is its more straightforward biological interpretation.  Finally, the fitted parameters of the models provide us with two types of biomarkers: (1) The connectivity matrices, revealing the network interactions at the global brain scale, tend to give us information regarding the diagnosis of the patients, i.e. the severity of their condition. (2) On the other hand, the local node parameters tend to correlate to other relevant clinical information such as age, etiology and prognosis. 
+
+**Bio:**  Lou Zonca is an applied mathematician working in computational neuroscience. Her work combines theoretical mathematics (non-linear dynamical systems, stochastic processes), development of mathematical models and algorithms, numerical simulations (in Matlab and Python), computational and machine learning tools (auto-encoders, classification algorithms) to study concrete applications in neurosciences at different scales with a particular focus on neuron-glia interactions from molecular to population level and up to whole-brain dynamics. She is currently a postdoctoral researcher at the Center for Brain and Cognition (CBC) at Pompeu Fabra University (UPF) in Barcelona, where she develops whole-brain models to study Disorders of Consciousness (DoC) with Prof. G. Deco. In particular, her goal is to propose individually calibrated models to propose novel markers aiming to capture the heterogeneity of the DoC patients, in order to help diagnosis/prognosis and to investigate therapeutic approaches. During her PhD, in Ecole Normale Supérieure in Paris, she developed new models accounting for astrocyte regulation of neuronal bursting that allowed us to decipher and predict the mechanisms underlying such regulation. She further studied these models mathematically, which led to the description of a new type of escape process for stochastic trajectories trapped in a basin of attraction, for a class of nonlinear stochastic dynamical systems.
+
+**Web:**  [https://lou-zonca.webflow.io](https://lou-zonca.webflow.io)
+
 
 ### Acknowledgements
 
