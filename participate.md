@@ -11,91 +11,36 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 <img class='img-responsive center-block' src="/images/participate/experiment.jpg" width="100%" height="100%" />
 
-#### Latest experiments (enrollment now closed, stay tuned for new opportunities in the Fall 2024): 
-1. Perception de l'authenticité dans les interactions dyadiques : [infos & inscriptions](#rudradeep)
-2. Perception de sons ambigus dans la langue maternelle et une langue étrangère: [infos & inscriptions](#paige) <br>
-3. Reconnaissance d’expressions faciales d’émotions : [infos & inscriptions](#emilie) <br>
+#### Latest experiments (enrollment opened, Fall 2024): 
+1. Réactions physiologiques pendant l’écoute de phrases : [infos & inscriptions](#camille)<br>
 
 ---
 
-<a id="rudradeep">
+<a id="camille">
 
-#### 1. Perception de l'authenticité dans les interactions dyadiques 
+#### 1. Réactions physiologiques pendant l’écoute de phrases 
 
-Dans le cadre de ma thèse à FEMTO-ST, je recherche des participants pour une expérience visant à étudier la perception humaine du couplage/contingence sociale. Quelles sont les caractéristiques qui permettent aux observateurs de déterminer que deux personnes sont en train d'interagir l'une avec l'autre ? Quelle est la fiabilité et l'efficacité de cette capacité ?
+Dans le cadre de sa thèse de Neurosciences en collaboration entre FEMTO-ST et l’hôpital Saint-Anne à Paris, Camille Des Lauriers recrute des participants pour une expérience utilisant l'EMG (électromyographie).
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Créneaux ouverts:</b> du 9 avril (mardi) au 19 avril (vendredi) 2024 <br>
-<b>Durée:</b> 1h – <b>Rémunéré</b> 15€ par carte cadeau <br>
+<b>Créneaux ouverts:</b> du 12 novembre (après-midi) et 15 novembre (après-midi) 2024 <br>
+<b>Durée:</b> 1h – <b>Rémunéré</b> 20€ par carte cadeau <br>
 </div> <br>
 
-L'expérience se déroule au laboratoire FEMTO-ST (Supmicrotech/ENSMM), et dure 1 heure. Au cours de l'expérience, vous regarderez plusieurs vidéos de personnes qui interagissent ou non entre elles et devrez dire dans quelle mesure vous êtes convaincu que l'interaction est authentique.
+L’expérience se déroule au laboratoire FEMTO-ST (Supmicrotech/ENSMM), en salle 0.60.21 (Hall AS2M) et dure 1 heure. A votre arrivée, nous vous installerons dans la cabine et vous collerons 5 électrodes EMG sur le visage (indolore) que nous remplirons de gel.
+Une fois équipé.e, vous participerez à l’expérience qui consiste en l’écoute de phrases et à répondre à des questions via un ordinateur, pendant que vos signaux musculaires faciaux seront enregistrés. A la fin de l’expérience, nous vous débarrasserons des électrodes.
 
 *Critères d'inclusion* pour participer à cette étude:
+- Participants homme/femme/autre
+- Pas d’âge spécifique
+- De langue maternelle française
+- Avec une audition normale
+- Sans problème neurologique 
 
-- vous devez avoir un compte ENSMM,
-- votre langue maternelle doit être le français
+*Lieu*: Supmicrotech: Hall AS2M, Salle 0.60.21 ([carte](../images/participate/neuro_map.pdf))
 
-*Lieu*: Batiment Transfert - Salle Design 2 (0.83.14) ([map](../images/participate/neuro_map.pdf))
+*Inscription*: [lien evento](https://evento.renater.fr/survey/experience-sur-les-reactions-physiologiques-a-l-ecoute-de-paroles-opzcbz6z)
 
-*Inscription*: [lien evento](https://evento.renater.fr/survey/horaires-de-participation-a-l-experience-tqxsoj1i)
-
-*Contact pour renseignement*: [Rudradeep Guha](../people/rudradeep_guha/), FEMTO Neuro Group.
+*Contact pour renseignement*: [Camille Des Lauriers](../people/camille_des_lauriers), FEMTO Neuro Group.
 
 ---
-
-<a id="paige">
-
-#### 2. Perception de sons ambigus dans la langue maternelle et une langue étrangère 
-
-Dans le cadre de sa thèse au laboratoire ROSIE à Simon Fraser University (Canada) et FEMTO-ST, Paige Tuttosi cherche des participants pour une expérience visant à améliorer la synthèse de voix par ordinateur pour les auditeurs de langue étrangère. Quels doivent être les mots à accentuer et les pauses à marquer, cad quelle voix est la plus efficace pour enseigner une deuxième langue (L2) et se faire comprendre d'auditeurs non-natifs ?
-
-<div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Créneaux ouverts:</b> Mercredi 7 Février 2024, Vendredi 9 Février 2024 (2 créneaux obligatoires)  <br>
-<b>Durée:</b> 2 sessions de 1h – <b>Rémunéré</b> 30€ par carte cadeau <br>
-</div> <br>
-
-L'expérience a lieu au laboratoire FEMTO-ST (Supmicrotech/ENSMM), et consiste en deux sessions d'une heure séparées de quelques jours. Pendant l'expérience, vous écouterez plusieurs prononciations de mots ambigus en français et en anglais et évaluerez les voix.
-
-*Critères d'inclusion* pour participer à cette étude:
-
-- vous devez avoir 18 ans ou plus, 
-- ne pas être malentendant, 
-- être soit de langue maternelle française et avoir un niveau d'anglais moyen (B1 au moins) à avancé (presque fluidité est acceptable), soit l'inverse (langue maternelle anglaise avec niveau B1 ou plus en français).
-
-*Lieu*: Batiment Transfert - Salle Design 2 (0.83.14) ([map](../images/participate/neuro_map.pdf))
-
-*Inscription*: [lien evento](https://www.eventbrite.com/e/billets-ameliorer-les-voix-denseignement-des-deuxiemes-langues-815239903497)
-
-*Contact pour renseignement*: [Paige Tuttosi](../people/paige_tuttosi/), FEMTO Neuro Group.
-
---- 
-
-
-<a id="emilie">
-
-#### 3. Reconnaissance d’expressions faciales d’émotions
-
-Le laboratoire FEMTO-ST (CNRS/Université de Bourgogne Franche-Comté) en collaboration avec le Laboratoire de Perception Visuelle et Sociale de l’UQO (LPVS, Québec, Canada) est actuellement à la recherche de participants pour une étude portant sur la reconnaissance d’expressions faciales d’émotions. 
-
-<div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Créneaux ouverts:</b> du 12 au 16 Février 2024 <br>
-<b>Durée:</b> 1h – <b>Rémunéré</b> 15€ par carte cadeau<br>
-</div> <br>
-
-L’expérimentation consiste en une tâche informatisée à effectuer lors d’une seule séance d’une durée d’environ 1 heure. Au cours de cette rencontre, vous serez amené à visualiser des visages exprimant différentes émotions et à identifier celui que vous préférez pour exprimer les émotions de joie, de colère et de tristesse. 
-
-En guise de remerciement pour votre précieuse participation, une compensation financière de 15€ vous sera remise!
-
-*Critères d'inclusion* pour participer à cette étude:
-Vous êtes admissibles si :
-- Vous êtes âgé(e) de 18 ans et plus
-- Vous êtes disponible le lundi 12 février ou le jeudi 15 février
-- Votre vision est normale ou corrigée (par exemple, en portant des lunettes)
-- Vous souhaitez contribuer à l’avancement des connaissances dans le domaine de la reconnaissance des émotions !
-
-*Lieu*: Batiment Transfert - Salle Design 2 (0.83.14) ([map](../images/participate/neuro_map.pdf))
-
-*Inscription*: [lien evento](https://www.eventbrite.com/e/participation-a-un-projet-de-recherche-en-reconnaissance-des-emotions-tickets-825090928177)
-
-*Contact pour renseignement*: [Emilie StPierre](../people/emilie_st_pierre/), FEMTO Neuro Group. 
