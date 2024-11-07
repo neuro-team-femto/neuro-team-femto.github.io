@@ -33,7 +33,7 @@ Une fois équipé.e, vous participerez à l’expérience qui consiste en l’é
 *Critères d'inclusion* pour participer à cette étude:
 - Participants homme/femme/autre
 - Pas d’âge spécifique
-- De langue maternelle française
+- Bon niveau de français 
 - Avec une audition normale
 - Sans problème neurologique 
 
