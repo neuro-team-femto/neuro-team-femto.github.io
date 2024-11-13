@@ -3,13 +3,24 @@ title: Participate
 permalink: /participate/
 ---
 
-
+<span style="display: block; margin-bottom: 3em"></span> 
 ### Participate in our experiments
-
 
 The FEMTO Neuro Group is regularly enrolling participants for science experiments. 
 
 <img class='img-responsive center-block' src="/images/participate/experiment.jpg" width="100%" height="100%" />
+
+<div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
+    <div style="text-align:left">
+        <h3> We're hiring ! </h3>
+        <ul style="list-style-position:outside;padding:15px" >
+        <li>
+        One 5-month, paid <b>research internship</b> on the development of a real-time device for voice neuroscience. <a href="2024/09/19/M2_internship_io.html">[Announcement (FR)]</a> - <b> Deadline: Dec. 15th, 2024 </b>.
+        </li>
+        </ul> 
+    </div>
+</div>
+<span style="display: block; margin-bottom: 3em"></span> 
 
 #### Latest experiments (enrollment opened, Fall 2024): 
 1. Réactions physiologiques pendant l’écoute de phrases : [infos & inscriptions](#camille)<br>
