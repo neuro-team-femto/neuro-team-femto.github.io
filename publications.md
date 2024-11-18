@@ -17,6 +17,16 @@ In addition to resources specific to papers below, we also develop and maintain 
 
 ### 2024
 
+[_Aligning the smiles of dating dyads causally increases attraction_](https://www.pnas.org/doi/10.1073/pnas.2400369121) <br>
+Arias-Sarah, P., Bedoya, D., Daube, C., *Aucouturier, JJ.*, Hall, L., Johansson, P. <br>
+Proceedings of the National Academy of Sciences 121 (45), e2400369121<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/arias_pnas_2024.pdf)
+
+[_Emotional contagion to vocal smile revealed by combined pupil reactivity and motor resonance_](https://www.nature.com/articles/s41598-024-74848-w)
+Merchie, A., Ranty, Z., Aguillon-Hernandez, N., Aucouturier,  JJ., Wardak, C., Gomot, M. <br>
+Scientific Reports 14 (1), 25043<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/merchie_scirep_2024.pdf)
+
 [_Neural adaptation to changes in self-voice during puberty_](https://www.cell.com/trends/neurosciences/abstract/S0166-2236(24)00142-5) <br>
 Pinheiro, A., *Aucouturier, JJ* & Kotz, Sonja. <br>
 Trends in Neurosciences, August 2024. <br>
@@ -52,11 +62,6 @@ OSF Preprints, 2024. <br>
 Merchie, A., Ranty, Z., *Adl Zarrabi, A.*, Bonnet-Brilhault, F., Houy-Durand, E., Aucouturier, JJ. & Gomot, M. <br>
 PsyArXiv Preprints, 2024. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/merchie_psyarxiv_2024.pdf)
-
-[_‘My face is listening to your smile’: Emotional contagion to vocal smile revealed by combined pupil reactivity and motor resonance_](https://osf.io/preprints/psyarxiv/5crey)<br>
-Merchie, A., Ranty, Z., Aguillon-Hernandez, N., Aucouturier, JJ, Wardak, C. & Gomot, M. <br>
-PsyArXiv Preprints, 2024. <br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/merchie_psyarxiv_2_2024.pdf)
 
 
 <hr>
