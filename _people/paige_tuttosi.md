@@ -1,6 +1,6 @@
 ---
 name: Paige Tuttösí
-position: visiting
+position: phdstudent
 avatar: paige_tuttosi.jpg
 location: besançon
 joined: 2023

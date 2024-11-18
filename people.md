@@ -78,9 +78,15 @@ Our group is co-located on two sites, in the FEMTO-ST Institute in Besançon and
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Marie Villain](/people/marie_villain/index.html) | Postdoc (2022-2024) | Assistant Professor, Sorbonne Université, Paris, FR | 
+| [Sarah Benghanem](/people/sarah_benghanem/index.html) | PhD student (2021-2024) | Postdoc, University of Geneva, CH |
+| Juan Diego Díaz | Master student (2024) | Continuing M2 studies in Sorbonne Université, FR | 
+| Umut Kurnaz | Master student (2024) | Continuing M2 studies in Université Paris-Saclay, FR |
+| [Nadia Guerouaou](/people/nadia_guerouaou/index.html) | PhD student (2020-2024) | Contract lecturer, ESSEC Paris, FR  | 
+| [Estelle Pruvost-Robieux](/people/estelle_pruvost/index.html) | PhD student (2020-2024) | Assistant Professor (MCU-PH), Université Paris Cité FR | 
 | Saib Hamouza | Master student (2023) | Continuing studies at Supmicrotech ENSMM, Besançon FR |
-| [Paul Maublanc](/people/paul_maublanc/index.html) | Master student (2022), then contract engineer (2022-2023) | PhD student with Boris Kleber, Aarhus University, DK  |
-| [Coralie Joucla](/people/coralie_joucla/index.html) | Postdoc, project ANR SEPIA (2022-2023) |  |
+| [Paul Maublanc](/people/paul_maublanc/index.html) | Research engineer (2022-2023) | PhD student with Boris Kleber, Aarhus University, DK  |
+| [Coralie Joucla](/people/coralie_joucla/index.html) | Postdoc, project ANR SEPIA (2022-2023) | Clinical project manager, SOPHYSA, Besançon, FR |
 | [Alexander Gontran-Massey](https://www.linkedin.com/in/alexander-gontran-massey/) | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR | 
 | [Céline Vanney](https://www.linkedin.com/in/celine-vanney) | Master Student (2022) | Continuing studies at ISIFC, Besançon, FR |
 | [Quentin Decultot](https://www.linkedin.com/in/quentin-décultot-b41b62202) | Master Student (2021) | Web developper, SOLUTEC, Lyon, FR |

@@ -1,6 +1,6 @@
 ---
 name: Umut Kurnaz
-position: masterstudent
+position: alumni
 avatar: umut_kurnaz.jpg
 location: besancon
 joined: 2023

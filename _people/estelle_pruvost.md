@@ -1,6 +1,6 @@
 ---
 name: Estelle Pruvost-Robieux
-position: phdstudent
+position: alumni
 avatar: estelle_pruvost.jpg
 location: paris
 twitter: 

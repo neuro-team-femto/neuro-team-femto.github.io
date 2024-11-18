@@ -1,6 +1,6 @@
 ---
 name: Nadia Guerouaou
-position: phdstudent
+position: alumni
 avatar: nadia_guerouaou.jpg
 location: paris
 twitter: GuerouaouN

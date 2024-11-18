@@ -1,6 +1,6 @@
 ---
 name: Marie Villain
-position: postdoc
+position: alumni
 avatar: marie_villain.jpg
 location: paris
 joined: 2022
