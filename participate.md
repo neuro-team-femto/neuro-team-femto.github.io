@@ -12,7 +12,7 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
     <div style="text-align:left">
-        <h3> We're hiring ! </h3>
+        <h3> Looking for an internship ? We're hiring ! </h3>
         <ul style="list-style-position:outside;padding:15px" >
         <li>
         One 5-month, paid <b>research internship</b> on the development of a real-time device for voice neuroscience. <a href="2024/09/19/M2_internship_io.html">[Announcement (FR)]</a> - <b> Deadline: Dec. 15th, 2024 </b>.
