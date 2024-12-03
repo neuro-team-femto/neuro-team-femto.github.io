@@ -6,7 +6,7 @@ header-img: images/post/position/position.jpg
 
 ### Stage de M1/M2: Développement d'une librairie Python open-source d'interfaçage avec un contrôleur LabVIEW CompactRIO, pour un dispositif de recherche en neurosciences. 
 
-*Deadline pour la candidature:* 15 Décembre 2025 <br>
+*Deadline pour la candidature:* 15 Janvier 2025 <br>
 *Start date:* Mars ou Avril 2025 <br>
 *Durée:* 4-5 mois<br>
 
@@ -72,7 +72,7 @@ Envoyer les élements suivants par email à Patrick Nectoux ([patrick.nectoux@fe
 2. une lettre de motivation (détaillant obligatoirement vos expériences de conception de systèmes communiquants, en programmation Python et en programmation LabVIEW), 
 3. le nom et le contact de 1 référent académique (professeur, tuteur de stage, etc.) à même de vous recommander (pas besoin de lettre de recommandation au moment de la candidature) 
 
-**Date limite de candidature: 15 Décembre 2024**. Les candidat.e.s retenu.e.s sur la base de leur dossier seront convoqué.e.s pour un entretien. Les candidatures seront évaluées au fil de l'eau au cours de l'automne 2024, et le stage pourra être pourvu avant la deadline. 
+**Date limite de candidature: 15 Janvier 2025**. Les candidat.e.s retenu.e.s sur la base de leur dossier seront convoqué.e.s pour un entretien. Les candidatures seront évaluées au fil de l'eau au cours de l'automne 2024, et le stage pourra être pourvu avant la deadline. 
 
 **Dates du stage:** Printemps-Ete 2025 (ex. Mars - Août 2025), selon le calendrier de la formation du/de la candidat.e. Durée minimum souhaitée 4 mois.  
 
