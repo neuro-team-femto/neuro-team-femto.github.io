@@ -24,8 +24,9 @@ For our inaugural 2024-2025 series, we have assembled a program with a fantastic
 | <span style="color:red">Tue.</span> Sept 17, 2024 (<span style="color:red">Note unusual day</span>)| 2pm | [Prof. J. Nathan Kutz](http://faculty.washington.edu/kutz/) (Dept. Applied Mathematics, University of Washington) | Modern Sensing and Learning with Machine Learning | Amphi JJ. Gagnepain |
 | Thu. Oct 17, 2024 | 2pm | [Dr Nicolas Boullé](https://nboulle.github.io/) (Dept. Applied Mathematics, Imperial College London) | An overview of operator learning | Amphi J. Haag |
 | Thu. Nov 21, 2024 | 2pm | [Dr Lou Zonca](https://lou-zonca.webflow.io/) (Center for Brain & Cognition, University Pompeu Fabra, Barcelona) | Modeling disorders of consciousness at the patient level reveals the network's influence on the diagnosis vs the local node parameters role in prognosis | Amphi JJ. Gagnepain |
-| Thu. Dec 19, 2024 | 2pm | [Dr Emmanuel De Bezenac](https://scholar.google.fr/citations?user=KvZw5gYAAAAJ&hl=en) (Dept of Mathematics, UTH Zurich) | tba | Amphi J. Haag |
-| Thu. Jan 17, 2025 | 2pm | [Dr Zahra Monfared](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) (Interdisciplinary Center for Scientific Computing, Heidelberg University) | tba | Amphi JJ Gagnepain |
+| <del>Thu. Dec 19, 2024</del>del> | <del>2pm</del> | <span style="color:red">Cancelled </span> <del> [Dr Emmanuel De Bezenac](https://scholar.google.fr/citations?user=KvZw5gYAAAAJ&hl=en) (Dept of Mathematics, UTH Zurich)</del> | <del>tba</del> | <del>Amphi J. Haag</del> |
+| Wed. Jan 15 + Thu. Jan 16, 2025 | 9:45-17:00 | Satellite workshop ([program & free registration](https://sites.google.com/unipv.it/sciml-errorcontrolanalysis)) | Scientific Machine Learning: error control and analysis | [Laboratoire de Mathématiques de Besançon](https://lmb.univ-fcomte.fr/acces/) | 
+| Fri. Jan 17, 2025 | 2pm | [Dr Zahra Monfared](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) (Interdisciplinary Center for Scientific Computing, Heidelberg University) | tba | Amphi JJ Gagnepain |
 | Thu. Feb 20, 2025 | 2pm | [Dr Karim Cherifi](https://scholar.google.com/citations?user=gE5RRyEAAAAJ&hl=en) (Centre for Industry and Science, TU Berlin) | tba | Amphi J. Haag |
 | Thu. Mar 20, 2025 | 2pm | [Dr Lorenzo Fontolan](https://fontolanl.github.io/) (Turing Center for Living Systems, Aix-Marseille University) | tba | Amphi JJ. Gagnepain |
 | Thu. Apr 17, 2025 | 2pm | [Dr Richard Gao](http://www.rdgao.com/) (Tübingen AI Center, University of Tübingen) | tba | Amphi J. Haag |
@@ -87,6 +88,16 @@ I will present my latest results regarding the construction of a modeling pipeli
 **Bio:**  Lou Zonca is an applied mathematician working in computational neuroscience. Her work combines theoretical mathematics (non-linear dynamical systems, stochastic processes), development of mathematical models and algorithms, numerical simulations (in Matlab and Python), computational and machine learning tools (auto-encoders, classification algorithms) to study concrete applications in neurosciences at different scales with a particular focus on neuron-glia interactions from molecular to population level and up to whole-brain dynamics. She is currently a postdoctoral researcher at the Center for Brain and Cognition (CBC) at Pompeu Fabra University (UPF) in Barcelona, where she develops whole-brain models to study Disorders of Consciousness (DoC) with Prof. G. Deco. In particular, her goal is to propose individually calibrated models to propose novel markers aiming to capture the heterogeneity of the DoC patients, in order to help diagnosis/prognosis and to investigate therapeutic approaches. During her PhD, in Ecole Normale Supérieure in Paris, she developed new models accounting for astrocyte regulation of neuronal bursting that allowed us to decipher and predict the mechanisms underlying such regulation. She further studied these models mathematically, which led to the description of a new type of escape process for stochastic trajectories trapped in a basin of attraction, for a class of nonlinear stochastic dynamical systems.
 
 **Web:**  [https://lou-zonca.webflow.io](https://lou-zonca.webflow.io)
+
+#### January satellite workshop: Jan 15th - 16th, 2025
+
+<img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/learning/workshop.jpg'>  Our colleagues [Geneviève Dusson](https://gdusson.perso.math.cnrs.fr/) (CNRS, Université de Franche-Comté Besançon) & [Carlo Marcati](https://mate.unipv.it/marcati/) (Università di Pavia) are organizing a 2-day internation workshop on Scientific Machine Learning. Topics include neural networks and neural operators for PDEs, nonlinear reduced order modeling, low-rank approximation, operator learning and interactions between model order reduction and SciML. 
+
+The workshop will be held at the Laboratoire de Mathématiques de Besançon ([access map](https://lmb.univ-fcomte.fr/acces/)).
+
+Program and link for (mandatory) free registration: [https://sites.google.com/unipv.it/sciml-errorcontrolanalysis](https://sites.google.com/unipv.it/sciml-errorcontrolanalysis)
+
+
 
 
 ### Acknowledgements
