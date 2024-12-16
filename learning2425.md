@@ -9,7 +9,7 @@ permalink: /learning2425/
 <br>
 
 
-Together with our FEMTO colleagues [Prof. John Dudley](https://www.femto-st.fr/en/femto-people/johndudley), Professor of Optical Physics, and [Dr Rafael Teloli](https://www.femto-st.fr/fr/personnel-femto/rafaelteloli), Assistant Prof. in Mechanical Engineering, the [FEMTO Neuro group](https://neuro-team-femto.github.io/) is putting together a monthy series of invited seminars on the topic of machine learning for dynamical systems. 
+Together with our FEMTO colleagues [Prof. John Dudley](https://www.femto-st.fr/en/femto-people/johndudley), Professor of Optical Physics, and [Dr Rafael Teloli](https://www.femto-st.fr/fr/personnel-femto/rafaelteloli), Assistant Prof. in Mechanical Engineering, the [FEMTO Neuro group](https://neuro-team-femto.github.io/) is putting together a monthly series of invited seminars on the topic of machine learning for dynamical systems. 
 
 The "Learning & Dynamics" Seminar Series wishes to address - roughly defined - *how one may analyse & discover physically-interpretable models of dynamical systems on the basis of observed temporal data, rather than attempt to study them in a purely analytical manner*. Our seminar aims to address interdisciplinary applications across complex physical or physiological systems, such as neuroscience, non-linear optics or fluid mechanics.
 
