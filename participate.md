@@ -34,7 +34,7 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 Dans le cadre de sa thèse de Neurosciences en collaboration entre FEMTO-ST et l’hôpital Saint-Anne à Paris, Camille Des Lauriers recrute des participants pour une expérience utilisant l'EEG (électro-encéphalographie).
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Créneaux ouverts:</b> du 20 jamvier (après-midi) au 30 janvier (après-midi) 2025 <br>
+<b>Créneaux ouverts:</b> du 20 janvier au 30 janvier 2025 <br>
 <b>Durée:</b> 1h – <b>Rémunéré</b> 30€ par carte cadeau <br>
 </div> <br>
 
