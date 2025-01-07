@@ -29,17 +29,16 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 <a id="camille">
 
-#### 1. Réactions physiologiques pendant l’écoute de phrases 
+#### 1. Expérience d'imagerie cérébrale (EEG) sur les réactions du cerveau à l'écoute de paroles 
 
-Dans le cadre de sa thèse de Neurosciences en collaboration entre FEMTO-ST et l’hôpital Saint-Anne à Paris, Camille Des Lauriers recrute des participants pour une expérience utilisant l'EMG (électromyographie).
+Dans le cadre de sa thèse de Neurosciences en collaboration entre FEMTO-ST et l’hôpital Saint-Anne à Paris, Camille Des Lauriers recrute des participants pour une expérience utilisant l'EEG (électro-encéphalographie).
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Créneaux ouverts:</b> du 12 novembre (après-midi) au 15 novembre (après-midi) 2024 <br>
-<b>Durée:</b> 1h – <b>Rémunéré</b> 20€ par carte cadeau <br>
+<b>Créneaux ouverts:</b> du 20 jamvier (après-midi) au 30 janvier (après-midi) 2025 <br>
+<b>Durée:</b> 1h – <b>Rémunéré</b> 30€ par carte cadeau <br>
 </div> <br>
 
-L’expérience se déroule au laboratoire FEMTO-ST (Supmicrotech/ENSMM), en salle 0.60.21 (Hall AS2M) et dure 1 heure. A votre arrivée, nous vous installerons dans la cabine et vous collerons 5 électrodes EMG sur le visage (indolore) que nous remplirons de gel.
-Une fois équipé.e, vous participerez à l’expérience qui consiste en l’écoute de phrases et à répondre à des questions via un ordinateur, pendant que vos signaux musculaires faciaux seront enregistrés. A la fin de l’expérience, nous vous débarrasserons des électrodes.
+L’expérience se déroule au laboratoire FEMTO-ST (Supmicrotech/ENSMM), en salle 0.60.21 (Hall AS2M) et dure 2 heures. A votre arrivée, nous vous installerons dans la cabine et vous équiperons d’un bonnet dans lequel seront fixées des électrodes de contact. Ces électrodes sont posées sur le cuire chevelu, sans aucune intrusion, juste mise par pression sur le bonnet. Nous améliorerons alors le contact des électrodes avec du gel électrolyte de type « échographie », inséré à la seringue (sans aiguille !) dans chaque électrode. Une fois équipé de la sorte (la procédure prend environ 30min), vous participerez à l’expérience qui consiste à l’écoute de phrases et à répondre à des questions via un ordinateur, pendant que vos signaux EEG seront enregistrés. A la fin de l’expérience, nous vous débarrasserons du casque. Selon vote type de cheveux, leur longueur ainsi que la quantité de gel utilisé, vous aurez la possibilité de vous les laver sur place (nous fournissons serviette, shampoing et sèche-cheveux) 
 
 *Critères d'inclusion* pour participer à cette étude:
 - Participants homme/femme/autre
@@ -50,7 +49,7 @@ Une fois équipé.e, vous participerez à l’expérience qui consiste en l’é
 
 *Lieu*: Supmicrotech: Hall AS2M, Salle 0.60.21 ([carte](../images/participate/neuro_map.pdf))
 
-*Inscription*: [lien evento](https://evento.renater.fr/survey/experience-sur-les-reactions-physiologiques-a-l-ecoute-de-paroles-opzcbz6z)
+*Inscription*: [lien evento](https://evento.renater.fr/survey/experience-d-imagerie-cerebrale-eeg-sur-les-reactions-du-cerveau-a-l-ecoute-de-paroles-2r19d95p)
 
 *Contact pour renseignement*: [Camille Des Lauriers](../people/camille_des_lauriers), FEMTO Neuro Group.
 
