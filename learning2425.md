@@ -26,12 +26,13 @@ For our inaugural 2024-2025 series, we have assembled a program with a fantastic
 | Thu. Nov 21, 2024 | 2pm | [Dr Lou Zonca](https://lou-zonca.webflow.io/) (Center for Brain & Cognition, University Pompeu Fabra, Barcelona) | Modeling disorders of consciousness at the patient level reveals the network's influence on the diagnosis vs the local node parameters role in prognosis | Amphi JJ. Gagnepain |
 | <del>Thu. Dec 19, 2024</del>del> | <del>2pm</del> | <span style="color:red">Cancelled </span> <del> [Dr Emmanuel De Bezenac](https://scholar.google.fr/citations?user=KvZw5gYAAAAJ&hl=en) (Dept of Mathematics, UTH Zurich)</del> | <del>tba</del> | <del>Amphi J. Haag</del> |
 | Wed. Jan 15 + Thu. Jan 16, 2025 | 9:45-17:00 | Satellite workshop ([program & free registration](https://sites.google.com/unipv.it/sciml-errorcontrolanalysis)) | Scientific Machine Learning: error control and analysis | [Laboratoire de Mathématiques de Besançon](https://lmb.univ-fcomte.fr/acces/) | 
-| Fri. Jan 17, 2025 | 2pm | [Dr Zahra Monfared](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) (Interdisciplinary Center for Scientific Computing, Heidelberg University) | tba | Amphi JJ Gagnepain |
 | Thu. Feb 20, 2025 | 2pm | [Dr Karim Cherifi](https://scholar.google.com/citations?user=gE5RRyEAAAAJ&hl=en) (Centre for Industry and Science, TU Berlin) | tba | Amphi J. Haag |
-| Thu. Mar 20, 2025 | 2pm | [Dr Lorenzo Fontolan](https://fontolanl.github.io/) (Turing Center for Living Systems, Aix-Marseille University) | tba | Amphi JJ. Gagnepain |
+| Thu. Mar 20, 2025 | 2pm | [Dr Zahra Monfared](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) (Interdisciplinary Center for Scientific Computing, Heidelberg University) | Learning dynamics with RNNs: from training difficulties to gradient-free solutions | Amphi JJ Gagnepain |
 | Thu. Apr 17, 2025 | 2pm | [Dr Richard Gao](http://www.rdgao.com/) (Tübingen AI Center, University of Tübingen) | tba | Amphi J. Haag |
-| Thu. May 15, 2025 | 2pm | tba | tba | Amphi J. Haag |
+| Thu. May 22, 2025 | 2pm | [Dr Lorenzo Fontolan](https://fontolanl.github.io/) (Turing Center for Living Systems, Aix-Marseille University) | tba | Amphi JJ. Gagnepain |
 | Thu. June 19, 2025 | 2pm | tba | tba | Amphi J. Haag |
+
+
 
 #### Time & Place
 
@@ -96,6 +97,37 @@ I will present my latest results regarding the construction of a modeling pipeli
 The workshop will be held at the Laboratoire de Mathématiques de Besançon ([access map](https://lmb.univ-fcomte.fr/acces/)).
 
 Program and link for (mandatory) free registration: [https://sites.google.com/unipv.it/sciml-errorcontrolanalysis](https://sites.google.com/unipv.it/sciml-errorcontrolanalysis)
+
+
+#### February Seminar: Thu. Feb 20, 2025
+
+<img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/learning/karim_cherifi.jpg'>  
+
+**Speaker:** Dr. Karim Cherifi, University of Wuppertal (Germany).
+
+**Title:** Learning and data-driven modeling of port-Hamiltonian systems
+
+**Abstract:** Port-Hamiltonian systems have received a lot of attention in recent years because of their interesting properties in modeling and control. They are especially useful for system interconnection because they retain their port-Hamiltonian structure. These structured systems, which are also close to physics, allow for a more generic understanding of the underlying dynamics of physical systems. However, data-driven modeling of port-Hamiltonian systems remains an open problem, particularly for nonlinear systems. In this talk, we look at the recent emergence of scientific machine learning techniques for learning port-Hamiltonian systems. More specifically, we compare between different architectures for learning port Hamiltonian systems from data and discuss different strategies to enable a more efficient training. Finally, we illustrate our results with different examples of physical systems.
+
+**Bio:**  Karim Cherifi is a researcher at the University of Wuppertal (Germany) in the field of control theory with a focus on model reduction and data-driven modeling. In recent years, his main focus has been on modeling port-Hamiltonian systems. He is part of the newly established institute for port-Hamiltonian systems in Wuppertal. He obtained his PhD in Control theory in 2019 from the Institute of Electrical and Electronic Engineering in Boumerdes (Algeria). Afterwards, he was a postdoctoral researcher at the Max Planck Institute (MPI) for Dynamics of Complex Technical Systems in Magdeburg (Germany) and later at the Technical University of Berlin (Germany) where he was involved in the design of digital twins for Large Drive Applications within the project ’Elektrische Antriebe 2.0’ as part of the Werner-von-Siemens Centre for Industry and Science in Berlin. In terms of applications, Karim is involved in multiple industrial projects with a focus on modeling for digital twins. He is co-editor of a book on "physics based and data driven modeling for digital twins" that is about to appear. He obtained his PhD in Control theory in 2019. His expertise ranges from physical systems modeling, model reduction, data-driven modeling with a special focus on industrial applications.
+
+**Web:**  [https://lou-zonca.webflow.io](https://lou-zonca.webflow.io)
+
+#### March Seminar: Thu. Mar 20, 2025
+
+<img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/learning/zahra_monfared.jpg'>  
+
+**Speaker:** Dr. Zahra Monfared, Heidelberg University (Germany).
+
+**Title:** Learning dynamics with RNNs: from training difficulties to gradient-free solutions
+
+**Abstract:** Recurrent neural networks (RNNs) are a successful neural architecture for many time-dependent problems, including time series analysis, forecasting, and modeling of dynamical systems (DS). Training such networks with Backpropagation Through Time (BPTT) is a notoriously difficult problem because their loss gradients tend to saturate or diverge during training, referred to as the Exploding and Vanishing Gradient Problem (EVGP). For all major types of RNNs, including LSTMs and GRUs, the dynamics and loss gradients of RNNs are closely linked. If the RNN is “well behaved”, i.e. its dynamics converge to a stable fixed point or cycle, loss gradients will remain bounded, but they may vanish. Yet, established remedies can be used to effectively prevent their gradients from vanishing. However, in chaotic dynamics, gradients invariably explode, posing a challenge that cannot be mitigated through RNN architectural adjustments, regularization, or constraints; instead, it necessitates addressing the problem during the training process. Bifurcations may also contribute to sudden jumps in loss observed during RNN training, potentially hindering the training process severely. Therefore, to harness the full potential of RNNs, the training algorithm needs careful design to tackle challenges posed by bifurcations and chaos. Recently, we introduced a computational approach to construct all RNN weights and biases without using gradient-based methods, employing random feature networks and Koopman operator theory. This drastically reduces computational time while maintaining competitive performance, as demonstrated on several well-known DS—both uncontrolled and controlled. The connection to Koopman operator theory also allows us to start using results in this area to analyze RNNs. Through experiments, we observed very short training times—typically just seconds—and our method does not necessitate large amounts of data. Moreover, by sampling the hidden layers, we avoided BPTT which alleviates the problems with BPTT, such as EVGP.
+
+**Bio:**  I am an independent BMBF Research Group Leader in Dynamical Systems and AI at Heidelberg University. Before that, I was a postdoc at the Technical University of Munich in Physics-Enhanced Machine Learning and at Heidelberg University in Scientific Machine Learning and Computational Neuroscience. I obtained a PhD in Applied Mathematics (Dynamical Systems) and an MSc in Pure Mathematics (Geometry and Differential Equations). I am interested in the Mathematical Foundations of AI, Scientific Machine Learning, and Complex Dynamical Systems, with applications in Neuroscience, Weather and Climate, Engineering, and Economics. Specifically, my work mainly focuses on two research directions: 1) Dynamical Systems for AI; and 2) AI for Dynamical Systems. I was awarded prestigious BMBF research funding to establish my independent research group in 2024 and the NeurIPS Outstanding Reviewer Award in 2021.
+
+**Web:** [https://zmonfared.github.io/DSAIlab/](https://zmonfared.github.io/DSAIlab/)
+
+
 
 
 
