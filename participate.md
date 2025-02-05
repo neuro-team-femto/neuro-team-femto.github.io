@@ -10,26 +10,16 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 <img class='img-responsive center-block' src="/images/participate/experiment.jpg" width="100%" height="100%" />
 
-<div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-    <div style="text-align:left">
-        <h3> Looking for an internship ? We're hiring ! </h3>
-        <ul style="list-style-position:outside;padding:15px" >
-        <li>
-        One 5-month, paid <b>research internship</b> on the development of a real-time device for voice neuroscience. <a href="2024/09/19/M2_internship_io.html">[Announcement (FR)]</a> - <b> Deadline: Dec. 15th, 2024 </b>.
-        </li>
-        </ul> 
-    </div>
-</div>
-<span style="display: block; margin-bottom: 3em"></span> 
+<span style="display: block; margin-bottom: 3em"></span>
 
-#### Latest experiments (enrollment opened, Fall 2024): 
-1. Réactions physiologiques pendant l’écoute de phrases : [infos & inscriptions](#camille)<br>
+#### Latest experiments (enrollment opened, Winter 2025): 
+1. <span style="color:red"> Recrutement terminé </span> Réactions physiologiques pendant l’écoute de phrases : [infos & inscriptions](#camille)<br>
 
 ---
 
 <a id="camille">
 
-#### 1. Expérience d'imagerie cérébrale (EEG) sur les réactions du cerveau à l'écoute de paroles 
+#### 1. Expérience d'imagerie cérébrale (EEG) sur les réactions du cerveau à l'écoute de paroles <span style="color:red"> Recrutement terminé </span> 
 
 Dans le cadre de sa thèse de Neurosciences en collaboration entre FEMTO-ST et l’hôpital Saint-Anne à Paris, Camille Des Lauriers recrute des participants pour une expérience utilisant l'EEG (électro-encéphalographie).
 
@@ -49,7 +39,7 @@ L’expérience se déroule au laboratoire FEMTO-ST (Supmicrotech/ENSMM), en sal
 
 *Lieu*: Supmicrotech: Hall AS2M, Salle 0.60.21 ([carte](../images/participate/neuro_map.pdf))
 
-*Inscription*: [lien evento](https://evento.renater.fr/survey/experience-d-imagerie-cerebrale-eeg-sur-les-reactions-du-cerveau-a-l-ecoute-de-paroles-2r19d95p)
+*Inscription*: <span style="color:red"> Recrutement terminé </span>
 
 *Contact pour renseignement*: [Camille Des Lauriers](../people/camille_des_lauriers), FEMTO Neuro Group.
 
