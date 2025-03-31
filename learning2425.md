@@ -28,7 +28,7 @@ For our inaugural 2024-2025 series, we have assembled a program with a fantastic
 | Wed. Jan 15 + Thu. Jan 16, 2025 | 9:45-17:00 | Satellite workshop ([program & free registration](https://sites.google.com/unipv.it/sciml-errorcontrolanalysis)) | Scientific Machine Learning: error control and analysis | [Laboratoire de Mathématiques de Besançon](https://lmb.univ-fcomte.fr/acces/) | 
 | Thu. Feb 20, 2025 | 2pm | [Dr Karim Cherifi](https://scholar.google.com/citations?user=gE5RRyEAAAAJ&hl=en) (Centre for Industry and Science, TU Berlin) | Learning and data-driven modeling of port-Hamiltonian systems | Amphi J. Haag |
 | Thu. Mar 20, 2025 | 2pm | [Dr Zahra Monfared](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) (Interdisciplinary Center for Scientific Computing, Heidelberg University) | Learning dynamics with RNNs: from training difficulties to gradient-free solutions | Amphi JJ Gagnepain |
-| Thu. Apr 17, 2025 | 2pm | [Dr Richard Gao](http://www.rdgao.com/) (Tübingen AI Center, University of Tübingen) | tba | Amphi J. Haag |
+| Thu. Apr 17, 2025 | 2pm | [Dr Richard Gao](http://www.rdgao.com/) (Tübingen AI Center, University of Tübingen) | Accelerating discovery of data-driven models and theories of neural dynamics | Amphi J. Haag |
 | Thu. May 22, 2025 | 2pm | [Dr Lorenzo Fontolan](https://fontolanl.github.io/) (Turing Center for Living Systems, Aix-Marseille University) | tba | Amphi JJ. Gagnepain |
 | Thu. June 19, 2025 | 2pm | tba | tba | Amphi J. Haag |
 
@@ -111,7 +111,7 @@ Program and link for (mandatory) free registration: [https://sites.google.com/un
 
 **Bio:**  Karim Cherifi is a researcher at the University of Wuppertal (Germany) in the field of control theory with a focus on model reduction and data-driven modeling. In recent years, his main focus has been on modeling port-Hamiltonian systems. He is part of the newly established institute for port-Hamiltonian systems in Wuppertal. He obtained his PhD in Control theory in 2019 from the Institute of Electrical and Electronic Engineering in Boumerdes (Algeria). Afterwards, he was a postdoctoral researcher at the Max Planck Institute (MPI) for Dynamics of Complex Technical Systems in Magdeburg (Germany) and later at the Technical University of Berlin (Germany) where he was involved in the design of digital twins for Large Drive Applications within the project ’Elektrische Antriebe 2.0’ as part of the Werner-von-Siemens Centre for Industry and Science in Berlin. In terms of applications, Karim is involved in multiple industrial projects with a focus on modeling for digital twins. He is co-editor of a book on "physics based and data driven modeling for digital twins" that is about to appear. He obtained his PhD in Control theory in 2019. His expertise ranges from physical systems modeling, model reduction, data-driven modeling with a special focus on industrial applications.
 
-**Web:**  [https://lou-zonca.webflow.io](https://lou-zonca.webflow.io)
+**Web:**  [https://scholar.google.com/citations?user=gE5RRyEAAAAJ&hl=en](https://scholar.google.com/citations?user=gE5RRyEAAAAJ)
 
 #### March Seminar: Thu. Mar 20, 2025
 
@@ -126,6 +126,21 @@ Program and link for (mandatory) free registration: [https://sites.google.com/un
 **Bio:**  I am an independent BMBF Research Group Leader in Dynamical Systems and AI at Heidelberg University. Before that, I was a postdoc at the Technical University of Munich in Physics-Enhanced Machine Learning and at Heidelberg University in Scientific Machine Learning and Computational Neuroscience. I obtained a PhD in Applied Mathematics (Dynamical Systems) and an MSc in Pure Mathematics (Geometry and Differential Equations). I am interested in the Mathematical Foundations of AI, Scientific Machine Learning, and Complex Dynamical Systems, with applications in Neuroscience, Weather and Climate, Engineering, and Economics. Specifically, my work mainly focuses on two research directions: 1) Dynamical Systems for AI; and 2) AI for Dynamical Systems. I was awarded prestigious BMBF research funding to establish my independent research group in 2024 and the NeurIPS Outstanding Reviewer Award in 2021.
 
 **Web:** [https://zmonfared.github.io/DSAIlab/](https://zmonfared.github.io/DSAIlab/)
+
+#### April Seminar: Thu. April 17, 2025
+
+<img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/learning/richard_gao.jpg'>  
+
+**Speaker:** Dr. Richard Gao, Tübingen University (Germany).
+
+**Title:** Accelerating discovery of data-driven models and theories of neural dynamics
+
+**Abstract:** How does cognition emerge from the complex interaction of biological elements in the brain? Neural dynamics offers a potential bridge between structure and function, where population activity is shaped by a variety of circuit properties and harnessed for computations at multiple timescales. In dissecting these relationships, we are now amassing brain measurements at an unprecedented scale. But while artificial intelligence excels at uncovering associations in large datasets, how AI can complement and advance mechanistic theories of neural dynamics remains an open question. In this talk, I outline how recent developments in AI—in particular, probabilistic generative models and sequence models—can help link neural dynamics with structure and function. To illustrate the opportunities and challenges of integrating heterogeneous multimodal datasets, I present a motivating example focused on neural timescales. Then, I will highlight two distinct approaches where AI can accelerate theoretical research in a data-driven manner: First, I discuss how simulation-based inference enables estimation of circuit properties from experimental recordings using a mechanistic model of network dynamics with interpretable parameters. Leveraging these tools, we discover many dynamic-consistent spiking neural network configurations and explore implications of invariance structures in parameter space. Second, I detail our recent works using state space models and diffusion models to synthesize realistic field potential and spiking data. Such models not only have practical applications like data imputation, they learn high-fidelity latent representations of neural dynamics and enable counterfactual experiments in silico, with further potential for equation-distillation. To close, I share my vision of how these approaches can be integrated for building tractable multi-scale models of brain dynamics to bridge neurobiology and neural computation, with the goal of translational applications in the long term. 
+
+**Bio:**  Richard Gao earned a Bachelor’s in Engineering Science at the University of Toronto, specializing in electrical and bioengineering. During that time, he completed a one-year research internship at a neurotech startup developing consumer EEG technology for neurofeedback applications. He then pursued a PhD in the Department of Cognitive Science at UC San Diego with Bradley Voytek, where he received an NSERC Graduate Fellowship and the Chancellor’s Dissertation Medal for his work on modeling and analysis of neural signals. Since 2021, he has been in the Machine Learning in Science Group at the Tübingen AI Center, where he was a Marie Curie Postdoctoral Fellow working with Jakob Macke to develop mechanistic and generative models of brain dynamics.
+
+**Web:** [https://www.rdgao.com/](https://www.rdgao.com/)
+
 
 
 
