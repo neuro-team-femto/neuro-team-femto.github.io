@@ -15,7 +15,8 @@ Le groupe [Neuro](https://neuro-team-femto.github.io) du Département d'[Automat
 
 La thèse sera basée à l'Institut [FEMTO-ST](https://www.femto-st.fr) à Besançon et sera co-dirigée par [Patrick Nectoux](https://www.femto-st.fr/en/femto-people/patricknectoux) (Ingénieur de recherche CNRS en instrumentation/commande) et [Jean-Julien Aucouturier](https://neuro-team-femto.github.io/people/jj_aucouturier/) (Directeur de recherche CNRS en sciences cognitives). 
 
-La thèse sera financée par une allocation de thèse ministérielle (MESRI), d'une durée de 3 ansà partir du 1er Octobre 2025, et encadrée par l'Ecole Doctorale [Sciences Physiques pour l’Ingénieur et Microtechniques](https://spim.ubfc.fr/) (ED37 SPIM), [Université Marie et Louis Pasteur](https://www.univ-fcomte.fr/) 
+La thèse sera financée par une allocation de thèse ministérielle (MESRI), d'une durée de 3 ans à partir du 1er Octobre 2025, et encadrée par l'Ecole Doctorale [Sciences Physiques pour l’Ingénieur et Microtechniques](https://spim.ubfc.fr/) (ED37 SPIM), [Université Marie et Louis Pasteur](https://www.univ-fcomte.fr/). Le salaire brut est de 2200€ mensuel (2300€ à partir de Jan. 2026). 
+ 
 
 <hr>
 
