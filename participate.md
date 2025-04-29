@@ -40,7 +40,7 @@ L’expérience se déroule au laboratoire FEMTO-ST (Supmicrotech/ENSMM), en sal
 
 *Lieu*: Supmicrotech: Hall AS2M, Salle 0.60.21 ([carte](../images/participate/neuro_map.pdf))
 
-*Inscription*: [<span style="color:red"> Recrutement terminé </span>](https://evento.renater.fr/survey/experience-d-imagerie-cerebrale-eeg-sur-les-reactions-du-cerveau-a-l-ecoute-de-paroles-5fmkrtqg)
+*Inscription*: [<span style="color:red"> Accès au calendrier </span>](https://evento.renater.fr/survey/experience-d-imagerie-cerebrale-eeg-sur-les-reactions-du-cerveau-a-l-ecoute-de-paroles-5fmkrtqg)
 
 *Contact pour renseignement*: [Camille Des Lauriers](../people/camille_des_lauriers), FEMTO Neuro Group.
 
