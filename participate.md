@@ -12,8 +12,8 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 <span style="display: block; margin-bottom: 3em"></span>
 
-#### Latest experiments (enrollment opened, Winter 2025): 
-1. <span style="color:red"> Recrutement terminé </span> Réactions physiologiques pendant l’écoute de phrases : [infos & inscriptions](#camille)<br>
+#### Latest experiments (enrollment opened, Spring 2025): 
+1. [<span style="color:red">Infos & inscription </span>](https://evento.renater.fr/survey/experience-d-imagerie-cerebrale-eeg-sur-les-reactions-du-cerveau-a-l-ecoute-de-paroles-5fmkrtqg)
 
 ---
 
