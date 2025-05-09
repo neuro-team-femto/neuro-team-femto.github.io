@@ -63,7 +63,7 @@ The position being funded at a national level, applications should be submitted 
 
 *Job reference*: 252843<br>
 *Job description*: [https://odyssee.enseignementsup-recherche.gouv.fr/procedures/recrutement-ec/offres-poste/fiche-offre-poste/252843](https://odyssee.enseignementsup-recherche.gouv.fr/procedures/recrutement-ec/offres-poste/fiche-offre-poste/252843) [[local copy]]({{site.baseurl}}/documents/ODYSSEE_EditionPoste_Etab0250082D_OffreEC252843.pdf) <br>
-*Deadline*: 2 June 2025.<br>-->
+*Deadline*: 2 June 2025 (4pm CET).<br>-->
 
 Upon application, a pre-selection of applications will be made by the search committee. Successful candidates will then be invited for an interview, tentatively the week of 10th July 2025, which will include a presentation of their research and teaching project, as well as a mock teaching session, the details of which will be specified in the invitation. 
 

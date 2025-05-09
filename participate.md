@@ -19,8 +19,9 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 <a id="camille">
 
-#### 1. Expérience d'imagerie cérébrale (EEG) sur les réactions du cerveau à l'écoute de paroles <span style="color:red"> </span> 
-/!\ Si vous avez déjà participé à une précédente session de cette expérience, merci de ne pas vous inscrire /!\
+#### 1. Expérience d'imagerie cérébrale (EEG) sur les réactions du cerveau à l'écoute de paroles 
+
+<span style="color:red"> Si vous avez déjà participé à une précédente session de cette expérience (Nov-Dec 2024), merci de ne pas vous inscrire </span>
 
 Dans le cadre de sa thèse de Neurosciences en collaboration entre FEMTO-ST et l’hôpital Saint-Anne à Paris, Camille Des Lauriers recrute des participants pour une expérience utilisant l'EEG (électro-encéphalographie).
 
@@ -36,7 +37,8 @@ L’expérience se déroule au laboratoire FEMTO-ST (Supmicrotech/ENSMM), en sal
 - Pas d’âge spécifique
 - Bon niveau de français 
 - Avec une audition normale
-- Sans problème neurologique 
+- Sans problème neurologique
+- Ne pas avoir déjà participé à la même expérience à l'automne 2024. 
 
 *Lieu*: Supmicrotech: Hall AS2M, Salle 0.60.21 ([carte](../images/participate/neuro_map.pdf))
 
