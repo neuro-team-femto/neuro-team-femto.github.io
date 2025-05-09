@@ -6,14 +6,14 @@ header-img: images/post/position/position.jpg
 
 ### Faculty position (junior professorship): Machine-learning for the data-driven modeling of complex dynamical systems 
 
-*Tentative application deadline:* May 2025 <br>
+*Application deadline:* 02 June 2025 (4pm, CET) <br>
 *Start date:* Sept. 2025<br> 
 
 [SUPMICROTECH](https://www.supmicrotech.fr/) (École Nationale Supérieure de Mécanique et des Microtechniques) and the Dept of Automation and Robotics, [FEMTO-ST Institute](https://www.femto-st.fr) in Besançon, France are advertising an exciting new faculty position on the topic of Scientific machine learning (_machine learning for the data-driven modeling of complex dynamical systems_), with possible application (but not limited) to the scope of the [Neuro research group](https://neuro-team-femto.github.io). 
 
 The position is a junior professorship ("chaire de professeur junior"), a new type of position intended as a priviledged fast-track to a Full Professorship position ("professeur des universités"). It consists of an initial fixed-term period leading (3-5 years depending on experience) leading, upon successful review, to direct promotion at the rank of Full Professor. This is a primarily research-oriented position, with a reduced teaching load of 64 hours (96 HETD) per year (equivalent to two one-semester courses). Upon successful review at the end of the tenure period, the position will be turned into a permanent/tenured full professor position in the French university system with the standard teaching load of 128 hours (192 HETD, or four one-semester courses) per year. The initial monthly gross salary will be around 3500 Euros (depending on experience), and include a generous 320k€ research startup package (tentatively: funding for 2 PhD students and one postdoc). 
 
-We anticipate that the position will be opened for applications from March to May 2025, with a start date in the 2025-2026 academic year (Sept. 2025). Upon opening, applications should be made solely via the Galaxie portal at : [https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_CPJ.htm](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_CPJ.htm). Before submitting their application, we strongly encourage applicants to make contact with the FEMTO AS2M and SUPMICROTECH research teams in order to adapt their research and teaching statements to the strategic directions of the two institutions: see contact information below. 
+The position is opened for applications from May 2nd to June 2nd, 2025, with a start date in the 2025-2026 academic year (Sept. 2025). Applications should be made solely via the national Odyssée portal at [https://odyssee.enseignementsup-recherche.gouv.fr/](https://odyssee.enseignementsup-recherche.gouv.fr/) - see application information below. Before submitting their application, we strongly encourage applicants to make contact with the FEMTO AS2M and SUPMICROTECH research teams in order to adapt their research and teaching statements to the strategic directions of the two institutions: see contact information below. 
 
 <hr>
 
@@ -59,15 +59,13 @@ The recruited person will be hired by the SUPMICROTECH School of Engineering, fo
 
 #### Applications
 
-The position being funded at a national level, applications should be submitted solely via the national Galaxie portal at : [https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_CPJ.htm](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_CPJ.htm). Please note the Galaxie portal is mostly in French and, depending on your language level, filling in the information and various required files may be error-prone. Please plan accordingly, and seek advice from the contact persons below. 
+The position being funded at a national level, applications should be submitted solely via the national Odyssée portal at: [https://www.galaxie.enhttps://odyssee.enseignementsup-recherche.gouv.fr/procedures/recrutement-ec/offres-poste/fiche-offre-poste/252843](https://odyssee.enseignementsup-recherche.gouv.fr/procedures/recrutement-ec/offres-poste/fiche-offre-poste/252843). Please note that the Odyssée portal is a centralized system in the French academic system, requiring the creation of an account and which various operations may be error-prone. Please plan accordingly for submitting your application, and seek advice from the contact persons below if needed. 
 
-We anticipate that the position will be opened for applications from March to May 2025. *Watch this space for the application link*. 
-<!-- *Job reference*: 4094<br>
-*Job description*: [https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/ListesPostesPublies/FIDIS/0250082D/FOPC_0250082D_4094.pdf](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/ListesPostesPublies/FIDIS/0250082D/FOPC_0250082D_4094.pdf
-)<br>
-*Deadline*: 15th May 2024.<br>-->
+*Job reference*: 252843<br>
+*Job description*: [https://odyssee.enseignementsup-recherche.gouv.fr/procedures/recrutement-ec/offres-poste/fiche-offre-poste/252843](https://odyssee.enseignementsup-recherche.gouv.fr/procedures/recrutement-ec/offres-poste/fiche-offre-poste/252843) [[local copy]]({{site.baseurl}}/documents/ODYSSEE_EditionPoste_Etab0250082D_OffreEC252843.pdf) <br>
+*Deadline*: 2 June 2025.<br>-->
 
-Upon application, a pre-selection of applications will be made by the search committee. Successful candidates will then be invited for an interview, which will include a presentation of their research and teaching project, as well as a mock teaching session, the details of which will be specified in the invitation. 
+Upon application, a pre-selection of applications will be made by the search committee. Successful candidates will then be invited for an interview, tentatively the week of 10th July 2025, which will include a presentation of their research and teaching project, as well as a mock teaching session, the details of which will be specified in the invitation. 
 
 *Before submitting their application, we strongly encourage applicants to make contact with the FEMTO AS2M and SUPMICROTECH research teams in order to adapt their research and teaching statements to the strategic directions of the two institutions*:   
 
@@ -75,7 +73,7 @@ Upon application, a pre-selection of applications will be made by the search com
 
 Prof. [Yann Le Gorrec](https://www.femto-st.fr/en/femto-people/yanngorrec), Department Chair, Dept. of Automation and Robotics, FEMTO-ST Institute. [yann.le.gorrec@ens2m.fr](mailto: yann.le.gorrec@ens2m.fr)
 
-- Specific contact for neuroscience research agenda if relevant: 
+- Specific contact for a neuroscience research agenda if relevant: 
 
 Dr [Jean-Julien Aucouturier](https://www.femto-st.fr/en/femto-people/jeanaucouturier), PI [Neuro group](https://neuro-team-femto.github.io), Dept. of Automation and Robotics, FEMTO-ST Institute. [aucouturier@gmail.com](mailto:aucouturier@gmail.com)
 
