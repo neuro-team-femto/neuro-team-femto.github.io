@@ -13,13 +13,14 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 <span style="display: block; margin-bottom: 3em"></span>
 
 #### Latest experiments (enrollment opened, Spring 2025): 
+
 1. [<span>Infos & inscription </span>](https://evento.renater.fr/survey/experience-d-imagerie-cerebrale-eeg-sur-les-reactions-du-cerveau-a-l-ecoute-de-paroles-5fmkrtqg)
 
 ---
 
 <a id="camille">
 
-#### 1. Expérience d'imagerie cérébrale (EEG) sur les réactions du cerveau à l'écoute de paroles 
+#### 1. Expérience d'imagerie cérébrale (EEG) sur les réactions du cerveau à l'écoute de paroles (RECRUTEMENT TERMINE)
 
 <span style="color:red"> Si vous avez déjà participé à une précédente session de cette expérience (Nov-Dec 2024), merci de ne pas vous inscrire </span>
 
