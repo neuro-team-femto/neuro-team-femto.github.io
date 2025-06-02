@@ -9,7 +9,7 @@ permalink: /learning2425/
 <br>
 
 
-Together with our FEMTO colleagues [Prof. John Dudley](https://www.femto-st.fr/en/femto-people/johndudley), Professor of Optical Physics, and [Dr Rafael Teloli](https://www.femto-st.fr/fr/personnel-femto/rafaelteloli), Assistant Prof. in Mechanical Engineering, the [FEMTO Neuro group](https://neuro-team-femto.github.io/) is putting together a monthly series of invited seminars on the topic of machine learning for dynamical systems. 
+Together with our FEMTO colleagues [Prof. John Dudley](https://www.femto-st.fr/en/femto-people/johndudley), Professor of Optical Physics, [Dr Rafael Teloli](https://www.femto-st.fr/fr/personnel-femto/rafaelteloli), Assistant Prof. in Mechanical Engineering and [Dr Manaoj Aravind](https://man-aravind.github.io/), the [FEMTO Neuro group](https://neuro-team-femto.github.io/) is putting together a monthly series of invited seminars on the topic of machine learning for dynamical systems. 
 
 The "Learning & Dynamics" Seminar Series wishes to address - roughly defined - *how one may analyse & discover physically-interpretable models of dynamical systems on the basis of observed temporal data, rather than attempt to study them in a purely analytical manner*. Our seminar aims to address interdisciplinary applications across complex physical or physiological systems, such as neuroscience, non-linear optics or fluid mechanics.
 
@@ -29,9 +29,6 @@ For our inaugural 2024-2025 series, we have assembled a program with a fantastic
 | Thu. Feb 20, 2025 | 2pm | [Dr Karim Cherifi](https://scholar.google.com/citations?user=gE5RRyEAAAAJ&hl=en) (Centre for Industry and Science, TU Berlin) | Learning and data-driven modeling of port-Hamiltonian systems | Amphi J. Haag |
 | Thu. Mar 20, 2025 | 2pm | [Dr Zahra Monfared](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) (Interdisciplinary Center for Scientific Computing, Heidelberg University) | Learning dynamics with RNNs: from training difficulties to gradient-free solutions | Amphi JJ Gagnepain |
 | Thu. Apr 17, 2025 | 2pm | [Dr Richard Gao](http://www.rdgao.com/) (Tübingen AI Center, University of Tübingen) | Accelerating discovery of data-driven models and theories of neural dynamics | Amphi J. Haag |
-| Thu. May 22, 2025 | 2pm | [Dr Lorenzo Fontolan](https://fontolanl.github.io/) (Turing Center for Living Systems, Aix-Marseille University) | tba | Amphi JJ. Gagnepain |
-| Thu. June 19, 2025 | 2pm | tba | tba | Amphi J. Haag |
-
 
 
 #### Time & Place
