@@ -27,7 +27,7 @@ The workshop is open to both experts and newcomers to the field. It will be held
 |------|------|-------| 
 | 9:45am | JJ Aucouturier (FEMTO-ST Institute, Besançon) & Marie Villain (Institut du Cerveau, Paris) | Introduction |
 | 10:00am | [Dr Léo Varnet](#1000am-léo-varnet) (Laboratoire des Systèmes Perceptifs, Paris | The microscopic impact of noise on phoneme perception and some implications for the nature of phonetic cues |
-| 10:30am | [Dr Etienne Thoret](#1030am-etienne-thoret) (Institut des Neurosciences de la Timone, Marseille) | T.B.A. |
+| 10:30am | [Dr Etienne Thoret](#1030am-etienne-thoret) (Institut des Neurosciences de la Timone, Marseille) | Advancing the impact of machine learning in natural sciences by explaining black-box systems with reverse correlation |
 | 11:00am | [Dr Emmanuel Ponsot](#1100am-emmanuel-ponsot) (Sciences et Technologies de la Musique et du Son, Paris)  |  Is Reverse-Correlation Appropriate for Uncovering (Para)linguistic Inferences from Speech Prosody? | 
 | 11:30am | [Dr Ladislas Nalborczyk](#1130am-ladislas-nalborczyk) (Laboratoire Parole et Language, Aix-en-Provence) | Using reverse correlation to uncover the mental representation of one’s own voice |
 
@@ -61,9 +61,9 @@ The workshop is open to both experts and newcomers to the field. It will be held
 
 **Speaker:** [Dr Etienne Thoret](https://scholar.google.fr/citations?user=mmriWWoAAAAJ&hl=fr&oi=ao), Institut des Neurosciences de la Timone, Marseille
 
-**Title:** T.B.A.
+**Title:** Advancing the impact of machine learning in natural sciences by explaining black-box systems with reverse correlation
 
-**Abstract:** T.B.A.
+**Abstract:** Machine learning (ML) systems are widely used in natural sciences to make complex predictions but often work as black boxes for their users, offering them little insights into the underlying representations driving their predictions. While these systems typically indicate the presence of relevant information in the data, they rarely reveal what this information is, concealing the biological mechanisms being studied. This limitation hampers interpretability and reduces the potential for even more meaningful scientific insights. Reverse correlation, originally developed in neuroscience to decode perceptual and cognitive processes, offers a solution to this challenge. By randomly perturbing system inputs and analyzing their responses, this method uncovers the behaviors of ML systems, identifying the features most critical to their functioning and shedding light on their hidden representations. I will first introduce the method, explaining how input perturbations and output analyses can help uncover system behavior. Next, I will present a proof of concept demonstrating its use in developing a voice biomarker for characterizing sleep deprivation. Finally, I will explore broader applications spanning musical timbre characterization, ecoacoustic marker development, and unveiling cerebral representations in auditory neuroscience, highlighting the potential of reverse correlation to advance the impact of machine learning across diverse fields of natural sciences.
 
 **Bio:**  T.B.A. 
 
