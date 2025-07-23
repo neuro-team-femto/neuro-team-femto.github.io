@@ -15,6 +15,21 @@ Our overt objective with the following is that 100% of our publications are asso
 In addition to resources specific to papers below, we also develop and maintain a number of open-source research software, including reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) and vocal-feedback plateform [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y), which can be found on our [Resources page]({{site.baseurl}}/resources).  
 
 
+### 2025
+
+[_Learning the bistable cortical dynamics of the sleep-onset period_](https://www.biorxiv.org/content/10.1101/2025.07.17.665340v1) <br>
+*Hu, Z.*, *Aravind, M.*, Lei, X., Kutz, J. N., *Aucouturier, JJ* <br>
+Biorxiv, 2025.07.17.665340<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/hu_biorxiv_2025.pdf)
+
+_Reverse-correlation modeling of deficits of prosody perception in right-hemisphere stroke_ <br>
+*Adl Zarrabi, A.* <br>
+PhD Thesis, Université Marie et Louis Pasteur, 2025<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/adl_zarrabi_phd_2025.pdf)
+
+
+<hr>
+
 ### 2024
 
 [_Aligning the smiles of dating dyads causally increases attraction_](https://www.pnas.org/doi/10.1073/pnas.2400369121) <br>
