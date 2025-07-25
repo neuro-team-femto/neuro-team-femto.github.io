@@ -22,6 +22,11 @@ In addition to resources specific to papers below, we also develop and maintain 
 Biorxiv, 2025.07.17.665340<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/hu_biorxiv_2025.pdf)
 
+[_The social transfer function: how dynamic predictions of facial consequences drive judgements of social contingency_](https://osf.io/preprints/osf/v43hp_v1) <br>
+*Guha, R.*, Arias-Sarah, *Aucouturier, JJ* <br>
+OSF preprint, v43hp_v1<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/guha_osf_2025.pdf)
+
 _Reverse-correlation modeling of deficits of prosody perception in right-hemisphere stroke_ <br>
 *Adl Zarrabi, A.* <br>
 PhD Thesis, Université Marie et Louis Pasteur, 2025<br>
