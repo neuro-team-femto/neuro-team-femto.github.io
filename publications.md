@@ -19,7 +19,7 @@ In addition to resources specific to papers below, we also develop and maintain 
 
 [_Intact Representation of Vocal Smile in Autism: A reverse correlation approach_](https://www.sciencedirect.com/science/article/pii/S3050656525000719)<br>
 Merchie, A., Ranty, Z., *Adl Zarrabi, A.*, Bonnet-Brilhault, F., Houy-Durand, E., *Aucouturier, JJ.* & Gomot, M. <br>
-PsyArXiv Preprints, 2024. <br>
+Research in Autism, Vol. 124, 202599, 2025. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/merchie_research_in_autism_2025.pdf)
 
 [_Learning the bistable cortical dynamics of the sleep-onset period_](https://www.biorxiv.org/content/10.1101/2025.07.17.665340v1) <br>
@@ -37,7 +37,7 @@ OSF preprint, v43hp_v1<br>
 ISCA Speech Synthesis Workshop, 2025<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/tuttosi_isca_2025.pdf)
 
-[_Take a Look, it's in a Book, a Reading Robot_](https://dl.acm.org/doi/10.5555/3721488.3721774).
+[_Take a Look, it's in a Book, a Reading Robot_](https://dl.acm.org/doi/10.5555/3721488.3721774).<br>
 *Tuttösí, P.*, Mehta, S., Syvenky, Z., Burkanova, B., Hfsafsti, M., Wang, Y., Yeung, H. H., Henter, G. E., *Aucouturier, JJ.*, Lim, A.<br>
 In 2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 1803-1805). IEEE.
 
@@ -62,7 +62,7 @@ Arias-Sarah, P., Bedoya, D., Daube, C., *Aucouturier, JJ.*, Hall, L., Johansson,
 Proceedings of the National Academy of Sciences 121 (45), e2400369121<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/arias_pnas_2024.pdf)
 
-[_Emotional contagion to vocal smile revealed by combined pupil reactivity and motor resonance_](https://www.nature.com/articles/s41598-024-74848-w)
+[_Emotional contagion to vocal smile revealed by combined pupil reactivity and motor resonance_](https://www.nature.com/articles/s41598-024-74848-w) <br>
 Merchie, A., Ranty, Z., Aguillon-Hernandez, N., Aucouturier,  JJ., Wardak, C., Gomot, M. <br>
 Scientific Reports 14 (1), 25043<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/merchie_scirep_2024.pdf)
