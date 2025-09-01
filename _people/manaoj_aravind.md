@@ -1,6 +1,6 @@
 ---
 name: Manaoj Aravind
-position: postdoc
+position: alumni
 avatar: manaoj_aravind.jpg
 location: besançon
 joined: 2024

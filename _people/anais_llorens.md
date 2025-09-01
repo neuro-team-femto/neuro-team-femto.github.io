@@ -1,6 +1,6 @@
 ---
 name: Anaïs Llorens
-position: postdoc
+position: alumni
 avatar: anais_llorens.jpg
 location: paris
 joined: 2023

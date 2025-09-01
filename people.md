@@ -78,6 +78,12 @@ Our group is co-located on two sites, in the FEMTO-ST Institute in Besançon and
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| Fouad Baamal | Master student (2025) | Continuing M2 studies in SUPMICROTECH, Besançon, FR |
+| [Manaoj Aravind](/people/manaoj_aravind/index.html) | Postdoc (2024-2025) | on the job market |
+| Maia Lehec | Bachelor student (2025) | Continuing studies in Université de Strasbourg, FR |
+| [Aynaz Adl Zarrabi](/people/aynaz_adlzarrabi/index.html) | PhD Student (2022-2025) | on the job market |
+| [Anais Llorens](/people/anais_llorens/index.html) | Postdoc (2022-2025) | Researcher, Bioserenity, Paris/Nancy, FR |
+| [Paige Tuttosi](/people/paige_tuttosi/index.html) | PhD Student (2022-2025) | Researcher, Enchanted Tools, Paris, FR |
 | [Marie Villain](/people/marie_villain/index.html) | Postdoc (2022-2024) | Assistant Professor, Sorbonne Université, Paris, FR | 
 | [Sarah Benghanem](/people/sarah_benghanem/index.html) | PhD student (2021-2024) | Postdoc, University of Geneva, CH |
 | Juan Diego Díaz | Master student (2024) | Continuing M2 studies in Sorbonne Université, FR | 

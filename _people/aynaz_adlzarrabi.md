@@ -1,6 +1,6 @@
 ---
 name: Aynaz Adl Zarrabi
-position: phdstudent
+position: alumni
 avatar: aynaz_adlzarrabi.jpg
 location: besancon
 twitter: aynazadlzarrabi

@@ -17,6 +17,11 @@ In addition to resources specific to papers below, we also develop and maintain 
 
 ### 2025
 
+[_Intact Representation of Vocal Smile in Autism: A reverse correlation approach_](https://www.sciencedirect.com/science/article/pii/S3050656525000719)<br>
+Merchie, A., Ranty, Z., *Adl Zarrabi, A.*, Bonnet-Brilhault, F., Houy-Durand, E., *Aucouturier, JJ.* & Gomot, M. <br>
+PsyArXiv Preprints, 2024. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/merchie_research_in_autism_2025.pdf)
+
 [_Learning the bistable cortical dynamics of the sleep-onset period_](https://www.biorxiv.org/content/10.1101/2025.07.17.665340v1) <br>
 *Hu, Z.*, *Aravind, M.*, Lei, X., Kutz, J. N., *Aucouturier, JJ* <br>
 Biorxiv, 2025.07.17.665340<br>
@@ -27,10 +32,25 @@ Biorxiv, 2025.07.17.665340<br>
 OSF preprint, v43hp_v1<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/guha_osf_2025.pdf)
 
+[_You Sound a Little Tense: L2 Tailored Clear TTS Using Durational Vowel Properties_](https://arxiv.org/abs/2506.23367)<br>
+*Tuttösí, P.*, Yeung, H. H., Wang Y., *Aucouturier, JJ*, Lim, A. <br>
+ISCA Speech Synthesis Workshop, 2025<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/tuttosi_isca_2025.pdf)
+
+[_Take a Look, it's in a Book, a Reading Robot_](https://dl.acm.org/doi/10.5555/3721488.3721774).
+*Tuttösí, P.*, Mehta, S., Syvenky, Z., Burkanova, B., Hfsafsti, M., Wang, Y., Yeung, H. H., Henter, G. E., *Aucouturier, JJ.*, Lim, A.<br>
+In 2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 1803-1805). IEEE.
+
 _Reverse-correlation modeling of deficits of prosody perception in right-hemisphere stroke_ <br>
 *Adl Zarrabi, A.* <br>
 PhD Thesis, Université Marie et Louis Pasteur, 2025<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/adl_zarrabi_phd_2025.pdf)
+
+[_I Know You're Listening: Adaptive Voice for HRI_](https://summit.sfu.ca/item/39353) <br>
+*Tuttosi, P.* <br>
+PhD Thesis, Simon Fraser University, 2025<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/tuttosi_phd_2025.pdf)
+
 
 
 <hr>
@@ -77,11 +97,6 @@ Interspeech, 2024. <br>
 *Guerouaou, N.*, Vaiva, G. & *Aucouturier, JJ.* <br>
 OSF Preprints, 2024. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/guerouaou_osf_2024.pdf)
-
-[_Intact Representation of Vocal Smile in Autism: A reverse correlation approach_](https://osf.io/preprints/psyarxiv/q4n7z)<br>
-Merchie, A., Ranty, Z., *Adl Zarrabi, A.*, Bonnet-Brilhault, F., Houy-Durand, E., Aucouturier, JJ. & Gomot, M. <br>
-PsyArXiv Preprints, 2024. <br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/merchie_psyarxiv_2024.pdf)
 
 
 <hr>
