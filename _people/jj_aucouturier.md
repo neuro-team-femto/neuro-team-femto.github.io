@@ -12,7 +12,7 @@ joined: 2012
 _Directeur de Recherche CNRS, FEMTO-ST Institute_<br>
 
 
-<i class="fa fa-envelope-o"></i> `aucouturier@gmail.com` <br>
+<i class="fa fa-envelope-o"></i> `jj.aucouturier@pm.me` <br>
 <i class="fa fa-bar-chart-o" /> [Google Scholar](https://scholar.google.com/citations?user=jnST06UAAAAJ) <br>
 <i class="fa fa-github" /> [jjau](https://github.com/jjau) <br>
 <i class="fa fa-twitter" /> [jjtokyo](https://twitter.com/jjtokyo) <br>
