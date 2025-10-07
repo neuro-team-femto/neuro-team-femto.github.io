@@ -45,19 +45,19 @@ The project is a ongoing collaboration between the [Femto Neuro group](https://n
 
 #### Applicants
 
-We anticipate the opening of two PhD positions: funding for one is already confirmed, for a tentative start in Oct-Dec. 2025; funding for the second is pending, for a tentative start in Jan-Mar. 2026. We are accepting applications for both positions as of Sept. 2025. 
+We anticipate the opening of two PhD positions: funding for one is already confirmed, for a tentative start in Oct-Dec. 2025; funding for the second is pending, for a start in 2026. We are accepting applications for both positions as of Sept. 2025. 
 
-The ideal applicants for these two positions hold a Master of Science in mechanical engineering or tactile psychophysics. One position (position A) is anticipated to focus more on experimental development (conception and validation of a tribometer), and may offer best training potential for applicants who already have a solid background in mechanical engineering, as well as programming experience with sensors and actuators in languages like Matlab or LabVIEW. The second position (position B) is anticipated to focus more on psychophysics (experimental study of tactile perception), and may offer best training potential for applicants who already have a solid background in psychophysics or experimental psychology, as well as data-analysis experience in languages like Python or R. 
+The ideal applicants for these two positions hold a Master of Science in mechanical engineering or tactile psychophysics. One position (position A) is anticipated to focus more on experimental development (conception and validation of a tribometer), and may offer best training potential for applicants who already have a solid background in mechanical engineering, as well as programming experience with sensors and actuators in languages like Matlab or LabVIEW. The second position (position B) is anticipated to focus more on psychophysics (experimental study of tactile perception), and may offer best training potential for applicants who already have a solid background in psychophysics or experimental psychology, as well as data-analysis experience in languages like Python or R. Position A is expected to start in 2025, and position B in 2026. 
 
 <hr>
 
 #### How to apply:
 
-
-Applications must be done via the CNRS employment portal, at this [LINK]. 
+Applications must be done solely via the CNRS employment portal, at this [LINK](https://emploi.cnrs.fr/Offres/Doctorant/UMR6174-JEAAUC-010/Default.aspx). In more details, the link concerns the application for the first PhD position (position A). However, we suggest that applicants who may feel their background and interest provides a better fit to position B apply nevertheless to position A via this link, as the project offers flexibility on the calendar of both positions. Applicants are encouraged to comment on what aspects of the project is most interesting for them in a cover letter. 
 
 For informal enquiries, please contact: <br>
-Pierre-Henri Cornuault ([pierre_henri.cornuault@univ-fcomte.fr](pierre_henri.cornuault@univ-fcomte.fr)) & Jean-Julien Aucouturier ([jj.aucouturier@pm.com](mailto:jj.aucouturier@pm.com)). 
+Pierre-Henri Cornuault ([pierre_henri.cornuault@univ-fcomte.fr](pierre_henri.cornuault@univ-fcomte.fr)) & Jean-Julien Aucouturier ([jj.aucouturier@pm.com](mailto:jj.aucouturier@pm.com)). Note that applications should only be submitted via the link above, and applications received by email will not be processed. 
+
 
 
 
