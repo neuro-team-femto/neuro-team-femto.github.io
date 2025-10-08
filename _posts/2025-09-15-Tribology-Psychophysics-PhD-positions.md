@@ -6,7 +6,7 @@ header-img: images/post/position/position.jpg
 
 ### 2 PhD positions on the mechanics and psychophysics of tactile perception 
 
-*Application deadline:* As soon as granted, from Sept. 2025 <br>
+*Application deadline:* Oct. 31st, 2025 <br>
 *Start date:* Fall-Winter 2025 <br> 
 
 The [Mecanochemistry and Tribology](https://www.femto-st.fr/en/Research-departments/APPLIED-MECHANICS/Research-groups/ECTO-team) team and the [Femto Neuro group](https://neuro-team-femto.github.io), both located in the [FEMTO-ST Institute](https://www.femto-st.fr) in Besançon, France are excited to announce the opening of 2 PhD positions in mechanical engineering and tactile psychophysics, in close industrial collaboration with a major cosmetics manufacturer. 
@@ -45,7 +45,7 @@ The project is a ongoing collaboration between the [Femto Neuro group](https://n
 
 #### Applicants
 
-We anticipate the opening of two PhD positions: funding for one is already confirmed, for a tentative start in Oct-Dec. 2025; funding for the second is pending, for a start in 2026. We are accepting applications for both positions as of Sept. 2025. 
+We anticipate the opening of two PhD positions: funding for one is already confirmed, for a tentative start in Dec. 2025; funding for the second is pending, for a start in 2026. We are accepting applications for both positions as of 11th Oct. 2025. 
 
 The ideal applicants for these two positions hold a Master of Science in mechanical engineering or tactile psychophysics. One position (position A) is anticipated to focus more on experimental development (conception and validation of a tribometer), and may offer best training potential for applicants who already have a solid background in mechanical engineering, as well as programming experience with sensors and actuators in languages like Matlab or LabVIEW. The second position (position B) is anticipated to focus more on psychophysics (experimental study of tactile perception), and may offer best training potential for applicants who already have a solid background in psychophysics or experimental psychology, as well as data-analysis experience in languages like Python or R. Position A is expected to start in 2025, and position B in 2026. 
 
@@ -53,10 +53,20 @@ The ideal applicants for these two positions hold a Master of Science in mechani
 
 #### How to apply:
 
-Applications must be done solely via the CNRS employment portal, at this [LINK](https://emploi.cnrs.fr/Offres/Doctorant/UMR6174-JEAAUC-010/Default.aspx). In more details, the link concerns the application for the first PhD position (position A). However, we suggest that applicants who may feel their background and interest provides a better fit to position B apply nevertheless to position A via this link, as the project offers flexibility on the calendar of both positions. Applicants are encouraged to comment on what aspects of the project is most interesting for them in a cover letter. 
+**Applications open:** 13th Oct. 2025 <br>
+**Application deadline:** 31st Oct. 2025 <br>
+**Interviews:** 27th Oct. - 3rd Nov 2025 <br>
+**Feedback given:** 3rd Nov 2025 - 7 Nov. 2025 <br>
+**Expected start date:** 1st Dec. 2025 - 1st Feb. 2026 <br>
+
+Applications must be done solely via the CNRS employment portal, at this [LINK](https://emploi.cnrs.fr/Offres/Doctorant/UMR6174-JEAAUC-010/Default.aspx) (link opens 13/10/2025). In more details, the link concerns the application for the first PhD position (position A). However, we suggest that applicants who may feel their background and interest better fit position B nevertheless apply to position A via this link, as the project offers flexibility on the calendar of both positions. Applicants are encouraged to comment on what aspects of the project is most interesting for them in a cover letter. 
 
 For informal enquiries, please contact: <br>
 Pierre-Henri Cornuault ([pierre_henri.cornuault@univ-fcomte.fr](pierre_henri.cornuault@univ-fcomte.fr)) & Jean-Julien Aucouturier ([jj.aucouturier@pm.com](mailto:jj.aucouturier@pm.com)). Note that applications should only be submitted via the link above, and applications received by email will not be processed. 
+
+
+
+
 
 
 
