@@ -8,7 +8,7 @@ header-img: images/post/position/position.jpg
 
 *Deadline pour la candidature:* 15 Janvier 2026 <br>
 *Start date:* Mars ou Avril 2026 <br>
-*Durée:* 4-5 mois<br>
+*Durée:* 4-6 mois<br>
 
 Le groupe [Neuro](https://neuro-team-femto.github.io) du Département d'[Automatique et Systèmes Micro-Mécatroniques](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [Institut FEMTO-ST](https://www.femto-st.fr) à Besançon, France, en collaboration avec l'équipe [Analyse des Pratiques Musicales](https://www.stms-lab.fr/team/analyse-des-pratiques-musicales) du laboratoire [Sciences et Technologies de la Musique et du Son](https://www.stms-lab.fr) à Paris propose un stage de recherche de type M1/M2 Recherche / Ecole d'ingénieur.e.s à l'intersection entre les systèmes dynamiques, la modélisation du comportement et la musique.  
 
@@ -58,7 +58,7 @@ Le ou la stagiaire rejoindra le groupe [Neuro](https://neuro-team-femto.github.i
 
 Le stage se déroulera également en interaction avec l'équipe [Analyse des Pratiques Musicales](https://www.stms-lab.fr/team/analyse-des-pratiques-musicales) du laboratoire [Sciences et Technologies de la Musique et du Son](https://www.stms-lab.fr) à Paris. Le stagiaire bénéficiera de la co-supervision à distance de [Clément Canonne](https://www.stms-lab.fr/person/clement-canonne) (Directeur de recherche CNRS, STMS), avec la possibilité de réaliser quelques déplacements possibles à Paris si besoin. 
 
-Le stage est financé dans le cadre du projet R.TRAIN (Resisting entrainment: a dynamical systems approach), financé par l'appel _Interactions complexes et comportements collectifs_ de la MITI CNRS, et implique également la collaboration de Dr [Thomas Wolf](https://cognitivescience.ceu.edu/people/thomas-wolf-0), Central European University à Vienne en Autriche. 
+Le stage est financé dans le cadre du projet R.TRAIN (Resisting entrainment: a dynamical systems approach), financé par l'appel _Interactions complexes et comportements collectifs_ de la MITI CNRS. Des échanges ponctuels seront organisés avec [Thomas Wolf](https://cognitivescience.ceu.edu/people/thomas-wolf-0), chercheur postdoctoral en sciences cognitives à Central European University, également partenaire du projet. 
 
 ![Femto](/images/post/position/femto.jpg){:style="float: left;margin-right: 12px;margin-top: 7px;" width="30%"} Accueillant plus de 750 chercheurs, l'[Institut FEMTO-ST](https://www.femto-st.fr) (CNRS/Université de Bourgogne Franche-Comté) est l'un des plus gros laboratoire CNRS de France en Sciences de l'Ingénieur, avec une expertise couvrant l'ensemble des sciences de l'ingénieur et des systèmes. Le groupe Neuro est basé dans son Département d'[Automatique et Systèmes Micro-Mécatroniques](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), qui accueille environ 80 chercheurs actifs dans les domaines de la robotique, de l'automatique, de la mécatronique et de l'intelligence artificielle. <br clear="left"/>
 
@@ -78,7 +78,7 @@ Envoyer les élements suivants par email à Jean-Julien Aucouturier ([jj.aucoutu
 
 **Date limite de candidature: 15 Janvier 2026**. Les candidat.e.s retenu.e.s sur la base de leur dossier seront convoqué.e.s pour un entretien en visio. 
 
-**Dates du stage:** Printemps-Ete 2026 (ex. Mars - Août 2026), selon le calendrier de la formation du/de la candidat.e. Durée minimum souhaitée 4 mois.  
+**Dates du stage:** Printemps-Ete 2026 (ex. Mars - Août 2026), selon le calendrier de la formation du/de la candidat.e. Durée minimum souhaitée 4 mois, maximum 6 mois.  
 
 
 
