@@ -51,6 +51,12 @@ PhD Thesis, Université Marie et Louis Pasteur, 2025<br>
 PhD Thesis, Simon Fraser University, 2025<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/tuttosi_phd_2025.pdf)
 
+_The Social Transfer Function: A system-identification approach to studying social contingency_ <br>
+*Guha, R.* <br>
+PhD Thesis, Université Marie et Louis Pasteur, 2025<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/guha_phd_2025.pdf)
+
+
 
 
 <hr>
