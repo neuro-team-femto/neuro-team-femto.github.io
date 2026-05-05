@@ -14,6 +14,19 @@ Our overt objective with the following is that 100% of our publications are asso
 <!-- Since 2021, all our research data is doi-indexed in the [Université de Bourgogne Franche-Comté](https://www.ubfc.fr/)'s Open Data portal [Dat@UBFC](https://dataosu.obs-besancon.fr). -->
 In addition to resources specific to papers below, we also develop and maintain a number of open-source research software, including reverse-correlation toolbox [CLEESE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205943) and vocal-feedback plateform [DAVID](https://link.springer.com/article/10.3758/s13428-017-0873-y), which can be found on our [Resources page]({{site.baseurl}}/resources).  
 
+### 2026
+
+[_Learning the bistable cortical dynamics of the sleep-onset period_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014246) <br>
+*Hu, Z.*, *Aravind, M.*, Lei, X., Kutz, J. N., *Aucouturier, JJ* <br>
+PLOS Computational Biology, 22(4): e1014246<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/hu_ploscb_2026.pdf)
+
+[_Covertly improving intelligibility with data-driven adaptations of speech timing_](https://arxiv.org/abs/2603.30032) <br>
+*Tuttösí, P.*, Lim, A., Yeung, H. H., Wang, Y., *Aucouturier, JJ* <br>
+arXiv, 2603.30032<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/tuttosi_arxiv_2026.pdf)
+
+<hr>
 
 ### 2025
 
@@ -21,11 +34,6 @@ In addition to resources specific to papers below, we also develop and maintain 
 Merchie, A., Ranty, Z., *Adl Zarrabi, A.*, Bonnet-Brilhault, F., Houy-Durand, E., *Aucouturier, JJ.* & Gomot, M. <br>
 Research in Autism, Vol. 124, 202599, 2025. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/merchie_research_in_autism_2025.pdf)
-
-[_Learning the bistable cortical dynamics of the sleep-onset period_](https://www.biorxiv.org/content/10.1101/2025.07.17.665340v1) <br>
-*Hu, Z.*, *Aravind, M.*, Lei, X., Kutz, J. N., *Aucouturier, JJ* <br>
-Biorxiv, 2025.07.17.665340<br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/hu_biorxiv_2025.pdf)
 
 [_The social transfer function: how dynamic predictions of facial consequences drive judgements of social contingency_](https://osf.io/preprints/osf/v43hp_v1) <br>
 *Guha, R.*, Arias-Sarah, *Aucouturier, JJ* <br>
@@ -55,9 +63,6 @@ _The Social Transfer Function: A system-identification approach to studying soci
 *Guha, R.* <br>
 PhD Thesis, Université Marie et Louis Pasteur, 2025<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/guha_phd_2025.pdf)
-
-
-
 
 <hr>
 
@@ -104,6 +109,10 @@ Interspeech, 2024. <br>
 OSF Preprints, 2024. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/guerouaou_osf_2024.pdf)
 
+_Sons à valence émotionnelle et évaluation du pronostic neurologique des patients cérébrolésés en soins critiques_ <br>
+*Benghanem, S.* <br>
+PhD Thesis, Université Paris Cité, 2024<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2024/benghanem_phd_2024.pdf)
 
 <hr>
 
@@ -139,13 +148,17 @@ PsyArXiv rdmve, 2023. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://github.com/neuro-team-femto/empathy)
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/empathy)
 
-
 [_Cracking the pitch code of music-motor synchronization using data-driven methods_](https://osf.io/preprints/psyarxiv/zkbn3) <br>
 Migotti, L., *Decultot, Q.*, Grailhe, P. & *Aucouturier, J. J.* <br>
 PsyArXiv zkbn3, 2023. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/migotti_psyarxiv_2023.pdf)
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/data.jpg'>](https://github.com/neuro-team-femto/treadmill)
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/code.jpg'>](https://github.com/neuro-team-femto/treadmill)
+
+_Les patients en état de conscience altérée sont-ils sensibles à la prosodie?_ <br>
+*Pruvst-Robieux, E.* <br>
+PhD Thesis, Sorbonne Université, 2023<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2023/pruvost_robieux_phd_2023.pdf)
 
 
 ### 2022
