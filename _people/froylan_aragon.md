@@ -10,7 +10,7 @@ joined: 2025
 
 _PhD student, FEMTO-ST Institute_<br>
 
-<i class="fa fa-envelope-o"></i> `froyla.aragon@femto-st.fr` <br>
+<i class="fa fa-envelope-o"></i> `hugofroylan.aragon@femto-st.fr` <br>
 
 **Office**<br>
 Département AS2M, Institut FEMTO-ST <br>
