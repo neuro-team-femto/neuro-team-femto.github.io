@@ -25,7 +25,7 @@ Le laboratoire FEMTO-ST (CNRS/Université Marie et Louis Pasteur) est actuelleme
 **But de l'étude :** L'objectif de cette expérience est d'étudier comment les personnes perçoivent de petites différences de délai et de hauteur sur leur propre voix. L'étude compare cette perception lorsque les participants parlent et entendent leur voix modifiée en direct, avec une situation d'écoute simple, afin de mieux comprendre le rôle du système auditif et du contrôle vocal dans cette perception.
 
 <div class="w3-container" style="background: #f0f8ff; padding: 10px; border-radius:10px; border: 1px solid #5d8aa8">
-<b>Durée :</b> 1 séance d'environ 1 heure 15 min<br>
+<b>Durée :</b> 1 séance entre 1 heure et 1 heure 15 min<br>
 <b>Rémunération :</b> 15€ en chèque-cadeau<br>
 <b>Lieu :</b> SUPMICROTECH de Besançon (Hall AS2M, Salle 0.60.21)
 </div> <br>
@@ -49,8 +49,8 @@ Le rythme est libre : vous progressez à votre propre vitesse et pouvez faire de
 **Contraintes et risques :** Aucun risque n'est lié à cette investigation.
 
 **Critères d'inclusion :**
-- Homme, femme ou autre
-- Bon niveau de français
+- **Important: Langue maternelle française**
+- Aucun critère d'âge ou de sexe/genre
 - Audition normale
 - Sans problème neurologique
 
