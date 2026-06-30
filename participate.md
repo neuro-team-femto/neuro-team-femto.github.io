@@ -20,7 +20,7 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 #### 1. Perception de la parole en condition de rétroaction altérée
 
-Le laboratoire FEMTO-ST (CNRS/Université de Franche-Comté) est actuellement à la recherche de participants pour une étude portant sur la perception de la parole en condition de rétroaction altérée : phénoménologie et caractérisation des seuils de perception de latence et de hauteur.
+Le laboratoire FEMTO-ST (CNRS/Université Marie et Louis Pasteur) est actuellement à la recherche de participants pour une étude portant sur la perception de la parole en condition de rétroaction altérée : phénoménologie et caractérisation des seuils de perception de latence et de hauteur.
 
 **But de l'étude :** L'objectif de cette expérience est d'étudier comment les personnes perçoivent de petites différences de délai et de hauteur sur leur propre voix. L'étude compare cette perception lorsque les participants parlent et entendent leur voix modifiée en direct, avec une situation d'écoute simple, afin de mieux comprendre le rôle du système auditif et du contrôle vocal dans cette perception.
 
