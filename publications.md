@@ -21,6 +21,21 @@ In addition to resources specific to papers below, we also develop and maintain 
 PLOS Computational Biology, 22(4): e1014246<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/hu_ploscb_2026.pdf)
 
+[_Acoustic features underlying internal representation of vocal smile in children_](https://www.sciencedirect.com/science/article/pii/S0167639326001007) <br>
+Ranty, Z., Merchie, A., *Aucouturier, JJ*, Marie Gomot  <br>
+Speech Communications, Volume 183, September 2026, 103452<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/ranty_speechcomm_2026.pdf)
+
+[_Human primary auditory cortex and insula encode perceptual decisions, not stimulus features_](https://www.biorxiv.org/content/10.64898/2026.07.03.736338.full.pdf) <br>
+*Des Lauriers, C.*, Pruvost-Robieux, E., Zanello, M., Filipescu, C., Moiraghi, A., Landré, E., Pallud, J., Defrance, G., Sharshar, T., *Aucouturier, JJ*, Gavaret, M., Llorens, A.<br>
+Biorxiv preprint, 2026.07.03.736338<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/des_lauriers_biorxiv_2026.pdf)
+
+[_Explaining black-box models for facial-expression detection using psychophysical reverse correlation_](https://hal.science/hal-05703027) <br>
+*Guha, R.*, Zaied, S., Soladié, C., Arias-Sarah, P., *Aucouturier, JJ.* <br>
+HAL preprint, 05703027<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/guha_hal_2026.pdf)
+
 [_Covertly improving intelligibility with data-driven adaptations of speech timing_](https://arxiv.org/abs/2603.30032) <br>
 *Tuttösí, P.*, Lim, A., Yeung, H. H., Wang, Y., *Aucouturier, JJ* <br>
 arXiv, 2603.30032<br>
@@ -29,6 +44,11 @@ arXiv, 2603.30032<br>
 <hr>
 
 ### 2025
+
+[_Vocal smile is recognized but not embodied in autistic adults_](https://www.cell.com/iscience/fulltext/S2589-0042(25)02119-4)<br>
+Merchie, A., Ranty, Z., Wardak, C., Aiguillon-Hernandez, N., Bonnet-Brilhault, F., Houy-Durand, E., *Aucouturier, JJ.* & Gomot, M. <br>
+iScience, Volume 28, Issue 11113858, 2025. <br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/merchie_iscience_2025.pdf)
 
 [_Intact Representation of Vocal Smile in Autism: A reverse correlation approach_](https://www.sciencedirect.com/science/article/pii/S3050656525000719)<br>
 Merchie, A., Ranty, Z., *Adl Zarrabi, A.*, Bonnet-Brilhault, F., Houy-Durand, E., *Aucouturier, JJ.* & Gomot, M. <br>
