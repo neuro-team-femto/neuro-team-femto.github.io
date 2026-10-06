@@ -14,7 +14,7 @@ The FEMTO Neuro Group is regularly enrolling participants for science experiment
 
 #### Latest experiments (enrollment opened, Spring 2026):
 
-1. [<span>Infos & inscription </span>](https://evento.renater.fr/survey/perception-de-la-parole-en-condition-de-retroaction-alteree-38zz194j)
+1. [<span>Infos & inscription </span>](https://evento.renater.fr/survey/perception-de-la-parole-en-condition-de-retroaction-alteree-9er8e7bz)
 
 ---
 
@@ -38,7 +38,7 @@ L'expérience consiste à écouter deux sons différents et à identifier celui 
 
 Les sons peuvent être des enregistrements déjà préparés ou des sons produits par vous-même (par exemple la syllabe « ta-ta ») à l'aide d'un microphone.
 
-Vous devrez effectuer plusieurs essais comportant des paires de sons présentant différentes modifications. L'expérience comprend environ 500 paires de sons, chacune durant quelques secondes, pour une durée totale d'environ 30 minutes.
+Vous devrez effectuer plusieurs essais comportant des paires de sons présentant différentes modifications. L'expérience comprend environ 500 paires de sons, chacune durant quelques secondes, pour une durée totale d'environ 45 minutes.
 
 Le rythme est libre : vous progressez à votre propre vitesse et pouvez faire des pauses à tout moment.
 
@@ -58,7 +58,7 @@ Le rythme est libre : vous progressez à votre propre vitesse et pouvez faire de
 
 *Lieu*: Supmicrotech: Hall AS2M, Salle 0.60.21 ([carte](../images/participate/neuro_map.pdf))
 
-*Inscription*: [<span > Accès au calendrier </span>](https://evento.renater.fr/survey/perception-de-la-parole-en-condition-de-retroaction-alteree-38zz194j)
+*Inscription*: [<span > Accès au calendrier </span>](https://evento.renater.fr/survey/perception-de-la-parole-en-condition-de-retroaction-alteree-9er8e7bz)
 
 **Contacts :**
 
