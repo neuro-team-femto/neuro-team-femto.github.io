@@ -26,6 +26,12 @@ Ranty, Z., Merchie, A., *Aucouturier, JJ*, Marie Gomot  <br>
 Speech Communications, Volume 183, September 2026, 103452<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/ranty_speechcomm_2026.pdf)
 
+_Control sciences for Neuroscience and Neurology_<br>
+Chaillet, A. *Aucouturier, JJ* <br>
+In: (Cieslak, Chaillet, Aucouturier, Eds.) _Control4Health: The emerging French community bridging control sciences and medical research_, GDR MACS, 2026<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/chaillet_book_2026.pdf)
+
+
 [_Human primary auditory cortex and insula encode perceptual decisions, not stimulus features_](https://www.biorxiv.org/content/10.64898/2026.07.03.736338.full.pdf) <br>
 *Des Lauriers, C.*, Pruvost-Robieux, E., Zanello, M., Filipescu, C., Moiraghi, A., Landré, E., Pallud, J., Defrance, G., Sharshar, T., *Aucouturier, JJ*, Gavaret, M., Llorens, A.<br>
 Biorxiv preprint, 2026.07.03.736338<br>
