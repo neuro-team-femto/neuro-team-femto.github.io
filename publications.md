@@ -16,6 +16,16 @@ In addition to resources specific to papers below, we also develop and maintain 
 
 ### 2026
 
+[_Infants respond to alterations in their own voice months before they recognize themselves in the mirror_](https://www.cell.com/current-biology/abstract/S0960-9822(26)01332-1) <br>
+Belia, M., Fabre, F., Borel, C., *Aucouturier, JJ.*, Faivre, N. and Goupil, L. <br>
+Current Biology, 2026<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/belia_curbio_2026.pdf)
+
+[_The social transfer function: how dynamic predictions of facial consequences drive judgements of social contingency_](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.400/139347/The-Social-Transfer-Function-How-Dynamic) <br>
+*Guha, R.*, Arias-Sarah, *Aucouturier, JJ* <br>
+Open Mind, 2026<br>
+[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/guha_openmind_2026.pdf)
+
 [_Learning the bistable cortical dynamics of the sleep-onset period_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014246) <br>
 *Hu, Z.*, *Aravind, M.*, Lei, X., Kutz, J. N., *Aucouturier, JJ* <br>
 PLOS Computational Biology, 22(4): e1014246<br>
@@ -31,9 +41,8 @@ Chaillet, A. *Aucouturier, JJ* <br>
 In: (Cieslak, Chaillet, Aucouturier, Eds.) _Control4Health: The emerging French community bridging control sciences and medical research_, GDR MACS, 2026<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/chaillet_book_2026.pdf)
 
-
 [_Human primary auditory cortex and insula encode perceptual decisions, not stimulus features_](https://www.biorxiv.org/content/10.64898/2026.07.03.736338.full.pdf) <br>
-*Des Lauriers, C.*, Pruvost-Robieux, E., Zanello, M., Filipescu, C., Moiraghi, A., Landré, E., Pallud, J., Defrance, G., Sharshar, T., *Aucouturier, JJ*, Gavaret, M., Llorens, A.<br>
+*Des Lauriers, C.*, Pruvost-Robieux, E., Zanello, M., Filipescu, C., Moiraghi, A., Landré, E., Pallud, J., Defrance, G., Sharshar, T., *Aucouturier, JJ*, Gavaret, M., *Llorens, A.*<br>
 Biorxiv preprint, 2026.07.03.736338<br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2026/des_lauriers_biorxiv_2026.pdf)
 
@@ -60,11 +69,6 @@ iScience, Volume 28, Issue 11113858, 2025. <br>
 Merchie, A., Ranty, Z., *Adl Zarrabi, A.*, Bonnet-Brilhault, F., Houy-Durand, E., *Aucouturier, JJ.* & Gomot, M. <br>
 Research in Autism, Vol. 124, 202599, 2025. <br>
 [<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/merchie_research_in_autism_2025.pdf)
-
-[_The social transfer function: how dynamic predictions of facial consequences drive judgements of social contingency_](https://osf.io/preprints/osf/v43hp_v1) <br>
-*Guha, R.*, Arias-Sarah, *Aucouturier, JJ* <br>
-OSF preprint, v43hp_v1<br>
-[<img style='display:inline;padding-top: 5px;' height='25' src='/images/site_icons/access.jpg'>]({{site.baseurl}}/articles/2025/guha_osf_2025.pdf)
 
 [_You Sound a Little Tense: L2 Tailored Clear TTS Using Durational Vowel Properties_](https://arxiv.org/abs/2506.23367)<br>
 *Tuttösí, P.*, Yeung, H. H., Wang Y., *Aucouturier, JJ*, Lim, A. <br>
