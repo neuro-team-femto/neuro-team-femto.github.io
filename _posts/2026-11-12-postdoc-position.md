@@ -56,6 +56,8 @@ The ideal applicant holds a PhD in control engineering or a closely related fiel
 
 #### How to apply:
 
+Application should be submitted to the CNRS employment platform. <font color='red'> <b> The application link will be shared shortly (watch this space). </b> </font> 
+
 Shortlisted candidates will be invited for an interview in January 2027.
 
 *Application material:*
@@ -65,7 +67,7 @@ Shortlisted candidates will be invited for an interview in January 2027.
 
 The successful applicant will be hired on a CNRS postdoctoral researcher contract, with salary in accordance with CNRS pay scales: for junior postdocs (0–2 years of experience), gross monthly salary generally starts around €2,800–€3,700 (roughly €2,100–€3,000 net); for more experienced postdocs (2+ years), gross monthly salary is about €3,700–€4,750 (roughly €3,100–€3,550 net). These salary figures are provided for guidance only and are indicative; they do not constitute a commitment and are subject to the CNRS pay grid in force at the date of hiring.
 
-For informal enquiries and to apply, please contact:
+For informal enquiries (but not for application), please contact:
 Jean-Julien Aucouturier ([jean.aucouturier@femto-st.fr](mailto:jean.aucouturier@femto-st.fr)). 
 
 
