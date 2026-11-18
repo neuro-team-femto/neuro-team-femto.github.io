@@ -56,7 +56,7 @@ The ideal applicant holds a PhD in control engineering or a closely related fiel
 
 #### How to apply:
 
-Application should be submitted to the CNRS employment platform. <font color='red'> <b> The application link will be shared shortly (watch this space). </b> </font> 
+Application should be submitted to the CNRS employment platform: [https://emploi.cnrs.fr/Offres/CDD/UMR6174-JEAAUC-013/Default.aspx](https://emploi.cnrs.fr/Offres/CDD/UMR6174-JEAAUC-013/Default.aspx) (link opens 23.11.2026)
 
 Shortlisted candidates will be invited for an interview in January 2027.
 
